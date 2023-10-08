@@ -1,0 +1,7482 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/129602943",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/129602943"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.8305316,
+          -38.3719329
+        ],
+        [
+          144.8302723,
+          -38.3719017
+        ],
+        [
+          144.8301175,
+          -38.3718831
+        ],
+        [
+          144.8299627,
+          -38.3718644
+        ],
+        [
+          144.8298079,
+          -38.3718458
+        ],
+        [
+          144.8295814,
+          -38.3718185
+        ],
+        [
+          144.8295213,
+          -38.3718113
+        ],
+        [
+          144.8294724,
+          -38.3720608
+        ],
+        [
+          144.8296049,
+          -38.3720768
+        ],
+        [
+          144.829588,
+          -38.372163
+        ],
+        [
+          144.8295115,
+          -38.3721538
+        ],
+        [
+          144.8294911,
+          -38.3722579
+        ],
+        [
+          144.8304455,
+          -38.3723728
+        ],
+        [
+          144.8305316,
+          -38.3719329
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/315229190",
+  "properties": {
+    "addr:housenumber": "991",
+    "addr:street": "Point Nepean Road",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 5950 4026",
+    "shop": "supermarket",
+    "website": "https://woolworths.com.au",
+    "id": "way/315229190"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9079475,
+          -38.3558985
+        ],
+        [
+          144.9078211,
+          -38.3558966
+        ],
+        [
+          144.9077672,
+          -38.3558963
+        ],
+        [
+          144.9076582,
+          -38.3558955
+        ],
+        [
+          144.9069938,
+          -38.3558887
+        ],
+        [
+          144.906989,
+          -38.3561346
+        ],
+        [
+          144.9069873,
+          -38.3562244
+        ],
+        [
+          144.9069854,
+          -38.3563221
+        ],
+        [
+          144.9078849,
+          -38.3563324
+        ],
+        [
+          144.9079437,
+          -38.3563129
+        ],
+        [
+          144.9079475,
+          -38.3558985
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/33069545",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "landuse": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/33069545"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1907584,
+          -38.308781
+        ],
+        [
+          145.1907577,
+          -38.3090428
+        ],
+        [
+          145.1906398,
+          -38.3090426
+        ],
+        [
+          145.1906392,
+          -38.3092572
+        ],
+        [
+          145.1915269,
+          -38.3092586
+        ],
+        [
+          145.1915281,
+          -38.3087822
+        ],
+        [
+          145.191233,
+          -38.3087817
+        ],
+        [
+          145.190878,
+          -38.3087812
+        ],
+        [
+          145.1907584,
+          -38.308781
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/313189859",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building:part": "yes",
+    "name": "Woolworths",
+    "note": "Yes, there are really 2 in the same centre",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/313189859"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1666453,
+          -38.1532864
+        ],
+        [
+          145.1667735,
+          -38.153318
+        ],
+        [
+          145.1667896,
+          -38.1532927
+        ],
+        [
+          145.1671845,
+          -38.1534001
+        ],
+        [
+          145.1674896,
+          -38.1527198
+        ],
+        [
+          145.1669529,
+          -38.1525904
+        ],
+        [
+          145.1667977,
+          -38.1529415
+        ],
+        [
+          145.1666453,
+          -38.1532864
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/45231460",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "building": "yes",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "source": "nearmap",
+    "id": "way/45231460"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1159142,
+          -38.0538912
+        ],
+        [
+          145.1157907,
+          -38.0539285
+        ],
+        [
+          145.1154852,
+          -38.0540209
+        ],
+        [
+          145.1158143,
+          -38.0547063
+        ],
+        [
+          145.1158717,
+          -38.0547696
+        ],
+        [
+          145.1160668,
+          -38.0547126
+        ],
+        [
+          145.1160229,
+          -38.0546382
+        ],
+        [
+          145.1161577,
+          -38.0545986
+        ],
+        [
+          145.116177,
+          -38.0544678
+        ],
+        [
+          145.1159142,
+          -38.0538912
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/39581668",
+  "properties": {
+    "branch": "Mentone",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "building:levels": "1",
+    "name": "Woolworths",
+    "roof:shape": "flat",
+    "shop": "supermarket",
+    "toilets:wheelchair": "no",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "way/39581668"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0620577,
+          -37.9813588
+        ],
+        [
+          145.0619882,
+          -37.981674
+        ],
+        [
+          145.0626568,
+          -37.9817749
+        ],
+        [
+          145.0626395,
+          -37.9818686
+        ],
+        [
+          145.0627847,
+          -37.9818873
+        ],
+        [
+          145.0628368,
+          -37.981619
+        ],
+        [
+          145.0627277,
+          -37.9816059
+        ],
+        [
+          145.0627563,
+          -37.9814585
+        ],
+        [
+          145.0626958,
+          -37.9814499
+        ],
+        [
+          145.062638,
+          -37.9814416
+        ],
+        [
+          145.0625994,
+          -37.9814361
+        ],
+        [
+          145.0623235,
+          -37.9813959
+        ],
+        [
+          145.0621656,
+          -37.9813758
+        ],
+        [
+          145.0620577,
+          -37.9813588
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/137381684",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "full_name": "Woolworths Highett",
+    "landuse": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/137381684"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0418026,
+          -37.9487943
+        ],
+        [
+          145.0402759,
+          -37.94862
+        ],
+        [
+          145.0402295,
+          -37.9488244
+        ],
+        [
+          145.0402133,
+          -37.9489061
+        ],
+        [
+          145.0401436,
+          -37.949266
+        ],
+        [
+          145.0401338,
+          -37.9492974
+        ],
+        [
+          145.0417726,
+          -37.9494898
+        ],
+        [
+          145.0418587,
+          -37.9488869
+        ],
+        [
+          145.0418026,
+          -37.9487943
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1039825454",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "level": "1",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/1039825454"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0555534,
+          -37.9590298
+        ],
+        [
+          145.0547736,
+          -37.9596337
+        ],
+        [
+          145.0551921,
+          -37.9599697
+        ],
+        [
+          145.0552367,
+          -37.9599351
+        ],
+        [
+          145.0552496,
+          -37.9599455
+        ],
+        [
+          145.0552649,
+          -37.9599452
+        ],
+        [
+          145.0552761,
+          -37.9599339
+        ],
+        [
+          145.0553046,
+          -37.9599118
+        ],
+        [
+          145.0555282,
+          -37.9597386
+        ],
+        [
+          145.0559519,
+          -37.9600786
+        ],
+        [
+          145.0564141,
+          -37.9597206
+        ],
+        [
+          145.0559827,
+          -37.9593744
+        ],
+        [
+          145.0555534,
+          -37.9590298
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/482165285",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "way/482165285"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.8444959,
+          -37.8424375
+        ],
+        [
+          144.8444894,
+          -37.8424747
+        ],
+        [
+          144.8444136,
+          -37.8429129
+        ],
+        [
+          144.8448355,
+          -37.8429584
+        ],
+        [
+          144.844827,
+          -37.8430073
+        ],
+        [
+          144.844917,
+          -37.843017
+        ],
+        [
+          144.8451053,
+          -37.8430373
+        ],
+        [
+          144.8451141,
+          -37.8429837
+        ],
+        [
+          144.8452873,
+          -37.8430011
+        ],
+        [
+          144.8453292,
+          -37.8430055
+        ],
+        [
+          144.8453527,
+          -37.842862
+        ],
+        [
+          144.845186,
+          -37.8428449
+        ],
+        [
+          144.8452008,
+          -37.8427591
+        ],
+        [
+          144.8452351,
+          -37.8425672
+        ],
+        [
+          144.8453006,
+          -37.8425725
+        ],
+        [
+          144.8453094,
+          -37.8425271
+        ],
+        [
+          144.8452083,
+          -37.8425146
+        ],
+        [
+          144.845219,
+          -37.8424525
+        ],
+        [
+          144.8450659,
+          -37.842436
+        ],
+        [
+          144.8450552,
+          -37.8424978
+        ],
+        [
+          144.8444959,
+          -37.8424375
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/242170433",
+  "properties": {
+    "addr:city": "St Albans",
+    "addr:housenumber": "315-321",
+    "addr:postcode": "3021",
+    "addr:street": "Main Road East",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "layer": "1",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "way/242170433"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.8014164,
+          -37.7452587
+        ],
+        [
+          144.8015642,
+          -37.745276
+        ],
+        [
+          144.8015778,
+          -37.7452036
+        ],
+        [
+          144.8017792,
+          -37.7452272
+        ],
+        [
+          144.801831,
+          -37.7449519
+        ],
+        [
+          144.801867,
+          -37.7449561
+        ],
+        [
+          144.801942,
+          -37.7445572
+        ],
+        [
+          144.8019468,
+          -37.7445318
+        ],
+        [
+          144.8017328,
+          -37.7445067
+        ],
+        [
+          144.8015635,
+          -37.7444868
+        ],
+        [
+          144.8015587,
+          -37.7445122
+        ],
+        [
+          144.8015132,
+          -37.7445068
+        ],
+        [
+          144.8014382,
+          -37.7449057
+        ],
+        [
+          144.8014817,
+          -37.7449108
+        ],
+        [
+          144.8014164,
+          -37.7452587
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/27370878",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "layer": "1",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "source": "yahoo",
+    "source:name": "survey",
+    "wheelchair": "yes",
+    "id": "way/27370878"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.8925657,
+          -37.7379126
+        ],
+        [
+          144.8925291,
+          -37.73815
+        ],
+        [
+          144.8923746,
+          -37.7381364
+        ],
+        [
+          144.8923575,
+          -37.7382993
+        ],
+        [
+          144.8925496,
+          -37.7383184
+        ],
+        [
+          144.8932656,
+          -37.7383798
+        ],
+        [
+          144.8933016,
+          -37.7383876
+        ],
+        [
+          144.8933613,
+          -37.7380006
+        ],
+        [
+          144.8925657,
+          -37.7379126
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/320594363",
+  "properties": {
+    "addr:housenumber": "353",
+    "addr:street": "Hampton Street",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/320594363"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0017315,
+          -37.9369255
+        ],
+        [
+          145.0016751,
+          -37.9372445
+        ],
+        [
+          145.0018693,
+          -37.9372655
+        ],
+        [
+          145.0024266,
+          -37.9373215
+        ],
+        [
+          145.0024861,
+          -37.9370146
+        ],
+        [
+          145.0021554,
+          -37.9369752
+        ],
+        [
+          145.0017315,
+          -37.9369255
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1033660875",
+  "properties": {
+    "addr:housenumber": "104",
+    "addr:street": "Church Street",
+    "branch": "Middle Brighton",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/1033660875"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9951119,
+          -37.9153808
+        ],
+        [
+          144.9951696,
+          -37.9154309
+        ],
+        [
+          144.9951779,
+          -37.9154381
+        ],
+        [
+          144.9949182,
+          -37.9156242
+        ],
+        [
+          144.9949287,
+          -37.9156333
+        ],
+        [
+          144.9949352,
+          -37.915639
+        ],
+        [
+          144.9949,
+          -37.9156642
+        ],
+        [
+          144.9949668,
+          -37.9157221
+        ],
+        [
+          144.9950935,
+          -37.9158321
+        ],
+        [
+          144.9951265,
+          -37.9158608
+        ],
+        [
+          144.9951975,
+          -37.9158099
+        ],
+        [
+          144.9952162,
+          -37.9158261
+        ],
+        [
+          144.9952331,
+          -37.9158408
+        ],
+        [
+          144.9954165,
+          -37.9157093
+        ],
+        [
+          144.9953717,
+          -37.9156704
+        ],
+        [
+          144.9958509,
+          -37.9153269
+        ],
+        [
+          144.9958601,
+          -37.9153202
+        ],
+        [
+          144.9958558,
+          -37.9153165
+        ],
+        [
+          144.9956058,
+          -37.9150964
+        ],
+        [
+          144.9955994,
+          -37.9151006
+        ],
+        [
+          144.9955954,
+          -37.9151026
+        ],
+        [
+          144.9955523,
+          -37.9150651
+        ],
+        [
+          144.9955429,
+          -37.9150705
+        ],
+        [
+          144.995147,
+          -37.9153559
+        ],
+        [
+          144.9951234,
+          -37.9153729
+        ],
+        [
+          144.9951119,
+          -37.9153808
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/42387687",
+  "properties": {
+    "branch": "Moorabbin",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "operator": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/42387687"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0387873,
+          -37.9343843
+        ],
+        [
+          145.0387484,
+          -37.9345567
+        ],
+        [
+          145.0387042,
+          -37.9345483
+        ],
+        [
+          145.0386949,
+          -37.9345887
+        ],
+        [
+          145.0386827,
+          -37.9346414
+        ],
+        [
+          145.0387274,
+          -37.9346499
+        ],
+        [
+          145.0386961,
+          -37.9347884
+        ],
+        [
+          145.0386526,
+          -37.9347841
+        ],
+        [
+          145.038621,
+          -37.934781
+        ],
+        [
+          145.0385781,
+          -37.9349809
+        ],
+        [
+          145.039195,
+          -37.9350592
+        ],
+        [
+          145.0393037,
+          -37.9346191
+        ],
+        [
+          145.0392259,
+          -37.9346117
+        ],
+        [
+          145.0392648,
+          -37.9344467
+        ],
+        [
+          145.0387873,
+          -37.9343843
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/38133869",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-12:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "way/38133869"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0413276,
+          -37.888697
+        ],
+        [
+          145.0408081,
+          -37.8886382
+        ],
+        [
+          145.0407115,
+          -37.88919
+        ],
+        [
+          145.0412276,
+          -37.8892441
+        ],
+        [
+          145.0412521,
+          -37.8890977
+        ],
+        [
+          145.0412669,
+          -37.8890191
+        ],
+        [
+          145.0412879,
+          -37.8889079
+        ],
+        [
+          145.0413276,
+          -37.888697
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/116061199",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "way/116061199"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0562527,
+          -37.8873894
+        ],
+        [
+          145.0562053,
+          -37.8876484
+        ],
+        [
+          145.0561631,
+          -37.8878793
+        ],
+        [
+          145.0565764,
+          -37.8879264
+        ],
+        [
+          145.0566661,
+          -37.8874366
+        ],
+        [
+          145.0562527,
+          -37.8873894
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/180072288",
+  "properties": {
+    "addr:housenumber": "551-557",
+    "addr:street": "Warrigal Road",
+    "branch": "Ashwood",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "building:levels": "2",
+    "name": "Woolworths",
+    "opening_hours": "06:00-24:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "roof:levels": "0",
+    "shop": "supermarket",
+    "source": "local_knowledge",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "way/180072288"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0935211,
+          -37.866037
+        ],
+        [
+          145.0934043,
+          -37.8667655
+        ],
+        [
+          145.0939598,
+          -37.8668371
+        ],
+        [
+          145.0940912,
+          -37.8661024
+        ],
+        [
+          145.0935211,
+          -37.866037
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/38313264",
+  "properties": {
+    "addr:housenumber": "481",
+    "addr:street": "Plummer Street",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "building:levels": "1",
+    "check_date": "2023-04-03",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "way/38313264"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9298411,
+          -37.8316067
+        ],
+        [
+          144.9318349,
+          -37.8312223
+        ],
+        [
+          144.9316452,
+          -37.8306085
+        ],
+        [
+          144.9310506,
+          -37.8307232
+        ],
+        [
+          144.9310116,
+          -37.8305968
+        ],
+        [
+          144.9301095,
+          -37.8307709
+        ],
+        [
+          144.9301493,
+          -37.8308994
+        ],
+        [
+          144.9296522,
+          -37.8309953
+        ],
+        [
+          144.9298411,
+          -37.8316067
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/902713937",
+  "properties": {
+    "branch": "Southern Cross",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "layer": "-1",
+    "level": "1",
+    "location": "surface",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/902713937"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9534479,
+          -37.8188716
+        ],
+        [
+          144.9533437,
+          -37.8188978
+        ],
+        [
+          144.9533111,
+          -37.818906
+        ],
+        [
+          144.9532702,
+          -37.8189156
+        ],
+        [
+          144.953186,
+          -37.8189354
+        ],
+        [
+          144.9530768,
+          -37.8189611
+        ],
+        [
+          144.9530889,
+          -37.818995
+        ],
+        [
+          144.9531627,
+          -37.819175
+        ],
+        [
+          144.9533558,
+          -37.8191256
+        ],
+        [
+          144.9535332,
+          -37.8190803
+        ],
+        [
+          144.9534479,
+          -37.8188716
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/32217294",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "layer": "-1",
+    "location": "surface",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "way/32217294"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9836896,
+          -37.8016839
+        ],
+        [
+          144.9837583,
+          -37.8012561
+        ],
+        [
+          144.9835079,
+          -37.8012309
+        ],
+        [
+          144.9835023,
+          -37.8012751
+        ],
+        [
+          144.983253,
+          -37.8012509
+        ],
+        [
+          144.9832612,
+          -37.8012072
+        ],
+        [
+          144.9827965,
+          -37.8011589
+        ],
+        [
+          144.9827112,
+          -37.8015974
+        ],
+        [
+          144.9829015,
+          -37.801618
+        ],
+        [
+          144.9836695,
+          -37.8016923
+        ],
+        [
+          144.9836813,
+          -37.8016874
+        ],
+        [
+          144.9836896,
+          -37.8016839
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/25717450",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "name": "Woolworths",
+    "operator": "Woolworths",
+    "shop": "supermarket",
+    "source": "nearmap",
+    "source:name": "survey",
+    "id": "way/25717450"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9212071,
+          -37.7672995
+        ],
+        [
+          144.9210602,
+          -37.7681444
+        ],
+        [
+          144.9216473,
+          -37.7682075
+        ],
+        [
+          144.921767,
+          -37.7675099
+        ],
+        [
+          144.9217197,
+          -37.7674641
+        ],
+        [
+          144.9217214,
+          -37.7674565
+        ],
+        [
+          144.9213906,
+          -37.7674189
+        ],
+        [
+          144.9214076,
+          -37.767322
+        ],
+        [
+          144.9212071,
+          -37.7672995
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/5078930",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "building": "retail",
+    "landuse": "retail",
+    "name": "Woolworths",
+    "name:en": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/5078930"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9596996,
+          -37.7694557
+        ],
+        [
+          144.9596014,
+          -37.7699663
+        ],
+        [
+          144.9603265,
+          -37.7700535
+        ],
+        [
+          144.9604244,
+          -37.7695445
+        ],
+        [
+          144.9602841,
+          -37.7695277
+        ],
+        [
+          144.9602907,
+          -37.7694934
+        ],
+        [
+          144.9601337,
+          -37.7694746
+        ],
+        [
+          144.9601056,
+          -37.7694712
+        ],
+        [
+          144.9600993,
+          -37.7695038
+        ],
+        [
+          144.9596996,
+          -37.7694557
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/26585550",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "landuse": "retail",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "way/26585550"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9635923,
+          -37.7435325
+        ],
+        [
+          144.9635367,
+          -37.7438899
+        ],
+        [
+          144.9634943,
+          -37.7441532
+        ],
+        [
+          144.9640314,
+          -37.7442052
+        ],
+        [
+          144.9641131,
+          -37.7436755
+        ],
+        [
+          144.9637821,
+          -37.7436411
+        ],
+        [
+          144.9637951,
+          -37.7435537
+        ],
+        [
+          144.9635923,
+          -37.7435325
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/28296634",
+  "properties": {
+    "addr:city": "Preston",
+    "addr:housenumber": "50",
+    "addr:postcode": "3072",
+    "addr:street": "Plenty Road",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "full_name": "Woolworths Preston South",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 94782022",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/28296634"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0033782,
+          -37.7506987
+        ],
+        [
+          145.0032358,
+          -37.7514349
+        ],
+        [
+          145.00365,
+          -37.7514835
+        ],
+        [
+          145.0036368,
+          -37.7515583
+        ],
+        [
+          145.0036025,
+          -37.7515548
+        ],
+        [
+          145.0035936,
+          -37.7515998
+        ],
+        [
+          145.0037639,
+          -37.7516194
+        ],
+        [
+          145.0039261,
+          -37.7507632
+        ],
+        [
+          145.0033782,
+          -37.7506987
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/220483801",
+  "properties": {
+    "addr:city": "Preston",
+    "addr:housenumber": "334",
+    "addr:postcode": "3072",
+    "addr:street": "Murray Road",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "full_name": "Woolworths Preston",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 06:00-00:00",
+    "phone": "+61 3 94782022",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "way/220483801"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0023415,
+          -37.7369619
+        ],
+        [
+          145.0022919,
+          -37.7372867
+        ],
+        [
+          145.0024491,
+          -37.7373017
+        ],
+        [
+          145.0024452,
+          -37.7373271
+        ],
+        [
+          145.0025153,
+          -37.7373338
+        ],
+        [
+          145.0030919,
+          -37.7373888
+        ],
+        [
+          145.0030955,
+          -37.737365
+        ],
+        [
+          145.0033167,
+          -37.7373861
+        ],
+        [
+          145.003376,
+          -37.7369977
+        ],
+        [
+          145.0033858,
+          -37.7369329
+        ],
+        [
+          145.0030535,
+          -37.7369011
+        ],
+        [
+          145.0030406,
+          -37.7369852
+        ],
+        [
+          145.0024318,
+          -37.7369271
+        ],
+        [
+          145.0024253,
+          -37.7369699
+        ],
+        [
+          145.0023415,
+          -37.7369619
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/220714521",
+  "properties": {
+    "addr:housenumber": "17",
+    "addr:postcode": "3101",
+    "addr:state": "VIC",
+    "addr:street": "Walpole Street",
+    "addr:suburb": "Kew",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "full_name": "Woolworths Kew",
+    "layer": "1",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Sa 07:00-00:00; Su 07:00-24:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/220714521"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.03045,
+          -37.8055329
+        ],
+        [
+          145.0303945,
+          -37.805819
+        ],
+        [
+          145.0304801,
+          -37.8058294
+        ],
+        [
+          145.0304675,
+          -37.8058942
+        ],
+        [
+          145.0313515,
+          -37.8060013
+        ],
+        [
+          145.0314196,
+          -37.8056504
+        ],
+        [
+          145.03045,
+          -37.8055329
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/179749474",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "commercial",
+    "landuse": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "way/179749474"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0830339,
+          -37.812316
+        ],
+        [
+          145.0829577,
+          -37.8126937
+        ],
+        [
+          145.0828928,
+          -37.8126855
+        ],
+        [
+          145.0828455,
+          -37.8129201
+        ],
+        [
+          145.083284,
+          -37.8129738
+        ],
+        [
+          145.0832946,
+          -37.8129215
+        ],
+        [
+          145.0833159,
+          -37.8128059
+        ],
+        [
+          145.0833302,
+          -37.8127375
+        ],
+        [
+          145.0834644,
+          -37.812755
+        ],
+        [
+          145.0834889,
+          -37.8126335
+        ],
+        [
+          145.0834339,
+          -37.8126266
+        ],
+        [
+          145.0834451,
+          -37.8125712
+        ],
+        [
+          145.0834852,
+          -37.8123729
+        ],
+        [
+          145.0830339,
+          -37.812316
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/709826601",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "building:levels": "1",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "way/709826601"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0688488,
+          -37.7595277
+        ],
+        [
+          145.0690049,
+          -37.758737
+        ],
+        [
+          145.0683778,
+          -37.7586576
+        ],
+        [
+          145.0682194,
+          -37.7594554
+        ],
+        [
+          145.0688488,
+          -37.7595277
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/307247316",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building:part": "yes",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/307247316"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0282002,
+          -37.7379693
+        ],
+        [
+          145.0280884,
+          -37.7385868
+        ],
+        [
+          145.0286646,
+          -37.738654
+        ],
+        [
+          145.0287828,
+          -37.7380355
+        ],
+        [
+          145.0282002,
+          -37.7379693
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/74132052",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "source": "nearmap",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/74132052"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.7281415,
+          -37.5780776
+        ],
+        [
+          144.7280047,
+          -37.5780266
+        ],
+        [
+          144.7277016,
+          -37.5778863
+        ],
+        [
+          144.7274065,
+          -37.5783051
+        ],
+        [
+          144.7276557,
+          -37.5784171
+        ],
+        [
+          144.7278099,
+          -37.5784865
+        ],
+        [
+          144.7279491,
+          -37.5785491
+        ],
+        [
+          144.7281012,
+          -37.5786175
+        ],
+        [
+          144.7283936,
+          -37.5781988
+        ],
+        [
+          144.7281415,
+          -37.5780776
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300805338",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/300805338"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0143327,
+          -37.6720922
+        ],
+        [
+          145.0143212,
+          -37.6721615
+        ],
+        [
+          145.0142682,
+          -37.6721559
+        ],
+        [
+          145.0142235,
+          -37.6724172
+        ],
+        [
+          145.0142877,
+          -37.6724254
+        ],
+        [
+          145.014258,
+          -37.6725734
+        ],
+        [
+          145.0147599,
+          -37.6726343
+        ],
+        [
+          145.0148683,
+          -37.672061
+        ],
+        [
+          145.0146576,
+          -37.6720372
+        ],
+        [
+          145.0146404,
+          -37.6721294
+        ],
+        [
+          145.0143327,
+          -37.6720922
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/288302256",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "full_name": "Woolworths Bundoora",
+    "name": "Woolworths",
+    "opening_hours": "PH,Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/288302256"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0580717,
+          -37.6947443
+        ],
+        [
+          145.0580657,
+          -37.6947969
+        ],
+        [
+          145.0580642,
+          -37.6948871
+        ],
+        [
+          145.0580255,
+          -37.695168
+        ],
+        [
+          145.0583191,
+          -37.6952384
+        ],
+        [
+          145.0583485,
+          -37.6952409
+        ],
+        [
+          145.0584106,
+          -37.6952462
+        ],
+        [
+          145.0585027,
+          -37.695254
+        ],
+        [
+          145.0589614,
+          -37.6952927
+        ],
+        [
+          145.0590247,
+          -37.6948247
+        ],
+        [
+          145.0588389,
+          -37.694809
+        ],
+        [
+          145.0588368,
+          -37.6948198
+        ],
+        [
+          145.0581338,
+          -37.6947534
+        ],
+        [
+          145.0581342,
+          -37.6947499
+        ],
+        [
+          145.058083,
+          -37.6947453
+        ],
+        [
+          145.0580717,
+          -37.6947443
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/49742215",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "way/49742215"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0997379,
+          -37.7043624
+        ],
+        [
+          145.0996498,
+          -37.7048947
+        ],
+        [
+          145.0996408,
+          -37.7049496
+        ],
+        [
+          145.0996763,
+          -37.7049533
+        ],
+        [
+          145.0997133,
+          -37.7049571
+        ],
+        [
+          145.099728,
+          -37.7049338
+        ],
+        [
+          145.0998288,
+          -37.7049436
+        ],
+        [
+          145.0998328,
+          -37.7049177
+        ],
+        [
+          145.100392,
+          -37.7049722
+        ],
+        [
+          145.1003841,
+          -37.7050228
+        ],
+        [
+          145.1004221,
+          -37.7050265
+        ],
+        [
+          145.1003892,
+          -37.7052361
+        ],
+        [
+          145.1004226,
+          -37.7052394
+        ],
+        [
+          145.1004839,
+          -37.7052455
+        ],
+        [
+          145.1005306,
+          -37.7048656
+        ],
+        [
+          145.1004871,
+          -37.704861
+        ],
+        [
+          145.1004284,
+          -37.7048528
+        ],
+        [
+          145.1004421,
+          -37.704769
+        ],
+        [
+          145.1004683,
+          -37.7047716
+        ],
+        [
+          145.100492,
+          -37.7046234
+        ],
+        [
+          145.100473,
+          -37.7046215
+        ],
+        [
+          145.1004888,
+          -37.7045251
+        ],
+        [
+          145.1004491,
+          -37.704521
+        ],
+        [
+          145.1004207,
+          -37.7045181
+        ],
+        [
+          145.1004254,
+          -37.7044896
+        ],
+        [
+          145.0998293,
+          -37.704428
+        ],
+        [
+          145.0998384,
+          -37.7043728
+        ],
+        [
+          145.0997379,
+          -37.7043624
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/532830670",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/532830670"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.0743797,
+          -37.648382
+        ],
+        [
+          145.0743046,
+          -37.6484521
+        ],
+        [
+          145.0743046,
+          -37.6485498
+        ],
+        [
+          145.0743609,
+          -37.6485455
+        ],
+        [
+          145.0744575,
+          -37.6487728
+        ],
+        [
+          145.074672,
+          -37.6487919
+        ],
+        [
+          145.0747123,
+          -37.6488301
+        ],
+        [
+          145.0750261,
+          -37.6488641
+        ],
+        [
+          145.0755008,
+          -37.6489235
+        ],
+        [
+          145.0755518,
+          -37.6486135
+        ],
+        [
+          145.0756242,
+          -37.6486114
+        ],
+        [
+          145.0756537,
+          -37.6483523
+        ],
+        [
+          145.075002,
+          -37.6482822
+        ],
+        [
+          145.0747927,
+          -37.6483204
+        ],
+        [
+          145.0748008,
+          -37.6483756
+        ],
+        [
+          145.074715,
+          -37.6483905
+        ],
+        [
+          145.0746962,
+          -37.6484372
+        ],
+        [
+          145.0746184,
+          -37.6484287
+        ],
+        [
+          145.0746211,
+          -37.6484075
+        ],
+        [
+          145.0743797,
+          -37.648382
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1188874629",
+  "properties": {
+    "branch": "Kalllo Towncentre",
+    "brand": "Woolworths",
+    "building": "yes",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "shop": "supermarket",
+    "id": "way/1188874629"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          144.9603376,
+          -37.5344212
+        ],
+        [
+          144.9602317,
+          -37.5350492
+        ],
+        [
+          144.9608198,
+          -37.5351138
+        ],
+        [
+          144.9608649,
+          -37.5348522
+        ],
+        [
+          144.9608767,
+          -37.5347835
+        ],
+        [
+          144.9609275,
+          -37.5344883
+        ],
+        [
+          144.9603376,
+          -37.5344212
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/32742446",
+  "properties": {
+    "addr:housenumber": "166-175",
+    "addr:street": "Nepean Highway",
+    "branch": "Seaford",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "building": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "operator:wikipedia": "en:Woolworths Supermarkets",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/32742446"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1262631,
+          -38.1090318
+        ],
+        [
+          145.1262577,
+          -38.1091975
+        ],
+        [
+          145.1262516,
+          -38.1094127
+        ],
+        [
+          145.126247,
+          -38.1095679
+        ],
+        [
+          145.1268974,
+          -38.1095774
+        ],
+        [
+          145.1269215,
+          -38.1095584
+        ],
+        [
+          145.1269296,
+          -38.1091036
+        ],
+        [
+          145.1269001,
+          -38.1090839
+        ],
+        [
+          145.1267181,
+          -38.1090853
+        ],
+        [
+          145.1267176,
+          -38.109043
+        ],
+        [
+          145.1267172,
+          -38.1090145
+        ],
+        [
+          145.1262805,
+          -38.1090097
+        ],
+        [
+          145.1262631,
+          -38.1090318
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1023515331",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "indoor": "room",
+    "name": "Woolworths",
+    "opening_hours": "07:00-22:00",
+    "phone": "+61 3 8793 3358",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/1023515331"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.2079738,
+          -38.1412416
+        ],
+        [
+          145.2076512,
+          -38.140873
+        ],
+        [
+          145.2075654,
+          -38.1408518
+        ],
+        [
+          145.2073601,
+          -38.1409431
+        ],
+        [
+          145.2072167,
+          -38.1410111
+        ],
+        [
+          145.2070531,
+          -38.141086
+        ],
+        [
+          145.2073792,
+          -38.1415114
+        ],
+        [
+          145.207564,
+          -38.1414276
+        ],
+        [
+          145.2079738,
+          -38.1412416
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/297124598",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "building:colour": "tan",
+    "landuse": "retail",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "roof:colour": "grey",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/297124598"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1834726,
+          -38.1017039
+        ],
+        [
+          145.1833253,
+          -38.1024241
+        ],
+        [
+          145.1838736,
+          -38.1024899
+        ],
+        [
+          145.1838816,
+          -38.1024488
+        ],
+        [
+          145.1839509,
+          -38.1020905
+        ],
+        [
+          145.1840126,
+          -38.1017712
+        ],
+        [
+          145.1839666,
+          -38.1017655
+        ],
+        [
+          145.1834726,
+          -38.1017039
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1088332200",
+  "properties": {
+    "addr:housenumber": "102-114",
+    "addr:street": "Gladesville Boulevard",
+    "addr:unit": "14A",
+    "branch": "Patterson Lakes",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building:part": "yes",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/1088332200"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1437694,
+          -38.067452
+        ],
+        [
+          145.1437152,
+          -38.0673649
+        ],
+        [
+          145.1436984,
+          -38.0673379
+        ],
+        [
+          145.1433831,
+          -38.0674595
+        ],
+        [
+          145.1434017,
+          -38.0674898
+        ],
+        [
+          145.1433512,
+          -38.0675091
+        ],
+        [
+          145.1433327,
+          -38.0674789
+        ],
+        [
+          145.1432316,
+          -38.0675179
+        ],
+        [
+          145.1432694,
+          -38.0675793
+        ],
+        [
+          145.1432359,
+          -38.0676337
+        ],
+        [
+          145.1430295,
+          -38.0678017
+        ],
+        [
+          145.1430706,
+          -38.0678686
+        ],
+        [
+          145.1430965,
+          -38.0679109
+        ],
+        [
+          145.1431289,
+          -38.0679635
+        ],
+        [
+          145.1431515,
+          -38.0680002
+        ],
+        [
+          145.1431615,
+          -38.0679964
+        ],
+        [
+          145.1432041,
+          -38.0679802
+        ],
+        [
+          145.1432205,
+          -38.0679741
+        ],
+        [
+          145.143237,
+          -38.0679691
+        ],
+        [
+          145.1433573,
+          -38.0679226
+        ],
+        [
+          145.1434994,
+          -38.0678677
+        ],
+        [
+          145.1435806,
+          -38.0678365
+        ],
+        [
+          145.1436749,
+          -38.0678008
+        ],
+        [
+          145.1437597,
+          -38.0677685
+        ],
+        [
+          145.1437407,
+          -38.0677375
+        ],
+        [
+          145.1437154,
+          -38.0676964
+        ],
+        [
+          145.1436941,
+          -38.0676617
+        ],
+        [
+          145.1436704,
+          -38.0676233
+        ],
+        [
+          145.1436368,
+          -38.0675685
+        ],
+        [
+          145.1437318,
+          -38.0675329
+        ],
+        [
+          145.1436986,
+          -38.067479
+        ],
+        [
+          145.1437694,
+          -38.067452
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/221010720",
+  "properties": {
+    "addr:housenumber": "302",
+    "addr:street": "Springvale Road",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/221010720"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1519301,
+          -37.9531765
+        ],
+        [
+          145.1515938,
+          -37.953139
+        ],
+        [
+          145.1514132,
+          -37.9531173
+        ],
+        [
+          145.1513804,
+          -37.953294
+        ],
+        [
+          145.1513762,
+          -37.9533166
+        ],
+        [
+          145.1513603,
+          -37.9534021
+        ],
+        [
+          145.1513375,
+          -37.9535251
+        ],
+        [
+          145.1512606,
+          -37.9535163
+        ],
+        [
+          145.1512419,
+          -37.9536173
+        ],
+        [
+          145.1516858,
+          -37.9536669
+        ],
+        [
+          145.1516918,
+          -37.9536689
+        ],
+        [
+          145.1517923,
+          -37.9536805
+        ],
+        [
+          145.1518165,
+          -37.9536833
+        ],
+        [
+          145.151834,
+          -37.9536853
+        ],
+        [
+          145.1519301,
+          -37.9531765
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/224823942",
+  "properties": {
+    "addr:city": "Pakenham",
+    "addr:housenumber": "55",
+    "addr:postcode": "3810",
+    "addr:province": "Victoria",
+    "addr:street": "John Street",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "way/224823942"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.4798524,
+          -38.0786083
+        ],
+        [
+          145.4797527,
+          -38.0789268
+        ],
+        [
+          145.4796162,
+          -38.0789025
+        ],
+        [
+          145.4796111,
+          -38.0789203
+        ],
+        [
+          145.4796065,
+          -38.0789361
+        ],
+        [
+          145.479628,
+          -38.0789402
+        ],
+        [
+          145.4796089,
+          -38.0790075
+        ],
+        [
+          145.4806458,
+          -38.0792045
+        ],
+        [
+          145.4806778,
+          -38.0791083
+        ],
+        [
+          145.4812661,
+          -38.0792188
+        ],
+        [
+          145.481203,
+          -38.0791613
+        ],
+        [
+          145.4807953,
+          -38.078788
+        ],
+        [
+          145.4799482,
+          -38.0786291
+        ],
+        [
+          145.4798524,
+          -38.0786083
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/194204570",
+  "properties": {
+    "addr:housenumber": "28",
+    "addr:postcode": "3807",
+    "addr:state": "VIC",
+    "addr:street": "Sylvia Road",
+    "addr:suburb": "Beaconsfield",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "building": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8793 3349",
+    "shop": "supermarket",
+    "id": "way/194204570"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.3686825,
+          -38.0445319
+        ],
+        [
+          145.36883,
+          -38.0444621
+        ],
+        [
+          145.3693472,
+          -38.0439815
+        ],
+        [
+          145.369219,
+          -38.0439024
+        ],
+        [
+          145.3691707,
+          -38.0439467
+        ],
+        [
+          145.3690199,
+          -38.0438421
+        ],
+        [
+          145.3687506,
+          -38.0438234
+        ],
+        [
+          145.3683764,
+          -38.0441506
+        ],
+        [
+          145.3685558,
+          -38.0443741
+        ],
+        [
+          145.3686825,
+          -38.0445319
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/41654970",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "layer": "1",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au",
+    "id": "way/41654970"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1346642,
+          -37.8530335
+        ],
+        [
+          145.1347099,
+          -37.852764
+        ],
+        [
+          145.1347406,
+          -37.852557
+        ],
+        [
+          145.1345942,
+          -37.8525417
+        ],
+        [
+          145.134598,
+          -37.8525129
+        ],
+        [
+          145.1341461,
+          -37.8524691
+        ],
+        [
+          145.1341252,
+          -37.8526158
+        ],
+        [
+          145.1340793,
+          -37.8529381
+        ],
+        [
+          145.1340738,
+          -37.8529767
+        ],
+        [
+          145.1341042,
+          -37.8529801
+        ],
+        [
+          145.1344955,
+          -37.8530235
+        ],
+        [
+          145.134485,
+          -37.8530921
+        ],
+        [
+          145.134558,
+          -37.8530996
+        ],
+        [
+          145.1346642,
+          -37.8530335
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/37320016",
+  "properties": {
+    "addr:housenumber": "2A",
+    "addr:street": "Stevens Road",
+    "alt_name": "Woolworths Vermont;Vermont Woolworths",
+    "branch": "Vermont",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "check_date": "2023-03-26",
+    "layer": "1",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:ref:abn": "88000014675",
+    "phone": "+61 3 8841 7624",
+    "ref": "3173",
+    "shop": "supermarket",
+    "id": "way/37320016"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1840002,
+          -37.8376872
+        ],
+        [
+          145.1847308,
+          -37.8377739
+        ],
+        [
+          145.1847935,
+          -37.8377354
+        ],
+        [
+          145.1847999,
+          -37.8377058
+        ],
+        [
+          145.1847493,
+          -37.8376994
+        ],
+        [
+          145.1847062,
+          -37.8376939
+        ],
+        [
+          145.184714,
+          -37.8376541
+        ],
+        [
+          145.1847784,
+          -37.8373261
+        ],
+        [
+          145.1847746,
+          -37.8373133
+        ],
+        [
+          145.1847674,
+          -37.837306
+        ],
+        [
+          145.1847543,
+          -37.837299
+        ],
+        [
+          145.1847649,
+          -37.8372435
+        ],
+        [
+          145.1840976,
+          -37.8371628
+        ],
+        [
+          145.1840433,
+          -37.8374675
+        ],
+        [
+          145.1840002,
+          -37.8376872
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/109562315",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/109562315"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.2354601,
+          -37.921424
+        ],
+        [
+          145.2354971,
+          -37.9212313
+        ],
+        [
+          145.2355487,
+          -37.9209627
+        ],
+        [
+          145.235573,
+          -37.9208361
+        ],
+        [
+          145.2355319,
+          -37.9207857
+        ],
+        [
+          145.2354838,
+          -37.92078
+        ],
+        [
+          145.2354856,
+          -37.9207703
+        ],
+        [
+          145.2354002,
+          -37.9207601
+        ],
+        [
+          145.2354217,
+          -37.9206479
+        ],
+        [
+          145.2350878,
+          -37.9206081
+        ],
+        [
+          145.2351019,
+          -37.9205346
+        ],
+        [
+          145.2349504,
+          -37.9205165
+        ],
+        [
+          145.2347914,
+          -37.9213441
+        ],
+        [
+          145.2354601,
+          -37.921424
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1166006850",
+  "properties": {
+    "addr:housenumber": "1385",
+    "addr:postcode": "3179",
+    "addr:state": "VIC",
+    "addr:street": "Ferntree Gully Road",
+    "addr:suburb": "Scoresby",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "building": "yes",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "way/1166006850"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.2316898,
+          -37.8980842
+        ],
+        [
+          145.231688,
+          -37.8982622
+        ],
+        [
+          145.2316838,
+          -37.8986694
+        ],
+        [
+          145.232049,
+          -37.8986717
+        ],
+        [
+          145.232055,
+          -37.8980865
+        ],
+        [
+          145.2316898,
+          -37.8980842
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/32079895",
+  "properties": {
+    "addr:housenumber": "1038-1042",
+    "addr:street": "Burwood Highway",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "layer": "1",
+    "name": "Woolworths",
+    "opening_hours": "24/7",
+    "phone": "+61 3 8756 2416",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au",
+    "id": "way/32079895"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.2932235,
+          -37.889623
+        ],
+        [
+          145.2936396,
+          -37.889694
+        ],
+        [
+          145.2939142,
+          -37.8897007
+        ],
+        [
+          145.2941031,
+          -37.8896804
+        ],
+        [
+          145.2940659,
+          -37.8895901
+        ],
+        [
+          145.2941672,
+          -37.8895601
+        ],
+        [
+          145.2940866,
+          -37.8891776
+        ],
+        [
+          145.2931595,
+          -37.88931
+        ],
+        [
+          145.2932235,
+          -37.889623
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/108178136",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "yes",
+    "full_name": "Woolworths Mountain Gate",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "phone": "+61 3 8756 2440",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au",
+    "id": "way/108178136"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.2773465,
+          -37.8834435
+        ],
+        [
+          145.2774538,
+          -37.8840383
+        ],
+        [
+          145.2774953,
+          -37.8840658
+        ],
+        [
+          145.2778454,
+          -37.8840267
+        ],
+        [
+          145.2778353,
+          -37.883972
+        ],
+        [
+          145.2778306,
+          -37.8839462
+        ],
+        [
+          145.2779894,
+          -37.8839265
+        ],
+        [
+          145.2781887,
+          -37.8839018
+        ],
+        [
+          145.2782718,
+          -37.8836985
+        ],
+        [
+          145.2777783,
+          -37.8835641
+        ],
+        [
+          145.2778386,
+          -37.8834202
+        ],
+        [
+          145.2777448,
+          -37.8833949
+        ],
+        [
+          145.2776697,
+          -37.8833747
+        ],
+        [
+          145.277612,
+          -37.8835123
+        ],
+        [
+          145.2773465,
+          -37.8834435
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/85466397",
+  "properties": {
+    "addr:housenumber": "659",
+    "addr:postcode": "3153",
+    "addr:state": "VIC",
+    "addr:street": "Mountain Highway",
+    "addr:suburb": "Bayswater",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8756 2413",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/85466397"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.2630483,
+          -37.841123
+        ],
+        [
+          145.2630476,
+          -37.8409246
+        ],
+        [
+          145.2629625,
+          -37.8409248
+        ],
+        [
+          145.2629617,
+          -37.8407148
+        ],
+        [
+          145.2628789,
+          -37.840715
+        ],
+        [
+          145.2628786,
+          -37.8406536
+        ],
+        [
+          145.2627458,
+          -37.8406539
+        ],
+        [
+          145.2627459,
+          -37.8406976
+        ],
+        [
+          145.2623573,
+          -37.8406984
+        ],
+        [
+          145.2623574,
+          -37.8407405
+        ],
+        [
+          145.2623717,
+          -37.8407404
+        ],
+        [
+          145.2623725,
+          -37.8410233
+        ],
+        [
+          145.2623624,
+          -37.8410233
+        ],
+        [
+          145.2623626,
+          -37.8410787
+        ],
+        [
+          145.2623872,
+          -37.8410786
+        ],
+        [
+          145.2623873,
+          -37.8411015
+        ],
+        [
+          145.2625268,
+          -37.8411012
+        ],
+        [
+          145.2625269,
+          -37.8411241
+        ],
+        [
+          145.2630483,
+          -37.841123
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/418248053",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "building:part": "yes",
+    "name": "Woolworths",
+    "opening_hours": "06:00-00:00",
+    "operator": "Woolworths",
+    "postal_code": "3155",
+    "shop": "supermarket",
+    "source": "local_knowledge",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/418248053"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.2845956,
+          -37.8619495
+        ],
+        [
+          145.2846221,
+          -37.86182
+        ],
+        [
+          145.2847292,
+          -37.8618345
+        ],
+        [
+          145.284735,
+          -37.8618002
+        ],
+        [
+          145.2847784,
+          -37.8615738
+        ],
+        [
+          145.2847824,
+          -37.8615531
+        ],
+        [
+          145.2846577,
+          -37.8615394
+        ],
+        [
+          145.2846834,
+          -37.8614328
+        ],
+        [
+          145.2846273,
+          -37.8614274
+        ],
+        [
+          145.284161,
+          -37.8613744
+        ],
+        [
+          145.2841114,
+          -37.8616489
+        ],
+        [
+          145.2840173,
+          -37.8616384
+        ],
+        [
+          145.28398,
+          -37.8618434
+        ],
+        [
+          145.2840264,
+          -37.8618487
+        ],
+        [
+          145.2841432,
+          -37.8618639
+        ],
+        [
+          145.2841386,
+          -37.8618942
+        ],
+        [
+          145.2845956,
+          -37.8619495
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/135971292",
+  "properties": {
+    "addr:housenumber": "195",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "way/135971292"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1475925,
+          -37.8316269
+        ],
+        [
+          145.147599,
+          -37.8315935
+        ],
+        [
+          145.1476938,
+          -37.8311058
+        ],
+        [
+          145.1476278,
+          -37.8310966
+        ],
+        [
+          145.1476633,
+          -37.8309284
+        ],
+        [
+          145.1471998,
+          -37.8308709
+        ],
+        [
+          145.1471482,
+          -37.8311496
+        ],
+        [
+          145.1471131,
+          -37.8311446
+        ],
+        [
+          145.1470601,
+          -37.8313678
+        ],
+        [
+          145.1470223,
+          -37.8315559
+        ],
+        [
+          145.1475925,
+          -37.8316269
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1185033336",
+  "properties": {
+    "addr:housenumber": "958/978",
+    "addr:postcode": "3109",
+    "addr:state": "VIC",
+    "addr:street": "Doncaster Road",
+    "addr:suburb": "Doncaster East",
+    "branch": "Doncaster",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "building": "yes",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "0388417612",
+    "shop": "supermarket",
+    "id": "way/1185033336"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1586259,
+          -37.789744
+        ],
+        [
+          145.1587099,
+          -37.7892885
+        ],
+        [
+          145.1586215,
+          -37.7892771
+        ],
+        [
+          145.1586173,
+          -37.7892971
+        ],
+        [
+          145.1585401,
+          -37.7892878
+        ],
+        [
+          145.1585381,
+          -37.7892989
+        ],
+        [
+          145.158453,
+          -37.7892894
+        ],
+        [
+          145.1584602,
+          -37.7892512
+        ],
+        [
+          145.157962,
+          -37.7891926
+        ],
+        [
+          145.1579556,
+          -37.7892302
+        ],
+        [
+          145.1579451,
+          -37.7892919
+        ],
+        [
+          145.1579153,
+          -37.7893151
+        ],
+        [
+          145.1578701,
+          -37.7895761
+        ],
+        [
+          145.157897,
+          -37.7895916
+        ],
+        [
+          145.1579174,
+          -37.7896033
+        ],
+        [
+          145.1579996,
+          -37.7896129
+        ],
+        [
+          145.1579897,
+          -37.7896695
+        ],
+        [
+          145.1580515,
+          -37.7896767
+        ],
+        [
+          145.1586259,
+          -37.789744
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/107692700",
+  "properties": {
+    "addr:housenumber": "16-29",
+    "addr:street": "Burwood Highway",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8756 2410",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au",
+    "wheelchair": "yes",
+    "id": "way/107692700"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.3529914,
+          -37.9095888
+        ],
+        [
+          145.3529545,
+          -37.9095476
+        ],
+        [
+          145.3529136,
+          -37.9095056
+        ],
+        [
+          145.3529376,
+          -37.9094924
+        ],
+        [
+          145.3528262,
+          -37.9093738
+        ],
+        [
+          145.3528683,
+          -37.9093494
+        ],
+        [
+          145.3527995,
+          -37.9092751
+        ],
+        [
+          145.3526512,
+          -37.9093597
+        ],
+        [
+          145.3526253,
+          -37.909333
+        ],
+        [
+          145.3525532,
+          -37.9093717
+        ],
+        [
+          145.3523933,
+          -37.9094621
+        ],
+        [
+          145.3527004,
+          -37.9097741
+        ],
+        [
+          145.352744,
+          -37.90979
+        ],
+        [
+          145.3528351,
+          -37.9097994
+        ],
+        [
+          145.3529574,
+          -37.9098014
+        ],
+        [
+          145.3529914,
+          -37.9095888
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/132983798",
+  "properties": {
+    "addr:housenumber": "383-385",
+    "addr:postcode": "3782",
+    "addr:street": "Belgrave-Gembrook Road",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "phone": "+61 3 5949 4303",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au",
+    "id": "way/132983798"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.4449277,
+          -37.9276005
+        ],
+        [
+          145.4449718,
+          -37.9275691
+        ],
+        [
+          145.445289,
+          -37.9278144
+        ],
+        [
+          145.4451197,
+          -37.9279311
+        ],
+        [
+          145.4452359,
+          -37.9280261
+        ],
+        [
+          145.4452802,
+          -37.9280228
+        ],
+        [
+          145.4455618,
+          -37.9277509
+        ],
+        [
+          145.4456929,
+          -37.9276574
+        ],
+        [
+          145.4456555,
+          -37.9276108
+        ],
+        [
+          145.4456902,
+          -37.927587
+        ],
+        [
+          145.4455966,
+          -37.9275102
+        ],
+        [
+          145.4456457,
+          -37.9274703
+        ],
+        [
+          145.4452484,
+          -37.9272479
+        ],
+        [
+          145.4448502,
+          -37.9275389
+        ],
+        [
+          145.4449277,
+          -37.9276005
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/71679091",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "building": "retail",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "source": "local_knowledge;nearmap",
+    "website": "https://www.woolworths.com.au/",
+    "id": "way/71679091"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          145.1505876,
+          -37.7138101
+        ],
+        [
+          145.1500194,
+          -37.7137446
+        ],
+        [
+          145.1499648,
+          -37.7140412
+        ],
+        [
+          145.1499039,
+          -37.7143724
+        ],
+        [
+          145.1501561,
+          -37.7144015
+        ],
+        [
+          145.1501498,
+          -37.714436
+        ],
+        [
+          145.1501451,
+          -37.7144613
+        ],
+        [
+          145.1501441,
+          -37.7144668
+        ],
+        [
+          145.1504601,
+          -37.7145032
+        ],
+        [
+          145.1505876,
+          -37.7138101
+        ]
+      ]
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/260710501",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/260710501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1644531,
+      -37.8358294
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/280897094",
+  "properties": {
+    "addr:housenumber": "1341",
+    "addr:street": "Dandenong Road",
+    "alt_name": "Woolworths Chadstone;Chadstone Woolworths",
+    "branch": "Chadstone",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "check_date": "2023-04-13",
+    "name": "Woolworths",
+    "operator:ref:abn": "88000014675",
+    "phone": "+61383476545",
+    "ref": "3335",
+    "shop": "supermarket",
+    "toilets": "no",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/280897094"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0842821,
+      -37.887188
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/302129542",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "node/302129542"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9683576,
+      -37.7981407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/319601982",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "level": "1",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/319601982"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1648652,
+      -37.8747173
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/320839137",
+  "properties": {
+    "addr:housenumber": "17-39",
+    "addr:postcode": "3153",
+    "addr:state": "VIC",
+    "addr:street": "Canterbury Road",
+    "addr:suburb": "Bayswater North",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 06:00-00:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8756 2407",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/320839137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3020376,
+      -37.8229337
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/323466241",
+  "properties": {
+    "addr:housenumber": "534-542",
+    "addr:postcode": "3137",
+    "addr:state": "VIC",
+    "addr:street": "Mount Dandenong Road",
+    "addr:suburb": "Kilysth",
+    "addr:unit": "1",
+    "branch": "Kilsyth",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8756 2437",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/shop/storelocator/vic-kilsyth-3369",
+    "id": "node/323466241"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3108152,
+      -37.803235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/324207736",
+  "properties": {
+    "branch": "Wheelers Hill",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/324207736"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1898734,
+      -37.9097755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/325276537",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/325276537"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.5669149,
+      -37.6855804
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/338906162",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/338906162"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3494123,
+      -37.7601449
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/355763256",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/355763256"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1276618,
+      -37.8784183
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/364632405",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "contact:website": "http://www.woolworths.com.au",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/364632405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2782581,
+      -38.0816497
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/365210772",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/365210772"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.126413,
+      -38.140202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/365211158",
+  "properties": {
+    "addr:housenumber": "89",
+    "addr:street": "Centre Dandenong Road",
+    "addr:suburb": "Dingley Village",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/365211158"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1329898,
+      -37.9834708
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/367127279",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "check_date:opening_hours": "2022-09-16",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/367127279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0898802,
+      -38.1838062
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/368387444",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/368387444"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1715701,
+      -38.2244567
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/427864919",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/427864919"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1727068,
+      -37.9931146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/449383332",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/449383332"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0587077,
+      -37.8845285
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/465186446",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/465186446"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1264487,
+      -37.7869012
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/469459628",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/469459628"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0271098,
+      -37.8628805
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/473363977",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/473363977"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9387874,
+      -37.7070041
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/492905311",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/492905311"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0741496,
+      -37.6520545
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/506153647",
+  "properties": {
+    "branch": "Victoria Harbour",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "diet:halal": "yes",
+    "diet:kosher": "yes",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Fr 07:00-23:00; Sa,Su 08:00-23:00",
+    "shop": "supermarket",
+    "toilets:wheelchair": "no",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/506153647"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9436054,
+      -37.8205606
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/570482501",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/570482501"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0052368,
+      -37.8481054
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/570758510",
+  "properties": {
+    "addr:housenumber": "117",
+    "addr:street": "Acland Street",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-00:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61383475870",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/570758510"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.978811,
+      -37.8685209
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/592109271",
+  "properties": {
+    "addr:housename": "Centro Oakleigh",
+    "addr:housenumber": "39",
+    "addr:street": "Hanover Street",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au",
+    "id": "node/592109271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0910073,
+      -37.9009686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/602904712",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/602904712"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7778007,
+      -37.699412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/613996660",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "full_name": "Woolworths QV",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au",
+    "wheelchair": "yes",
+    "id": "node/613996660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.965377,
+      -37.811152
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/621539656",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/621539656"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.6072287,
+      -37.8880208
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/625525246",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/625525246"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3468395,
+      -38.0295132
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/653304918",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "check_date": "2023-04-11",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/653304918"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.6127209,
+      -37.7818758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/661600405",
+  "properties": {
+    "air_conditioning": "yes",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 06:00-24:00",
+    "shop": "supermarket",
+    "stroller": "yes",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/661600405"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.92789,
+      -37.7871515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/666494359",
+  "properties": {
+    "branch": "Clarinda",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "full_name": "Woolworths 3283",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/666494359"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1037428,
+      -37.9403963
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/666846427",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "full_name": "Woolworths Barkly Square",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 7:00-0:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 93814442",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/666846427"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9618499,
+      -37.7758181
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/692570445",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/692570445"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0480895,
+      -38.2453496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/697190767",
+  "properties": {
+    "addr:housenumber": "71",
+    "addr:postcode": "3016",
+    "addr:state": "VIC",
+    "addr:street": "Kororoit Creek Road",
+    "addr:suburb": "Williamstown",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/697190767"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8825866,
+      -37.8577633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/737245243",
+  "properties": {
+    "amenity": "loading_dock",
+    "id": "node/737245243"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9952162,
+      -37.9158261
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/738299902",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "phone": "+61 3 8756 2431",
+    "shop": "supermarket",
+    "source": "Survey",
+    "website": "https://www.woolworths.com.au",
+    "id": "node/738299902"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.408825,
+      -37.8753514
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/773517588",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/773517588"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1136659,
+      -37.7729494
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/848442300",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/848442300"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0816743,
+      -37.656882
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/879573514",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/879573514"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.662848,
+      -37.8992104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/881751151",
+  "properties": {
+    "addr:housenumber": "34",
+    "addr:postcode": "3043",
+    "addr:state": "VIC",
+    "addr:street": "Gladstone Park Drive",
+    "addr:suburb": "Gladstone Park",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8347 6581",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/881751151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8849079,
+      -37.6875423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/907672698",
+  "properties": {
+    "addr:housenumber": "239-241",
+    "addr:postcode": "3116",
+    "addr:state": "VIC",
+    "addr:street": "Maroondah Highway",
+    "addr:suburb": "Chirnside Park",
+    "branch": "Chirnside Park",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8756 2422",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/907672698"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3136509,
+      -37.7577207
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/907674176",
+  "properties": {
+    "addr:housenumber": "171-175",
+    "addr:postcode": "3134",
+    "addr:state": "VIC",
+    "addr:street": "Maroondah Highway",
+    "addr:suburb": "Ringwood",
+    "branch": "Eastland",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "level": "0",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Fr 07:00-20:00; Sa-Su 07:00-21:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8841 7618",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/907674176"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2284585,
+      -37.8120412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/932432827",
+  "properties": {
+    "addr:city": "Balaclava",
+    "addr:housenumber": "220",
+    "addr:postcode": "3183",
+    "addr:street": "Carlisle Street",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "phone": "+61 3 92235858",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/932432827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.991277,
+      -37.868243
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/960803840",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/960803840"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1885926,
+      -37.935591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/974244034",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "full_name": "Woolworths Abbotsford",
+    "level": "1",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 7:00-22:00",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/974244034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9954578,
+      -37.8096773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1121118008",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "check_date": "2023-04-20",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1121118008"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0416219,
+      -37.7701721
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1237251100",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1237251100"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.887236,
+      -37.7146375
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1239740988",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1239740988"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2663806,
+      -38.032744
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1264365500",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1264365500"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8319234,
+      -37.7803951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1278126819",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1278126819"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7734061,
+      -37.7508329
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1397881073",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1397881073"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0834939,
+      -37.9219021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1428952003",
+  "properties": {
+    "branch": "Camberwell",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/1428952003"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.058971,
+      -37.8294287
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1453609907",
+  "properties": {
+    "amenity": "parking",
+    "parking": "underground",
+    "id": "node/1453609907"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1347099,
+      -37.852764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1489479515",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/1489479515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0175181,
+      -37.6541932
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1507128265",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1507128265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2496865,
+      -38.0770591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1507146935",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1507146935"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.4836573,
+      -38.0770815
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1557920938",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1557920938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2589665,
+      -37.9763036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583411761",
+  "properties": {
+    "branch": "Baxter",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1583411761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1594628,
+      -38.1941735
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583419365",
+  "properties": {
+    "branch": "Thrift Park",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths",
+    "shop": "supermarket",
+    "toilets:wheelchair": "no",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/1583419365"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.077111,
+      -37.9841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583423009",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1583423009"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0421121,
+      -37.9195218
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1583425762",
+  "properties": {
+    "addr:city": "Mordialloc",
+    "addr:housename": "Mordialloc Plaza",
+    "addr:housenumber": "598-618",
+    "addr:postcode": "3195",
+    "addr:street": "Main Street",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths",
+    "phone": "+61 3 8523 8774",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1583425762"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0867012,
+      -38.0080122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1637371488",
+  "properties": {
+    "addr:city": "Epping",
+    "addr:postcode": "3076",
+    "addr:street": "Epping Road & Lyndarum Avenue",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "07:00-00:00",
+    "phone": "+61 3 9422 5280",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/1637371488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0274063,
+      -37.6278019
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1671352490",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1671352490"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.4874367,
+      -38.1987144
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1766341034",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1766341034"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3006679,
+      -38.0168578
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1769427536",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "source": "survey",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1769427536"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9200112,
+      -37.5744459
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1787891677",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/1787891677"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8609684,
+      -37.7502451
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1793129409",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "full_name": "Woolworths Taylors Hill",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "(03) 8361 4713",
+    "shop": "supermarket",
+    "website": "www.woolwoths.com.au",
+    "id": "node/1793129409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7516,
+      -37.7230371
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1865223677",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 9422 5259",
+    "shop": "supermarket",
+    "id": "node/1865223677"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.060937,
+      -37.6666811
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2045666756",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2045666756"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1680902,
+      -37.7621241
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2134802234",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2134802234"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.4372643,
+      -38.0727117
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2140806514",
+  "properties": {
+    "addr:housenumber": "224-238",
+    "addr:postcode": "3136",
+    "addr:state": "VIC",
+    "addr:street": "Mount Dandenong Road",
+    "addr:suburb": "Croydon",
+    "branch": "Croydon",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 8756 2428",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2140806514"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2830309,
+      -37.8001309
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2172299027",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2172299027"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9182109,
+      -37.6803737
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2172680214",
+  "properties": {
+    "entrance": "yes",
+    "name": "Woolworths all hours entry",
+    "id": "node/2172680214"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1839666,
+      -38.1017655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2172680829",
+  "properties": {
+    "entrance": "main",
+    "id": "node/2172680829"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1262577,
+      -38.1091975
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2172680831",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/2172680831"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1262516,
+      -38.1094127
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2175878773",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/2175878773"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0386949,
+      -37.9345887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2175878776",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/2175878776"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0386526,
+      -37.9347841
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2184871393",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2184871393"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9573651,
+      -37.8306564
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2186428219",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2186428219"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9384264,
+      -37.5976715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2196694206",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2196694206"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2177309,
+      -37.9874773
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2206160219",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2206160219"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8896964,
+      -37.7732859
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2268930957",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2268930957"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9326166,
+      -37.6397204
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2285130249",
+  "properties": {
+    "branch": "Taylors Lakes",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "operator": "Woolworths",
+    "phone": "+61 3 8361 4716",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2285130249"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7994466,
+      -37.7024047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2336787644",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2336787644"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3172853,
+      -38.0859314
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2343283592",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/2343283592"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7024369,
+      -37.882065
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2594883815",
+  "properties": {
+    "door": "automatic",
+    "entrance": "main",
+    "id": "node/2594883815"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3528351,
+      -37.9097994
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2594883832",
+  "properties": {
+    "entrance": "main",
+    "id": "node/2594883832"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3529545,
+      -37.9095476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2713818750",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2713818750"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9927111,
+      -37.8474492
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2744817180",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2744817180"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9835419,
+      -37.7296798
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2866280635",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/2866280635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0475954,
+      -37.7128214
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2879690541",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "level": "0",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "toilets:wheelchair": "yes",
+    "wheelchair": "yes",
+    "id": "node/2879690541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0363418,
+      -37.8208755
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2982440685",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/2982440685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8466274,
+      -37.8353274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3217264075",
+  "properties": {
+    "entrance": "main",
+    "id": "node/3217264075"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1667977,
+      -38.1529415
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3242046364",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/3242046364"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7424967,
+      -37.867388
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3273992474",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/3273992474"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.6773257,
+      -37.8742111
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3274001441",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/3274001441"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.6871827,
+      -37.862377
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3297551761",
+  "properties": {
+    "addr:housenumber": "568",
+    "addr:postcode": "3139",
+    "addr:state": "VIC",
+    "addr:street": "Warburton Highway",
+    "addr:suburb": "Seville",
+    "branch": "Seville",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "phone": "+61 3 5949 4322",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/3297551761"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.4590878,
+      -37.7771492
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3326642561",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/3326642561"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.248277,
+      -38.005338
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3397769631",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/3397769631"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0025153,
+      -37.7373338
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3446496032",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/3446496032"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1004491,
+      -37.704521
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3509393117",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/3509393117"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.5610829,
+      -37.6868858
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3529507479",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "wheelchair": "yes",
+    "id": "node/3529507479"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9969896,
+      -37.8371902
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3624177345",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/3624177345"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.914809,
+      -37.5941929
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3712913960",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/3712913960"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3009876,
+      -38.0664709
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3809529805",
+  "properties": {
+    "entrance": "main",
+    "id": "node/3809529805"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2777448,
+      -37.8833949
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3830281282",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/3830281282"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2939531,
+      -38.1002009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3951181648",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/3951181648"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7344038,
+      -37.8843527
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4023408048",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/4023408048"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.324723,
+      -38.1036137
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4044969841",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/4044969841"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1276968,
+      -37.5870274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4273046751",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/4273046751"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0081654,
+      -37.8405629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481582407",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/8481582407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8302723,
+      -38.3719017
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481582408",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/8481582408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8301175,
+      -38.3718831
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481582409",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/8481582409"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8299627,
+      -38.3718644
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481582410",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/8481582410"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8298079,
+      -38.3718458
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8481582411",
+  "properties": {
+    "brand": "BWS",
+    "brand:wikidata": "Q4836848",
+    "brand:wikipedia": "en:BWS (liquor retailer)",
+    "name": "BWS Rye",
+    "phone": "+61 3 5950 4001",
+    "shop": "alcohol",
+    "website": "https://bws.com.au",
+    "id": "node/8481582411"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8295814,
+      -38.3718185
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10616913654",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/10616913654"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8904717,
+      -38.3615342
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9795965669",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/9795965669"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0389791,
+      -38.2178096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4301770789",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-00:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/4301770789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.6738163,
+      -37.8400099
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9587022425",
+  "properties": {
+    "entrance": "main",
+    "source": "survey",
+    "id": "node/9587022425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1157907,
+      -38.0539285
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10744692273",
+  "properties": {
+    "entrance": "main",
+    "source": "survey",
+    "id": "node/10744692273"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.062638,
+      -37.9814416
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4751840538",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/4751840538"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7267233,
+      -37.8979161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9810327305",
+  "properties": {
+    "artwork_type": "mural",
+    "tourism": "artwork",
+    "id": "node/9810327305"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8017328,
+      -37.7445067
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9523035636",
+  "properties": {
+    "amenity": "parking_entrance",
+    "parking": "multi-storey",
+    "id": "node/9523035636"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9950935,
+      -37.9158321
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9523035638",
+  "properties": {
+    "amenity": "parking_entrance",
+    "parking": "multi-storey",
+    "id": "node/9523035638"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9949668,
+      -37.9157221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6594078628",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "description": "Woolworths Metro",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/6594078628"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.010113,
+      -37.8630862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11047923036",
+  "properties": {
+    "entrance": "main",
+    "id": "node/11047923036"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0562053,
+      -37.8876484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5905417827",
+  "properties": {
+    "addr:housenumber": "742",
+    "addr:postcode": "3123",
+    "addr:state": "VIC",
+    "addr:street": "Toorak Road",
+    "addr:suburb": "Hawthorn East",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "phone": "+61 3 9624 6225",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/5905417827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0422777,
+      -37.8456299
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6868706671",
+  "properties": {
+    "addr:street": "Waterfront Way",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "07:00-22:00",
+    "shop": "supermarket",
+    "id": "node/6868706671"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9389849,
+      -37.8120908
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9869557343",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/9869557343"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9635577,
+      -37.82581
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6632403651",
+  "properties": {
+    "addr:housenumber": "727",
+    "addr:postcode": "3008",
+    "addr:state": "VIC",
+    "addr:street": "Collins Street",
+    "addr:suburb": "Docklands",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/6632403651"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9500958,
+      -37.8210674
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8384425112",
+  "properties": {
+    "entrance": "main",
+    "id": "node/8384425112"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9533437,
+      -37.8188978
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5637523521",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "level": "0",
+    "name": "Woolworths Metro",
+    "opening_hours": "Mo-Fr 06:00-19:30; Sa-Su closed; PH closed",
+    "organic": "yes",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "node/5637523521"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9560406,
+      -37.8159063
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6547561972",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "check_date:opening_hours": "2023-03-31",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "node/6547561972"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.940678,
+      -37.7963605
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9618866204",
+  "properties": {
+    "entrance": "main",
+    "id": "node/9618866204"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9836813,
+      -37.8016874
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7018056386",
+  "properties": {
+    "addr:housenumber": "247-259",
+    "addr:postcode": "3067",
+    "addr:state": "VIC",
+    "addr:street": "Johnston Street",
+    "addr:suburb": "Abbotsford",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths Metro",
+    "operator": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/7018056386"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9949422,
+      -37.8002028
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5670650317",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/5670650317"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9638516,
+      -37.7578955
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7227066219",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths - Middle Camberwell",
+    "shop": "supermarket",
+    "id": "node/7227066219"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0773307,
+      -37.8340002
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4578704404",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "level": "0",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "node/4578704404"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1213954,
+      -37.8196524
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8219338729",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "shop": "supermarket",
+    "id": "node/8219338729"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.5708161,
+      -37.7221703
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10568103910",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/10568103910"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7430619,
+      -37.7301438
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6897812303",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/6897812303"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7129264,
+      -37.5938407
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8950242658",
+  "properties": {
+    "access": "yes",
+    "door": "automatic",
+    "entrance": "shop",
+    "id": "node/8950242658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7276557,
+      -37.5784171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8950242659",
+  "properties": {
+    "access": "yes",
+    "door": "automatic",
+    "entrance": "shop",
+    "id": "node/8950242659"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7278099,
+      -37.5784865
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8950242660",
+  "properties": {
+    "access": "yes",
+    "door": "automatic",
+    "entrance": "shop",
+    "id": "node/8950242660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7279491,
+      -37.5785491
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6622784025",
+  "properties": {
+    "entrance": "yes",
+    "id": "node/6622784025"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1004871,
+      -37.704861
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10779406192",
+  "properties": {
+    "access": "private",
+    "amenity": "loading_dock",
+    "door": "loadingdock",
+    "id": "node/10779406192"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0996763,
+      -37.7049533
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5170096205",
+  "properties": {
+    "entrance": "main",
+    "id": "node/5170096205"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0750261,
+      -37.6488641
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9750631115",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "id": "node/9750631115"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9153001,
+      -37.6161622
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10564579756",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/10564579756"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1001228,
+      -37.6025453
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5873480044",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/5873480044"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0899513,
+      -37.5940251
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9177685386",
+  "properties": {
+    "amenity": "loading_dock",
+    "entrance": "service",
+    "id": "node/9177685386"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1267176,
+      -38.109043
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7710860699",
+  "properties": {
+    "branch": "Cranbourne West",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/7710860699"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2506305,
+      -38.1080715
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4855714667",
+  "properties": {
+    "branch": "Keysborough",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "full_name": "Woolworths Keysborough South",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/4855714667"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1606959,
+      -38.0117526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10285701169",
+  "properties": {
+    "branch": "Dandenong Junction",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/10285701169"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2052615,
+      -37.974201
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5515348694",
+  "properties": {
+    "addr:postcode": "3809",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "internet_access": "wlan",
+    "name": "Woolworths",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/5515348694"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.4349416,
+      -38.0642602
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10830947846",
+  "properties": {
+    "amenity": "atm",
+    "brand": "Commonwealth Bank",
+    "brand:wikidata": "Q285328",
+    "drive_through": "no",
+    "operator": "Commonwealth Bank",
+    "operator:wikidata": "Q285328",
+    "id": "node/10830947846"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3685558,
+      -38.0443741
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7520934197",
+  "properties": {
+    "branch": "M-City",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "shop": "supermarket",
+    "id": "node/7520934197"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1399271,
+      -37.9212208
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6970525764",
+  "properties": {
+    "brand": "Woolworths",
+    "name": "Woolworths",
+    "not:brand:wikidata": "Q3249145",
+    "shop": "supermarket",
+    "website": "https://www.woolworths.com.au/",
+    "id": "node/6970525764"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1339749,
+      -37.8489987
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10277506889",
+  "properties": {
+    "branch": "Knox",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "name": "Woolworths",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/10277506889"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2379217,
+      -37.8677686
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10743106112",
+  "properties": {
+    "air_conditioning": "yes",
+    "branch": "Blackburn North",
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "currency:AUD": "yes",
+    "level": "1",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "payment:american_express": "yes",
+    "payment:apple_pay": "yes",
+    "payment:card": "yes",
+    "payment:cards": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:debit_cards": "yes",
+    "payment:everyday_pay": "yes",
+    "payment:google_pay": "yes",
+    "payment:mastercard": "yes",
+    "payment:samsung_pay": "yes",
+    "payment:visa": "yes",
+    "phone": "+61388417627",
+    "shop": "supermarket",
+    "toilets": "no",
+    "website": "https://woolworths.com.au",
+    "id": "node/10743106112"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1527346,
+      -37.8123394
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10813930608",
+  "properties": {
+    "entrance": "main",
+    "id": "node/10813930608"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1499648,
+      -37.7140412
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9104671053",
+  "properties": {
+    "brand": "Woolworths",
+    "brand:wikidata": "Q3249145",
+    "brand:wikipedia": "en:Woolworths Supermarkets",
+    "name": "Woolworths",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "operator": "Woolworths Group",
+    "operator:wikidata": "Q607272",
+    "shop": "supermarket",
+    "id": "node/9104671053"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1356929,
+      -37.6849181
+    ]
+  }
+}
+]
+}

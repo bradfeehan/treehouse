@@ -1,0 +1,3404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-10-08T12:11:00Z" areas="2023-10-08T08:59:30Z"/>
+
+  <node id="1429660630" lat="-38.3718113" lon="144.8295213"/>
+  <node id="1429660634" lat="-38.3723728" lon="144.8304455"/>
+  <node id="1429660637" lat="-38.3719329" lon="144.8305316"/>
+  <node id="1429660638" lat="-38.3722579" lon="144.8294911"/>
+  <node id="8232703070" lat="-38.3720608" lon="144.8294724"/>
+  <node id="8232703071" lat="-38.3721538" lon="144.8295115"/>
+  <node id="8232703072" lat="-38.3720768" lon="144.8296049"/>
+  <node id="8232703073" lat="-38.3721630" lon="144.8295880"/>
+  <node id="8481582407" lat="-38.3719017" lon="144.8302723">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="8481582408" lat="-38.3718831" lon="144.8301175">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="8481582409" lat="-38.3718644" lon="144.8299627">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="8481582410" lat="-38.3718458" lon="144.8298079">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="8481582411" lat="-38.3718185" lon="144.8295814">
+    <tag k="brand" v="BWS"/>
+    <tag k="brand:wikidata" v="Q4836848"/>
+    <tag k="brand:wikipedia" v="en:BWS (liquor retailer)"/>
+    <tag k="name" v="BWS Rye"/>
+    <tag k="phone" v="+61 3 5950 4001"/>
+    <tag k="shop" v="alcohol"/>
+    <tag k="website" v="https://bws.com.au"/>
+  </node>
+  <node id="10616913654" lat="-38.3615342" lon="144.8904717">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="246714330" lat="-38.3558966" lon="144.9078211"/>
+  <node id="246714331" lat="-38.3558985" lon="144.9079475"/>
+  <node id="246714332" lat="-38.3563129" lon="144.9079437"/>
+  <node id="3213342886" lat="-38.3563221" lon="144.9069854"/>
+  <node id="3213342891" lat="-38.3558887" lon="144.9069938"/>
+  <node id="3285010488" lat="-38.3558955" lon="144.9076582"/>
+  <node id="9871354023" lat="-38.3563324" lon="144.9078849"/>
+  <node id="10181976868" lat="-38.3561346" lon="144.9069890"/>
+  <node id="10181976869" lat="-38.3562244" lon="144.9069873"/>
+  <node id="10181976871" lat="-38.3558963" lon="144.9077672"/>
+  <node id="692570445" lat="-38.2453496" lon="145.0480895">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="9795965669" lat="-38.2178096" lon="145.0389791">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="367127279" lat="-38.1838062" lon="145.0898802">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="check_date:opening_hours" v="2022-09-16"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="373087124" lat="-38.3092572" lon="145.1906392"/>
+  <node id="373087125" lat="-38.3092586" lon="145.1915269"/>
+  <node id="373087123" lat="-38.3087810" lon="145.1907584"/>
+  <node id="373087126" lat="-38.3087822" lon="145.1915281"/>
+  <node id="2117563152" lat="-38.3090428" lon="145.1907577"/>
+  <node id="2117563156" lat="-38.3090426" lon="145.1906398"/>
+  <node id="9705194278" lat="-38.3087812" lon="145.1908780"/>
+  <node id="9705194309" lat="-38.3087817" lon="145.1912330"/>
+  <node id="368387444" lat="-38.2244567" lon="145.1715701">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1583411761" lat="-38.1941735" lon="145.1594628">
+    <tag k="branch" v="Baxter"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="367126545" lat="-38.1534001" lon="145.1671845"/>
+  <node id="367126546" lat="-38.1532927" lon="145.1667896"/>
+  <node id="367126547" lat="-38.1533180" lon="145.1667735"/>
+  <node id="3190979724" lat="-38.1525904" lon="145.1669529"/>
+  <node id="3190979726" lat="-38.1527198" lon="145.1674896"/>
+  <node id="3190979727" lat="-38.1532864" lon="145.1666453"/>
+  <node id="3217264075" lat="-38.1529415" lon="145.1667977">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="1671352490" lat="-38.1987144" lon="145.4874367">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="879573514" lat="-37.8992104" lon="144.6628480">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="621539656" lat="-37.8880208" lon="144.6072287">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2343283592" lat="-37.8820650" lon="144.7024369">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3273992474" lat="-37.8742111" lon="144.6773257">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="4301770789" lat="-37.8400099" lon="144.6738163">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-00:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="3274001441" lat="-37.8623770" lon="144.6871827">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="574206662" lat="-38.0538912" lon="145.1159142"/>
+  <node id="574206663" lat="-38.0540209" lon="145.1154852"/>
+  <node id="574206664" lat="-38.0547696" lon="145.1158717"/>
+  <node id="574206665" lat="-38.0547126" lon="145.1160668"/>
+  <node id="574206666" lat="-38.0546382" lon="145.1160229"/>
+  <node id="574206667" lat="-38.0545986" lon="145.1161577"/>
+  <node id="574206668" lat="-38.0544678" lon="145.1161770"/>
+  <node id="9323041572" lat="-38.0547063" lon="145.1158143"/>
+  <node id="9587022425" lat="-38.0539285" lon="145.1157907">
+    <tag k="entrance" v="main"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="1583425762" lat="-38.0080122" lon="145.0867012">
+    <tag k="addr:city" v="Mordialloc"/>
+    <tag k="addr:housename" v="Mordialloc Plaza"/>
+    <tag k="addr:housenumber" v="598-618"/>
+    <tag k="addr:postcode" v="3195"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths"/>
+    <tag k="phone" v="+61 3 8523 8774"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="474423167" lat="-37.9816740" lon="145.0619882"/>
+  <node id="474423170" lat="-37.9817749" lon="145.0626568"/>
+  <node id="474423176" lat="-37.9818686" lon="145.0626395"/>
+  <node id="474423177" lat="-37.9818873" lon="145.0627847"/>
+  <node id="474423179" lat="-37.9816190" lon="145.0628368"/>
+  <node id="474423180" lat="-37.9816059" lon="145.0627277"/>
+  <node id="474423181" lat="-37.9814585" lon="145.0627563"/>
+  <node id="10744692257" lat="-37.9813959" lon="145.0623235"/>
+  <node id="10744692259" lat="-37.9814499" lon="145.0626958"/>
+  <node id="10744692267" lat="-37.9814361" lon="145.0625994"/>
+  <node id="10744692273" lat="-37.9814416" lon="145.0626380">
+    <tag k="entrance" v="main"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="474423164" lat="-37.9813588" lon="145.0620577"/>
+  <node id="10744692263" lat="-37.9813758" lon="145.0621656"/>
+  <node id="752188274" lat="-37.9494898" lon="145.0417726"/>
+  <node id="752188275" lat="-37.9492974" lon="145.0401338"/>
+  <node id="1507178773" lat="-37.9487943" lon="145.0418026"/>
+  <node id="1507178776" lat="-37.9488869" lon="145.0418587"/>
+  <node id="1507178779" lat="-37.9486200" lon="145.0402759"/>
+  <node id="3222365523" lat="-37.9492660" lon="145.0401436"/>
+  <node id="3222365525" lat="-37.9488244" lon="145.0402295"/>
+  <node id="10558982667" lat="-37.9489061" lon="145.0402133"/>
+  <node id="31657137" lat="-37.9590298" lon="145.0555534"/>
+  <node id="31657141" lat="-37.9599118" lon="145.0553046"/>
+  <node id="619004859" lat="-37.9599455" lon="145.0552496"/>
+  <node id="619004860" lat="-37.9599351" lon="145.0552367"/>
+  <node id="619004861" lat="-37.9599697" lon="145.0551921"/>
+  <node id="666455405" lat="-37.9600786" lon="145.0559519"/>
+  <node id="9159694234" lat="-37.9599452" lon="145.0552649"/>
+  <node id="9159694314" lat="-37.9597386" lon="145.0555282"/>
+  <node id="9574713563" lat="-37.9597206" lon="145.0564141"/>
+  <node id="9574713564" lat="-37.9596337" lon="145.0547736"/>
+  <node id="9574713565" lat="-37.9599339" lon="145.0552761"/>
+  <node id="9574713606" lat="-37.9593744" lon="145.0559827"/>
+  <node id="1583419365" lat="-37.9841000" lon="145.0771110">
+    <tag k="branch" v="Thrift Park"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4751840538" lat="-37.8979161" lon="144.7267233">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3951181648" lat="-37.8843527" lon="144.7344038">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3242046364" lat="-37.8673880" lon="144.7424967">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="4750208539" lat="-37.8424375" lon="144.8444959"/>
+  <node id="4750208540" lat="-37.8425271" lon="144.8453094"/>
+  <node id="7015965003" lat="-37.8424978" lon="144.8450552"/>
+  <node id="7015965004" lat="-37.8425146" lon="144.8452083"/>
+  <node id="7015965005" lat="-37.8424360" lon="144.8450659"/>
+  <node id="7015965006" lat="-37.8424525" lon="144.8452190"/>
+  <node id="7015965007" lat="-37.8425672" lon="144.8452351"/>
+  <node id="7015965008" lat="-37.8425725" lon="144.8453006"/>
+  <node id="7015965061" lat="-37.8429129" lon="144.8444136"/>
+  <node id="7901312805" lat="-37.8429837" lon="144.8451141"/>
+  <node id="9459509877" lat="-37.8428449" lon="144.8451860"/>
+  <node id="9459509883" lat="-37.8430170" lon="144.8449170"/>
+  <node id="9459509885" lat="-37.8424747" lon="144.8444894"/>
+  <node id="9465850774" lat="-37.8430373" lon="144.8451053"/>
+  <node id="9465850775" lat="-37.8430073" lon="144.8448270"/>
+  <node id="9465850776" lat="-37.8429584" lon="144.8448355"/>
+  <node id="9623522275" lat="-37.8430011" lon="144.8452873"/>
+  <node id="9623522278" lat="-37.8428620" lon="144.8453527"/>
+  <node id="9623522279" lat="-37.8430055" lon="144.8453292"/>
+  <node id="9623653402" lat="-37.8427591" lon="144.8452008"/>
+  <node id="697190767" lat="-37.8577633" lon="144.8825866">
+    <tag k="addr:housenumber" v="71"/>
+    <tag k="addr:postcode" v="3016"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Kororoit Creek Road"/>
+    <tag k="addr:suburb" v="Williamstown"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1278126819" lat="-37.7508329" lon="144.7734061">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2496900634" lat="-37.7449108" lon="144.8014817"/>
+  <node id="2496900636" lat="-37.7452587" lon="144.8014164"/>
+  <node id="2496900637" lat="-37.7452760" lon="144.8015642"/>
+  <node id="2496900638" lat="-37.7452036" lon="144.8015778"/>
+  <node id="2496900639" lat="-37.7452272" lon="144.8017792"/>
+  <node id="9810327305" lat="-37.7445067" lon="144.8017328">
+    <tag k="artwork_type" v="mural"/>
+    <tag k="tourism" v="artwork"/>
+  </node>
+  <node id="10963003438" lat="-37.7444868" lon="144.8015635"/>
+  <node id="10963003439" lat="-37.7445122" lon="144.8015587"/>
+  <node id="10963003442" lat="-37.7445068" lon="144.8015132"/>
+  <node id="10963003443" lat="-37.7449057" lon="144.8014382"/>
+  <node id="2496900628" lat="-37.7449519" lon="144.8018310"/>
+  <node id="10963003437" lat="-37.7445318" lon="144.8019468"/>
+  <node id="10963003440" lat="-37.7449561" lon="144.8018670"/>
+  <node id="10963003441" lat="-37.7445572" lon="144.8019420"/>
+  <node id="2982440685" lat="-37.8353274" lon="144.8466274">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1264365500" lat="-37.7803951" lon="144.8319234">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2206160219" lat="-37.7732859" lon="144.8896964">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1787891677" lat="-37.7502451" lon="144.8609684">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="300467603" lat="-37.7382993" lon="144.8923575"/>
+  <node id="300467604" lat="-37.7383876" lon="144.8933016"/>
+  <node id="300467612" lat="-37.7381500" lon="144.8925291"/>
+  <node id="300467613" lat="-37.7381364" lon="144.8923746"/>
+  <node id="300467877" lat="-37.7379126" lon="144.8925657"/>
+  <node id="300467878" lat="-37.7380006" lon="144.8933613"/>
+  <node id="300776709" lat="-37.7383184" lon="144.8925496"/>
+  <node id="300776710" lat="-37.7383798" lon="144.8932656"/>
+  <node id="3271391695" lat="-37.9370146" lon="145.0024861"/>
+  <node id="3271391701" lat="-37.9369255" lon="145.0017315"/>
+  <node id="3271391702" lat="-37.9373215" lon="145.0024266"/>
+  <node id="3271391707" lat="-37.9372445" lon="145.0016751"/>
+  <node id="6231371445" lat="-37.9372655" lon="145.0018693"/>
+  <node id="8263765388" lat="-37.9369752" lon="145.0021554"/>
+  <node id="9523035621" lat="-37.9158608" lon="144.9951265"/>
+  <node id="9523035623" lat="-37.9158408" lon="144.9952331"/>
+  <node id="328088847" lat="-37.9153808" lon="144.9951119"/>
+  <node id="737245243" lat="-37.9158261" lon="144.9952162">
+    <tag k="amenity" v="loading_dock"/>
+  </node>
+  <node id="9523035619" lat="-37.9154381" lon="144.9951779"/>
+  <node id="9523035620" lat="-37.9156642" lon="144.9949000"/>
+  <node id="9523035622" lat="-37.9158099" lon="144.9951975"/>
+  <node id="9523035624" lat="-37.9157093" lon="144.9954165"/>
+  <node id="9523035625" lat="-37.9156704" lon="144.9953717"/>
+  <node id="9523035626" lat="-37.9153202" lon="144.9958601"/>
+  <node id="9523035628" lat="-37.9150705" lon="144.9955429"/>
+  <node id="9523035629" lat="-37.9153729" lon="144.9951234"/>
+  <node id="9523035636" lat="-37.9158321" lon="144.9950935">
+    <tag k="amenity" v="parking_entrance"/>
+    <tag k="parking" v="multi-storey"/>
+  </node>
+  <node id="9523035638" lat="-37.9157221" lon="144.9949668">
+    <tag k="amenity" v="parking_entrance"/>
+    <tag k="parking" v="multi-storey"/>
+  </node>
+  <node id="9523035647" lat="-37.9153559" lon="144.9951470"/>
+  <node id="9523035649" lat="-37.9154309" lon="144.9951696"/>
+  <node id="9523035653" lat="-37.9156390" lon="144.9949352"/>
+  <node id="9523035654" lat="-37.9156242" lon="144.9949182"/>
+  <node id="9523035655" lat="-37.9156333" lon="144.9949287"/>
+  <node id="9523035657" lat="-37.9153269" lon="144.9958509"/>
+  <node id="9523035658" lat="-37.9153165" lon="144.9958558"/>
+  <node id="9523035699" lat="-37.9151026" lon="144.9955954"/>
+  <node id="9523141723" lat="-37.9150964" lon="144.9956058"/>
+  <node id="9523141725" lat="-37.9150651" lon="144.9955523"/>
+  <node id="9559200240" lat="-37.9151006" lon="144.9955994"/>
+  <node id="570758510" lat="-37.8685209" lon="144.9788110">
+    <tag k="addr:housenumber" v="117"/>
+    <tag k="addr:street" v="Acland Street"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-00:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61383475870"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="932432827" lat="-37.8682430" lon="144.9912770">
+    <tag k="addr:city" v="Balaclava"/>
+    <tag k="addr:housenumber" v="220"/>
+    <tag k="addr:postcode" v="3183"/>
+    <tag k="addr:street" v="Carlisle Street"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="phone" v="+61 3 92235858"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6594078628" lat="-37.8630862" lon="145.0101130">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="description" v="Woolworths Metro"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2713818750" lat="-37.8474492" lon="144.9927111">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="570482501" lat="-37.8481054" lon="145.0052368">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="4273046751" lat="-37.8405629" lon="145.0081654">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="529113808" lat="-37.9343843" lon="145.0387873"/>
+  <node id="529113809" lat="-37.9344467" lon="145.0392648"/>
+  <node id="529113810" lat="-37.9350592" lon="145.0391950"/>
+  <node id="529113811" lat="-37.9349809" lon="145.0385781"/>
+  <node id="633091912" lat="-37.9346117" lon="145.0392259"/>
+  <node id="633091913" lat="-37.9346191" lon="145.0393037"/>
+  <node id="633091914" lat="-37.9347810" lon="145.0386210"/>
+  <node id="633091915" lat="-37.9347884" lon="145.0386961"/>
+  <node id="633091916" lat="-37.9346499" lon="145.0387274"/>
+  <node id="633091917" lat="-37.9346414" lon="145.0386827"/>
+  <node id="633091918" lat="-37.9345483" lon="145.0387042"/>
+  <node id="633091919" lat="-37.9345567" lon="145.0387484"/>
+  <node id="2175878773" lat="-37.9345887" lon="145.0386949">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="2175878776" lat="-37.9347841" lon="145.0386526">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="1583423009" lat="-37.9195218" lon="145.0421121">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1397881073" lat="-37.9219021" lon="145.0834939">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="666494359" lat="-37.9403963" lon="145.1037428">
+    <tag k="branch" v="Clarinda"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="full_name" v="Woolworths 3283"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="592109271" lat="-37.9009686" lon="145.0910073">
+    <tag k="addr:housename" v="Centro Oakleigh"/>
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Hanover Street"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au"/>
+  </node>
+  <node id="448813336" lat="-37.8886970" lon="145.0413276"/>
+  <node id="448813337" lat="-37.8886382" lon="145.0408081"/>
+  <node id="448813338" lat="-37.8891900" lon="145.0407115"/>
+  <node id="448813339" lat="-37.8892441" lon="145.0412276"/>
+  <node id="761987686" lat="-37.8890977" lon="145.0412521"/>
+  <node id="10279585587" lat="-37.8889079" lon="145.0412879"/>
+  <node id="10279585590" lat="-37.8890191" lon="145.0412669"/>
+  <node id="1309731901" lat="-37.8874366" lon="145.0566661"/>
+  <node id="1309731902" lat="-37.8873894" lon="145.0562527"/>
+  <node id="1309731903" lat="-37.8878793" lon="145.0561631"/>
+  <node id="1309731904" lat="-37.8879264" lon="145.0565764"/>
+  <node id="11047923036" lat="-37.8876484" lon="145.0562053">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="449383332" lat="-37.8845285" lon="145.0587077">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="469459628" lat="-37.8628805" lon="145.0271098">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="5905417827" lat="-37.8456299" lon="145.0422777">
+    <tag k="addr:housenumber" v="742"/>
+    <tag k="addr:postcode" v="3123"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Toorak Road"/>
+    <tag k="addr:suburb" v="Hawthorn East"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="phone" v="+61 3 9624 6225"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="280897094" lat="-37.8871880" lon="145.0842821">
+    <tag k="addr:housenumber" v="1341"/>
+    <tag k="addr:street" v="Dandenong Road"/>
+    <tag k="alt_name" v="Woolworths Chadstone;Chadstone Woolworths"/>
+    <tag k="branch" v="Chadstone"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="check_date" v="2023-04-13"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator:ref:abn" v="88000014675"/>
+    <tag k="phone" v="+61383476545"/>
+    <tag k="ref" v="3335"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="toilets" v="no"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="256667816" lat="-37.8660370" lon="145.0935211"/>
+  <node id="1905071447" lat="-37.8667655" lon="145.0934043"/>
+  <node id="1905071448" lat="-37.8661024" lon="145.0940912"/>
+  <node id="1905071449" lat="-37.8668371" lon="145.0939598"/>
+  <node id="452347905" lat="-37.8316067" lon="144.9298411"/>
+  <node id="452347907" lat="-37.8309953" lon="144.9296522"/>
+  <node id="452347908" lat="-37.8308994" lon="144.9301493"/>
+  <node id="452347909" lat="-37.8307709" lon="144.9301095"/>
+  <node id="452347912" lat="-37.8307232" lon="144.9310506"/>
+  <node id="452347914" lat="-37.8312223" lon="144.9318349"/>
+  <node id="452347910" lat="-37.8305968" lon="144.9310116"/>
+  <node id="452347913" lat="-37.8306085" lon="144.9316452"/>
+  <node id="6868706671" lat="-37.8120908" lon="144.9389849">
+    <tag k="addr:street" v="Waterfront Way"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="07:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2184871393" lat="-37.8306564" lon="144.9573651">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="9869557343" lat="-37.8258100" lon="144.9635577">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="506153647" lat="-37.8205606" lon="144.9436054">
+    <tag k="branch" v="Victoria Harbour"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="diet:halal" v="yes"/>
+    <tag k="diet:kosher" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-23:00; Sa,Su 08:00-23:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6632403651" lat="-37.8210674" lon="144.9500958">
+    <tag k="addr:housenumber" v="727"/>
+    <tag k="addr:postcode" v="3008"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Collins Street"/>
+    <tag k="addr:suburb" v="Docklands"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4716795368" lat="-37.8189060" lon="144.9533111"/>
+  <node id="4716795387" lat="-37.8190803" lon="144.9535332"/>
+  <node id="4716795413" lat="-37.8189950" lon="144.9530889"/>
+  <node id="4716795586" lat="-37.8188716" lon="144.9534479"/>
+  <node id="4716795731" lat="-37.8191750" lon="144.9531627"/>
+  <node id="8384411874" lat="-37.8189611" lon="144.9530768"/>
+  <node id="8384411875" lat="-37.8189156" lon="144.9532702"/>
+  <node id="8384411876" lat="-37.8191256" lon="144.9533558"/>
+  <node id="8384411878" lat="-37.8189354" lon="144.9531860"/>
+  <node id="8384425112" lat="-37.8188978" lon="144.9533437">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="5637523521" lat="-37.8159063" lon="144.9560406">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Woolworths Metro"/>
+    <tag k="opening_hours" v="Mo-Fr 06:00-19:30; Sa-Su closed; PH closed"/>
+    <tag k="organic" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="613996660" lat="-37.8111520" lon="144.9653770">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="full_name" v="Woolworths QV"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="661600405" lat="-37.7871515" lon="144.9278900">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-24:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="stroller" v="yes"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6547561972" lat="-37.7963605" lon="144.9406780">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="check_date:opening_hours" v="2023-03-31"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3529507479" lat="-37.8371902" lon="144.9969896">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="302129542" lat="-37.7981407" lon="144.9683576">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-24:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="361282551" lat="-37.8016839" lon="144.9836896"/>
+  <node id="361282553" lat="-37.8016180" lon="144.9829015"/>
+  <node id="361282554" lat="-37.8011589" lon="144.9827965"/>
+  <node id="361282555" lat="-37.8012561" lon="144.9837583"/>
+  <node id="9618866198" lat="-37.8012072" lon="144.9832612"/>
+  <node id="9618866199" lat="-37.8012509" lon="144.9832530"/>
+  <node id="9618866200" lat="-37.8012751" lon="144.9835023"/>
+  <node id="9618866201" lat="-37.8012309" lon="144.9835079"/>
+  <node id="9618866202" lat="-37.8015974" lon="144.9827112"/>
+  <node id="9618866203" lat="-37.8016923" lon="144.9836695"/>
+  <node id="9618866204" lat="-37.8016874" lon="144.9836813">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="974244034" lat="-37.8096773" lon="144.9954578">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="full_name" v="Woolworths Abbotsford"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 7:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="7018056386" lat="-37.8002028" lon="144.9949422">
+    <tag k="addr:housenumber" v="247-259"/>
+    <tag k="addr:postcode" v="3067"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Johnston Street"/>
+    <tag k="addr:suburb" v="Abbotsford"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths Metro"/>
+    <tag k="operator" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="280411386" lat="-37.7682075" lon="144.9216473"/>
+  <node id="280411388" lat="-37.7674641" lon="144.9217197"/>
+  <node id="280411389" lat="-37.7674189" lon="144.9213906"/>
+  <node id="280411390" lat="-37.7673220" lon="144.9214076"/>
+  <node id="280411484" lat="-37.7681444" lon="144.9210602"/>
+  <node id="280411487" lat="-37.7675099" lon="144.9217670"/>
+  <node id="280411656" lat="-37.7672995" lon="144.9212071"/>
+  <node id="9799629357" lat="-37.7674565" lon="144.9217214"/>
+  <node id="666846427" lat="-37.7758181" lon="144.9618499">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="full_name" v="Woolworths Barkly Square"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 7:00-0:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 93814442"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="34496385" lat="-37.7695445" lon="144.9604244"/>
+  <node id="34496386" lat="-37.7700535" lon="144.9603265"/>
+  <node id="34496387" lat="-37.7699663" lon="144.9596014"/>
+  <node id="8930728649" lat="-37.7694557" lon="144.9596996"/>
+  <node id="8930728650" lat="-37.7695038" lon="144.9600993"/>
+  <node id="8930728651" lat="-37.7694712" lon="144.9601056"/>
+  <node id="8930728652" lat="-37.7694934" lon="144.9602907"/>
+  <node id="8930728653" lat="-37.7695277" lon="144.9602841"/>
+  <node id="8930728664" lat="-37.7694746" lon="144.9601337"/>
+  <node id="5670650317" lat="-37.7578955" lon="144.9638516">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="291552617" lat="-37.7435325" lon="144.9635923"/>
+  <node id="291552619" lat="-37.7436755" lon="144.9641131"/>
+  <node id="291552622" lat="-37.7442052" lon="144.9640314"/>
+  <node id="291552624" lat="-37.7441532" lon="144.9634943"/>
+  <node id="4213713219" lat="-37.7435537" lon="144.9637951"/>
+  <node id="4213713221" lat="-37.7436411" lon="144.9637821"/>
+  <node id="9956231249" lat="-37.7438899" lon="144.9635367"/>
+  <node id="310742110" lat="-37.7506987" lon="145.0033782"/>
+  <node id="310742111" lat="-37.7507632" lon="145.0039261"/>
+  <node id="4320477383" lat="-37.7515998" lon="145.0035936"/>
+  <node id="4320477384" lat="-37.7516194" lon="145.0037639"/>
+  <node id="10931257205" lat="-37.7514349" lon="145.0032358"/>
+  <node id="10931257206" lat="-37.7514835" lon="145.0036500"/>
+  <node id="10931257207" lat="-37.7515548" lon="145.0036025"/>
+  <node id="10931257208" lat="-37.7515583" lon="145.0036368"/>
+  <node id="2295955017" lat="-37.7369619" lon="145.0023415"/>
+  <node id="2295955019" lat="-37.7372867" lon="145.0022919"/>
+  <node id="2295955021" lat="-37.7373017" lon="145.0024491"/>
+  <node id="2295955023" lat="-37.7373271" lon="145.0024452"/>
+  <node id="2295955026" lat="-37.7373888" lon="145.0030919"/>
+  <node id="2295955028" lat="-37.7373650" lon="145.0030955"/>
+  <node id="2295955030" lat="-37.7373861" lon="145.0033167"/>
+  <node id="2295955032" lat="-37.7369329" lon="145.0033858"/>
+  <node id="2295955034" lat="-37.7369011" lon="145.0030535"/>
+  <node id="2295955036" lat="-37.7369852" lon="145.0030406"/>
+  <node id="2295955038" lat="-37.7369271" lon="145.0024318"/>
+  <node id="2295955041" lat="-37.7369699" lon="145.0024253"/>
+  <node id="3397769631" lat="-37.7373338" lon="145.0025153">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="5575952453" lat="-37.7369977" lon="145.0033760"/>
+  <node id="2879690541" lat="-37.8208755" lon="145.0363418">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1428952003" lat="-37.8294287" lon="145.0589710">
+    <tag k="branch" v="Camberwell"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2298060919" lat="-37.8055329" lon="145.0304500"/>
+  <node id="2298060920" lat="-37.8058190" lon="145.0303945"/>
+  <node id="2298060921" lat="-37.8058294" lon="145.0304801"/>
+  <node id="2298060922" lat="-37.8058942" lon="145.0304675"/>
+  <node id="2298060923" lat="-37.8060013" lon="145.0313515"/>
+  <node id="2298060924" lat="-37.8056504" lon="145.0314196"/>
+  <node id="7227066219" lat="-37.8340002" lon="145.0773307">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths - Middle Camberwell"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1901913671" lat="-37.8123160" lon="145.0830339"/>
+  <node id="1901913705" lat="-37.8129738" lon="145.0832840"/>
+  <node id="1901913815" lat="-37.8129201" lon="145.0828455"/>
+  <node id="1901913842" lat="-37.8123729" lon="145.0834852"/>
+  <node id="9322916510" lat="-37.8127375" lon="145.0833302"/>
+  <node id="9322916511" lat="-37.8127550" lon="145.0834644"/>
+  <node id="9322916512" lat="-37.8126335" lon="145.0834889"/>
+  <node id="9322916513" lat="-37.8126266" lon="145.0834339"/>
+  <node id="9322916514" lat="-37.8126855" lon="145.0828928"/>
+  <node id="9322916515" lat="-37.8126937" lon="145.0829577"/>
+  <node id="9322934622" lat="-37.8129215" lon="145.0832946"/>
+  <node id="9406602898" lat="-37.8125712" lon="145.0834451"/>
+  <node id="10679445654" lat="-37.8128059" lon="145.0833159"/>
+  <node id="4578704404" lat="-37.8196524" lon="145.1213954">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1121118008" lat="-37.7701721" lon="145.0416219">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="check_date" v="2023-04-20"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="9900768235" lat="-37.7594554" lon="145.0682194"/>
+  <node id="9900768236" lat="-37.7595277" lon="145.0688488"/>
+  <node id="9900768237" lat="-37.7587370" lon="145.0690049"/>
+  <node id="9900768238" lat="-37.7586576" lon="145.0683778"/>
+  <node id="310943485" lat="-37.7379693" lon="145.0282002"/>
+  <node id="1271841795" lat="-37.7380355" lon="145.0287828"/>
+  <node id="1271841807" lat="-37.7385868" lon="145.0280884"/>
+  <node id="3123409891" lat="-37.7386540" lon="145.0286646"/>
+  <node id="773517588" lat="-37.7729494" lon="145.1136659">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="8219338729" lat="-37.7221703" lon="144.5708161">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3509393117" lat="-37.6868858" lon="144.5610829">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="325276537" lat="-37.6855804" lon="144.5669149">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="10568103910" lat="-37.7301438" lon="144.7430619">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1793129409" lat="-37.7230371" lon="144.7516000">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="full_name" v="Woolworths Taylors Hill"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="(03) 8361 4713"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="www.woolwoths.com.au"/>
+  </node>
+  <node id="602904712" lat="-37.6994120" lon="144.7778007">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2285130249" lat="-37.7024047" lon="144.7994466">
+    <tag k="branch" v="Taylors Lakes"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="operator" v="Woolworths"/>
+    <tag k="phone" v="+61 3 8361 4716"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1237251100" lat="-37.7146375" lon="144.8872360">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="881751151" lat="-37.6875423" lon="144.8849079">
+    <tag k="addr:housenumber" v="34"/>
+    <tag k="addr:postcode" v="3043"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Gladstone Park Drive"/>
+    <tag k="addr:suburb" v="Gladstone Park"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8347 6581"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="6897812303" lat="-37.5938407" lon="144.7129264">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="877003125" lat="-37.5786175" lon="144.7281012"/>
+  <node id="877003127" lat="-37.5783051" lon="144.7274065"/>
+  <node id="877003128" lat="-37.5778863" lon="144.7277016"/>
+  <node id="877003129" lat="-37.5780266" lon="144.7280047"/>
+  <node id="877003143" lat="-37.5780776" lon="144.7281415"/>
+  <node id="877003149" lat="-37.5781988" lon="144.7283936"/>
+  <node id="8950242658" lat="-37.5784171" lon="144.7276557">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="automatic"/>
+    <tag k="entrance" v="shop"/>
+  </node>
+  <node id="8950242659" lat="-37.5784865" lon="144.7278099">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="automatic"/>
+    <tag k="entrance" v="shop"/>
+  </node>
+  <node id="8950242660" lat="-37.5785491" lon="144.7279491">
+    <tag k="access" v="yes"/>
+    <tag k="door" v="automatic"/>
+    <tag k="entrance" v="shop"/>
+  </node>
+  <node id="473363977" lat="-37.7070041" lon="144.9387874">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2172299027" lat="-37.6803737" lon="144.9182109">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2744817180" lat="-37.7296798" lon="144.9835419">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2268930957" lat="-37.6397204" lon="144.9326166">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="3048930128" lat="-37.6726343" lon="145.0147599"/>
+  <node id="3048930129" lat="-37.6721294" lon="145.0146404"/>
+  <node id="3048930130" lat="-37.6721559" lon="145.0142682"/>
+  <node id="3048930131" lat="-37.6720372" lon="145.0146576"/>
+  <node id="3048930234" lat="-37.6724172" lon="145.0142235"/>
+  <node id="3048930235" lat="-37.6725734" lon="145.0142580"/>
+  <node id="3048930236" lat="-37.6724254" lon="145.0142877"/>
+  <node id="3048930237" lat="-37.6721615" lon="145.0143212"/>
+  <node id="3048930238" lat="-37.6720922" lon="145.0143327"/>
+  <node id="3048930239" lat="-37.6720610" lon="145.0148683"/>
+  <node id="1489479515" lat="-37.6541932" lon="145.0175181">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2866280635" lat="-37.7128214" lon="145.0475954">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2918617895" lat="-37.6947443" lon="145.0580717"/>
+  <node id="2918617896" lat="-37.6948247" lon="145.0590247"/>
+  <node id="2918617897" lat="-37.6952927" lon="145.0589614"/>
+  <node id="2918617898" lat="-37.6951680" lon="145.0580255"/>
+  <node id="3866514376" lat="-37.6952384" lon="145.0583191"/>
+  <node id="9981732099" lat="-37.6947969" lon="145.0580657"/>
+  <node id="9981732100" lat="-37.6948871" lon="145.0580642"/>
+  <node id="9981732101" lat="-37.6948090" lon="145.0588389"/>
+  <node id="9981732102" lat="-37.6948198" lon="145.0588368"/>
+  <node id="9981732103" lat="-37.6947499" lon="145.0581342"/>
+  <node id="9981732104" lat="-37.6947534" lon="145.0581338"/>
+  <node id="9981732110" lat="-37.6947453" lon="145.0580830"/>
+  <node id="9981732135" lat="-37.6952409" lon="145.0583485"/>
+  <node id="9981732136" lat="-37.6952462" lon="145.0584106"/>
+  <node id="9981732137" lat="-37.6952540" lon="145.0585027"/>
+  <node id="632183815" lat="-37.7043624" lon="145.0997379"/>
+  <node id="632183816" lat="-37.7049496" lon="145.0996408"/>
+  <node id="632183817" lat="-37.7049571" lon="145.0997133"/>
+  <node id="632183818" lat="-37.7049338" lon="145.0997280"/>
+  <node id="632183820" lat="-37.7049436" lon="145.0998288"/>
+  <node id="632183821" lat="-37.7049177" lon="145.0998328"/>
+  <node id="632183822" lat="-37.7049722" lon="145.1003920"/>
+  <node id="632183823" lat="-37.7047690" lon="145.1004421"/>
+  <node id="632183824" lat="-37.7047716" lon="145.1004683"/>
+  <node id="632183825" lat="-37.7046234" lon="145.1004920"/>
+  <node id="632183826" lat="-37.7046215" lon="145.1004730"/>
+  <node id="632183827" lat="-37.7045251" lon="145.1004888"/>
+  <node id="632183828" lat="-37.7045181" lon="145.1004207"/>
+  <node id="632183829" lat="-37.7044896" lon="145.1004254"/>
+  <node id="632183831" lat="-37.7044280" lon="145.0998293"/>
+  <node id="632183832" lat="-37.7043728" lon="145.0998384"/>
+  <node id="632183838" lat="-37.7050228" lon="145.1003841"/>
+  <node id="3446496032" lat="-37.7045210" lon="145.1004491">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="4985941625" lat="-37.7048947" lon="145.0996498"/>
+  <node id="6622784011" lat="-37.7048528" lon="145.1004284"/>
+  <node id="6622784012" lat="-37.7048656" lon="145.1005306"/>
+  <node id="6622784013" lat="-37.7050265" lon="145.1004221"/>
+  <node id="6622784014" lat="-37.7052455" lon="145.1004839"/>
+  <node id="6622784015" lat="-37.7052361" lon="145.1003892"/>
+  <node id="6622784016" lat="-37.7052394" lon="145.1004226"/>
+  <node id="6622784025" lat="-37.7048610" lon="145.1004871">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="10779406192" lat="-37.7049533" lon="145.0996763">
+    <tag k="access" v="private"/>
+    <tag k="amenity" v="loading_dock"/>
+    <tag k="door" v="loadingdock"/>
+  </node>
+  <node id="1865223677" lat="-37.6666811" lon="145.0609370">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 9422 5259"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1637371488" lat="-37.6278019" lon="145.0274063">
+    <tag k="addr:city" v="Epping"/>
+    <tag k="addr:postcode" v="3076"/>
+    <tag k="addr:street" v="Epping Road &amp; Lyndarum Avenue"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="07:00-00:00"/>
+    <tag k="phone" v="+61 3 9422 5280"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="848442300" lat="-37.6568820" lon="145.0816743">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="492905311" lat="-37.6520545" lon="145.0741496">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="5170096194" lat="-37.6487919" lon="145.0746720"/>
+  <node id="5170096195" lat="-37.6487728" lon="145.0744575"/>
+  <node id="5170096196" lat="-37.6485455" lon="145.0743609"/>
+  <node id="5170096197" lat="-37.6483204" lon="145.0747927"/>
+  <node id="5170096198" lat="-37.6485498" lon="145.0743046"/>
+  <node id="5170096200" lat="-37.6483820" lon="145.0743797"/>
+  <node id="5170096201" lat="-37.6484521" lon="145.0743046"/>
+  <node id="5170096202" lat="-37.6488301" lon="145.0747123"/>
+  <node id="5170096203" lat="-37.6484075" lon="145.0746211"/>
+  <node id="5170096204" lat="-37.6483523" lon="145.0756537"/>
+  <node id="5170096205" lat="-37.6488641" lon="145.0750261">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="5170096207" lat="-37.6486114" lon="145.0756242"/>
+  <node id="5170096214" lat="-37.6486135" lon="145.0755518"/>
+  <node id="5170096217" lat="-37.6483756" lon="145.0748008"/>
+  <node id="5170103321" lat="-37.6484287" lon="145.0746184"/>
+  <node id="5170103325" lat="-37.6489235" lon="145.0755008"/>
+  <node id="5170103326" lat="-37.6484372" lon="145.0746962"/>
+  <node id="5170103328" lat="-37.6482822" lon="145.0750020"/>
+  <node id="5170103329" lat="-37.6483905" lon="145.0747150"/>
+  <node id="9750631115" lat="-37.6161622" lon="144.9153001">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3624177345" lat="-37.5941929" lon="144.9148090">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2186428219" lat="-37.5976715" lon="144.9384264">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1769427536" lat="-37.5744459" lon="144.9200112">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="11039319709" lat="-37.5344212" lon="144.9603376"/>
+  <node id="11039319710" lat="-37.5344883" lon="144.9609275"/>
+  <node id="11039319711" lat="-37.5351138" lon="144.9608198"/>
+  <node id="11039319712" lat="-37.5350492" lon="144.9602317"/>
+  <node id="11039319715" lat="-37.5348522" lon="144.9608649"/>
+  <node id="11039319716" lat="-37.5347835" lon="144.9608767"/>
+  <node id="10564579756" lat="-37.6025453" lon="145.1001228">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="5873480044" lat="-37.5940251" lon="145.0899513">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="365210772" lat="-38.1402020" lon="145.1264130">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="368389221" lat="-38.1090318" lon="145.1262631"/>
+  <node id="368389223" lat="-38.1095584" lon="145.1269215"/>
+  <node id="368389224" lat="-38.1095679" lon="145.1262470"/>
+  <node id="2172680829" lat="-38.1091975" lon="145.1262577">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="2172680831" lat="-38.1094127" lon="145.1262516">
+    <tag k="entrance" v="yes"/>
+  </node>
+  <node id="3974797870" lat="-38.1090839" lon="145.1269001"/>
+  <node id="3974797871" lat="-38.1090853" lon="145.1267181"/>
+  <node id="3974797872" lat="-38.1090145" lon="145.1267172"/>
+  <node id="9177685386" lat="-38.1090430" lon="145.1267176">
+    <tag k="amenity" v="loading_dock"/>
+    <tag k="entrance" v="service"/>
+  </node>
+  <node id="9781034882" lat="-38.1090097" lon="145.1262805"/>
+  <node id="9781034883" lat="-38.1095774" lon="145.1268974"/>
+  <node id="9781034884" lat="-38.1091036" lon="145.1269296"/>
+  <node id="638198409" lat="-38.1410860" lon="145.2070531"/>
+  <node id="638198410" lat="-38.1410111" lon="145.2072167"/>
+  <node id="638198413" lat="-38.1409431" lon="145.2073601"/>
+  <node id="638198414" lat="-38.1408518" lon="145.2075654"/>
+  <node id="638198415" lat="-38.1408730" lon="145.2076512"/>
+  <node id="9438703684" lat="-38.1414276" lon="145.2075640"/>
+  <node id="9438703685" lat="-38.1415114" lon="145.2073792"/>
+  <node id="9438703698" lat="-38.1412416" lon="145.2079738"/>
+  <node id="606224460" lat="-38.1024488" lon="145.1838816"/>
+  <node id="606224462" lat="-38.1024899" lon="145.1838736"/>
+  <node id="606225030" lat="-38.1017712" lon="145.1840126"/>
+  <node id="2172680214" lat="-38.1017655" lon="145.1839666">
+    <tag k="entrance" v="yes"/>
+    <tag k="name" v="Woolworths all hours entry"/>
+  </node>
+  <node id="3009653339" lat="-38.1017039" lon="145.1834726"/>
+  <node id="3009653340" lat="-38.1024241" lon="145.1833253"/>
+  <node id="3009659498" lat="-38.1020905" lon="145.1839509"/>
+  <node id="365485217" lat="-38.0675793" lon="145.1432694"/>
+  <node id="1258863716" lat="-38.0677685" lon="145.1437597"/>
+  <node id="9971398636" lat="-38.0677375" lon="145.1437407"/>
+  <node id="9971398638" lat="-38.0676964" lon="145.1437154"/>
+  <node id="9971398640" lat="-38.0676617" lon="145.1436941"/>
+  <node id="9971398642" lat="-38.0676233" lon="145.1436704"/>
+  <node id="9971398644" lat="-38.0675685" lon="145.1436368"/>
+  <node id="9971398646" lat="-38.0675329" lon="145.1437318"/>
+  <node id="9971398647" lat="-38.0674790" lon="145.1436986"/>
+  <node id="9971398648" lat="-38.0674520" lon="145.1437694"/>
+  <node id="9971398652" lat="-38.0673649" lon="145.1437152"/>
+  <node id="9971398656" lat="-38.0673379" lon="145.1436984"/>
+  <node id="9971398658" lat="-38.0678008" lon="145.1436749"/>
+  <node id="9971398659" lat="-38.0674595" lon="145.1433831"/>
+  <node id="9971398660" lat="-38.0674898" lon="145.1434017"/>
+  <node id="9971398661" lat="-38.0675091" lon="145.1433512"/>
+  <node id="9971398662" lat="-38.0674789" lon="145.1433327"/>
+  <node id="9971398663" lat="-38.0675179" lon="145.1432316"/>
+  <node id="9971398664" lat="-38.0678017" lon="145.1430295"/>
+  <node id="9971398665" lat="-38.0680002" lon="145.1431515"/>
+  <node id="9971398666" lat="-38.0676337" lon="145.1432359"/>
+  <node id="9971398674" lat="-38.0678365" lon="145.1435806"/>
+  <node id="9971398698" lat="-38.0679109" lon="145.1430965"/>
+  <node id="9971398699" lat="-38.0679635" lon="145.1431289"/>
+  <node id="9971398701" lat="-38.0679964" lon="145.1431615"/>
+  <node id="9971398705" lat="-38.0678686" lon="145.1430706"/>
+  <node id="9971398715" lat="-38.0678677" lon="145.1434994"/>
+  <node id="9971398716" lat="-38.0679802" lon="145.1432041"/>
+  <node id="9971398731" lat="-38.0679691" lon="145.1432370"/>
+  <node id="9971398733" lat="-38.0679226" lon="145.1433573"/>
+  <node id="9981351936" lat="-38.0679741" lon="145.1432205"/>
+  <node id="7710860699" lat="-38.1080715" lon="145.2506305">
+    <tag k="branch" v="Cranbourne West"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="3830281282" lat="-38.1002009" lon="145.2939531">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="4023408048" lat="-38.1036137" lon="145.3247230">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1507128265" lat="-38.0770591" lon="145.2496865">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="364632405" lat="-38.0816497" lon="145.2782581">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="contact:website" v="http://www.woolworths.com.au"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2336787644" lat="-38.0859314" lon="145.3172853">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="3712913960" lat="-38.0664709" lon="145.3009876">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="4855714667" lat="-38.0117526" lon="145.1606959">
+    <tag k="branch" v="Keysborough"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="full_name" v="Woolworths Keysborough South"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="365211158" lat="-37.9834708" lon="145.1329898">
+    <tag k="addr:housenumber" v="89"/>
+    <tag k="addr:street" v="Centre Dandenong Road"/>
+    <tag k="addr:suburb" v="Dingley Village"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="427864919" lat="-37.9931146" lon="145.1727068">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2300653193" lat="-37.9531173" lon="145.1514132"/>
+  <node id="2300653195" lat="-37.9536173" lon="145.1512419"/>
+  <node id="2432328241" lat="-37.9535163" lon="145.1512606"/>
+  <node id="2695289220" lat="-37.9535251" lon="145.1513375"/>
+  <node id="4041199908" lat="-37.9531765" lon="145.1519301"/>
+  <node id="5202172017" lat="-37.9536853" lon="145.1518340"/>
+  <node id="5213983297" lat="-37.9536689" lon="145.1516918"/>
+  <node id="5213983300" lat="-37.9536805" lon="145.1517923"/>
+  <node id="8269304740" lat="-37.9531390" lon="145.1515938"/>
+  <node id="8269304741" lat="-37.9536669" lon="145.1516858"/>
+  <node id="8269304745" lat="-37.9533166" lon="145.1513762"/>
+  <node id="8269304746" lat="-37.9532940" lon="145.1513804"/>
+  <node id="8269304747" lat="-37.9534021" lon="145.1513603"/>
+  <node id="8269304748" lat="-37.9536833" lon="145.1518165"/>
+  <node id="2196694206" lat="-37.9874773" lon="145.2177309">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="10285701169" lat="-37.9742010" lon="145.2052615">
+    <tag k="branch" v="Dandenong Junction"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1239740988" lat="-38.0327440" lon="145.2663806">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="3326642561" lat="-38.0053380" lon="145.2482770">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1766341034" lat="-38.0168578" lon="145.3006679">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-24:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1557920938" lat="-37.9763036" lon="145.2589665">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2134802234" lat="-38.0727117" lon="145.4372643">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="5515348694" lat="-38.0642602" lon="145.4349416">
+    <tag k="addr:postcode" v="3809"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="360213914" lat="-38.0789203" lon="145.4796111"/>
+  <node id="360213917" lat="-38.0786083" lon="145.4798524"/>
+  <node id="360213920" lat="-38.0787880" lon="145.4807953"/>
+  <node id="360213941" lat="-38.0792188" lon="145.4812661"/>
+  <node id="2336785264" lat="-38.0789025" lon="145.4796162"/>
+  <node id="2336785271" lat="-38.0789268" lon="145.4797527"/>
+  <node id="2336785276" lat="-38.0791083" lon="145.4806778"/>
+  <node id="2336785282" lat="-38.0792045" lon="145.4806458"/>
+  <node id="10582228581" lat="-38.0790075" lon="145.4796089"/>
+  <node id="10582228582" lat="-38.0789402" lon="145.4796280"/>
+  <node id="10582228583" lat="-38.0789361" lon="145.4796065"/>
+  <node id="10583175985" lat="-38.0786291" lon="145.4799482"/>
+  <node id="10583176009" lat="-38.0791613" lon="145.4812030"/>
+  <node id="1507146935" lat="-38.0770815" lon="145.4836573">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="625525246" lat="-38.0295132" lon="145.3468395">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1638685371" lat="-38.0438234" lon="145.3687506"/>
+  <node id="2047212690" lat="-38.0439467" lon="145.3691707"/>
+  <node id="2047212693" lat="-38.0439815" lon="145.3693472"/>
+  <node id="2047212694" lat="-38.0445319" lon="145.3686825"/>
+  <node id="2047212695" lat="-38.0444621" lon="145.3688300"/>
+  <node id="2047212697" lat="-38.0438421" lon="145.3690199"/>
+  <node id="2047212698" lat="-38.0441506" lon="145.3683764"/>
+  <node id="2047212700" lat="-38.0439024" lon="145.3692190"/>
+  <node id="10830947846" lat="-38.0443741" lon="145.3685558">
+    <tag k="amenity" v="atm"/>
+    <tag k="brand" v="Commonwealth Bank"/>
+    <tag k="brand:wikidata" v="Q285328"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="operator" v="Commonwealth Bank"/>
+    <tag k="operator:wikidata" v="Q285328"/>
+  </node>
+  <node id="7520934197" lat="-37.9212208" lon="145.1399271">
+    <tag k="branch" v="M-City"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="960803840" lat="-37.9355910" lon="145.1885926">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="324207736" lat="-37.9097755" lon="145.1898734">
+    <tag k="branch" v="Wheelers Hill"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="355763256" lat="-37.8784183" lon="145.1276618">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="319601982" lat="-37.8747173" lon="145.1648652">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="511961115" lat="-37.8530335" lon="145.1346642"/>
+  <node id="511961117" lat="-37.8529767" lon="145.1340738"/>
+  <node id="511961118" lat="-37.8524691" lon="145.1341461"/>
+  <node id="511961120" lat="-37.8525570" lon="145.1347406"/>
+  <node id="1217475623" lat="-37.8530235" lon="145.1344955"/>
+  <node id="1217475631" lat="-37.8525129" lon="145.1345980"/>
+  <node id="1217475634" lat="-37.8530996" lon="145.1345580"/>
+  <node id="1217475640" lat="-37.8530921" lon="145.1344850"/>
+  <node id="1217475645" lat="-37.8525417" lon="145.1345942"/>
+  <node id="1453609907" lat="-37.8527640" lon="145.1347099">
+    <tag k="amenity" v="parking"/>
+    <tag k="parking" v="underground"/>
+  </node>
+  <node id="1903796204" lat="-37.8526158" lon="145.1341252"/>
+  <node id="7800132083" lat="-37.8529381" lon="145.1340793"/>
+  <node id="7800138287" lat="-37.8529801" lon="145.1341042"/>
+  <node id="6970525764" lat="-37.8489987" lon="145.1339749">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="not:brand:wikidata" v="Q3249145"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="434950832" lat="-37.8376872" lon="145.1840002"/>
+  <node id="434950834" lat="-37.8374675" lon="145.1840433"/>
+  <node id="434950838" lat="-37.8373261" lon="145.1847784"/>
+  <node id="434950839" lat="-37.8376939" lon="145.1847062"/>
+  <node id="434950841" lat="-37.8377354" lon="145.1847935"/>
+  <node id="434950842" lat="-37.8377739" lon="145.1847308"/>
+  <node id="434953247" lat="-37.8376994" lon="145.1847493"/>
+  <node id="9789861318" lat="-37.8377058" lon="145.1847999"/>
+  <node id="9789861319" lat="-37.8373133" lon="145.1847746"/>
+  <node id="9789861320" lat="-37.8373060" lon="145.1847674"/>
+  <node id="9789861321" lat="-37.8372990" lon="145.1847543"/>
+  <node id="9789861322" lat="-37.8372435" lon="145.1847649"/>
+  <node id="9789867072" lat="-37.8376541" lon="145.1847140"/>
+  <node id="1253891932" lat="-37.9214240" lon="145.2354601"/>
+  <node id="1253891953" lat="-37.9205165" lon="145.2349504"/>
+  <node id="1253891957" lat="-37.9207601" lon="145.2354002"/>
+  <node id="1253891977" lat="-37.9208361" lon="145.2355730"/>
+  <node id="1253891988" lat="-37.9207857" lon="145.2355319"/>
+  <node id="1253891996" lat="-37.9205346" lon="145.2351019"/>
+  <node id="1253891997" lat="-37.9206081" lon="145.2350878"/>
+  <node id="1253891998" lat="-37.9213441" lon="145.2347914"/>
+  <node id="1253892009" lat="-37.9206479" lon="145.2354217"/>
+  <node id="6105020128" lat="-37.9209627" lon="145.2355487"/>
+  <node id="7099641103" lat="-37.9212313" lon="145.2354971"/>
+  <node id="9175678267" lat="-37.9207703" lon="145.2354856"/>
+  <node id="9175678268" lat="-37.9207800" lon="145.2354838"/>
+  <node id="301497295" lat="-37.8986694" lon="145.2316838"/>
+  <node id="10844952792" lat="-37.8986717" lon="145.2320490"/>
+  <node id="10844952796" lat="-37.8980842" lon="145.2316898"/>
+  <node id="10844952797" lat="-37.8982622" lon="145.2316880"/>
+  <node id="10844952798" lat="-37.8980865" lon="145.2320550"/>
+  <node id="360153309" lat="-37.8896804" lon="145.2941031"/>
+  <node id="360153311" lat="-37.8897007" lon="145.2939142"/>
+  <node id="360153313" lat="-37.8896940" lon="145.2936396"/>
+  <node id="10277506889" lat="-37.8677686" lon="145.2379217">
+    <tag k="branch" v="Knox"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1241518605" lat="-37.8834435" lon="145.2773465"/>
+  <node id="1241518613" lat="-37.8833747" lon="145.2776697"/>
+  <node id="1241518617" lat="-37.8839720" lon="145.2778353"/>
+  <node id="1241518644" lat="-37.8836985" lon="145.2782718"/>
+  <node id="1241518653" lat="-37.8840383" lon="145.2774538"/>
+  <node id="1241518668" lat="-37.8840658" lon="145.2774953"/>
+  <node id="1241518680" lat="-37.8839018" lon="145.2781887"/>
+  <node id="1241518712" lat="-37.8835123" lon="145.2776120"/>
+  <node id="1241518758" lat="-37.8839462" lon="145.2778306"/>
+  <node id="1241518772" lat="-37.8840267" lon="145.2778454"/>
+  <node id="1241518789" lat="-37.8834202" lon="145.2778386"/>
+  <node id="1241518791" lat="-37.8835641" lon="145.2777783"/>
+  <node id="1282631320" lat="-37.8839265" lon="145.2779894"/>
+  <node id="3809529805" lat="-37.8833949" lon="145.2777448">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="269619406" lat="-37.8411230" lon="145.2630483"/>
+  <node id="269619410" lat="-37.8409248" lon="145.2629625"/>
+  <node id="269619411" lat="-37.8409246" lon="145.2630476"/>
+  <node id="619047402" lat="-37.8407148" lon="145.2629617"/>
+  <node id="10222639461" lat="-37.8406984" lon="145.2623573"/>
+  <node id="10222639462" lat="-37.8407405" lon="145.2623574"/>
+  <node id="10222639463" lat="-37.8407404" lon="145.2623717"/>
+  <node id="10222639464" lat="-37.8411241" lon="145.2625269"/>
+  <node id="10222639465" lat="-37.8411012" lon="145.2625268"/>
+  <node id="10222639466" lat="-37.8411015" lon="145.2623873"/>
+  <node id="10222639467" lat="-37.8410786" lon="145.2623872"/>
+  <node id="10222639468" lat="-37.8410787" lon="145.2623626"/>
+  <node id="10222639469" lat="-37.8410233" lon="145.2623725"/>
+  <node id="10222639470" lat="-37.8410233" lon="145.2623624"/>
+  <node id="10222639471" lat="-37.8406976" lon="145.2627459"/>
+  <node id="10222639474" lat="-37.8406539" lon="145.2627458"/>
+  <node id="10222639475" lat="-37.8406536" lon="145.2628786"/>
+  <node id="10222639476" lat="-37.8407150" lon="145.2628789"/>
+  <node id="360153299" lat="-37.8896230" lon="145.2932235"/>
+  <node id="360153301" lat="-37.8893100" lon="145.2931595"/>
+  <node id="360153303" lat="-37.8891776" lon="145.2940866"/>
+  <node id="360153305" lat="-37.8895601" lon="145.2941672"/>
+  <node id="360153307" lat="-37.8895901" lon="145.2940659"/>
+  <node id="4186860683" lat="-37.8619495" lon="145.2845956"/>
+  <node id="4186860684" lat="-37.8618942" lon="145.2841386"/>
+  <node id="4186860687" lat="-37.8613744" lon="145.2841610"/>
+  <node id="4186860688" lat="-37.8614328" lon="145.2846834"/>
+  <node id="4186861189" lat="-37.8615394" lon="145.2846577"/>
+  <node id="4186861190" lat="-37.8618345" lon="145.2847292"/>
+  <node id="4186861191" lat="-37.8618200" lon="145.2846221"/>
+  <node id="4186865097" lat="-37.8614274" lon="145.2846273"/>
+  <node id="8340413532" lat="-37.8616489" lon="145.2841114"/>
+  <node id="8340413533" lat="-37.8616384" lon="145.2840173"/>
+  <node id="8340413534" lat="-37.8618434" lon="145.2839800"/>
+  <node id="8340413540" lat="-37.8618002" lon="145.2847350"/>
+  <node id="8340413541" lat="-37.8615531" lon="145.2847824"/>
+  <node id="8340413548" lat="-37.8618487" lon="145.2840264"/>
+  <node id="8340413549" lat="-37.8618639" lon="145.2841432"/>
+  <node id="9425164939" lat="-37.8615738" lon="145.2847784"/>
+  <node id="1492302567" lat="-37.8311446" lon="145.1471131"/>
+  <node id="1492302568" lat="-37.8315559" lon="145.1470223"/>
+  <node id="1492302571" lat="-37.8316269" lon="145.1475925"/>
+  <node id="1604801461" lat="-37.8308709" lon="145.1471998"/>
+  <node id="1604801463" lat="-37.8311496" lon="145.1471482"/>
+  <node id="1604801465" lat="-37.8309284" lon="145.1476633"/>
+  <node id="1604801467" lat="-37.8311058" lon="145.1476938"/>
+  <node id="1604801469" lat="-37.8310966" lon="145.1476278"/>
+  <node id="8637199678" lat="-37.8315935" lon="145.1475990"/>
+  <node id="9930614210" lat="-37.8313678" lon="145.1470601"/>
+  <node id="260710501" lat="-37.8358294" lon="145.1644531">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="10743106112" lat="-37.8123394" lon="145.1527346">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="branch" v="Blackburn North"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="currency:AUD" v="yes"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:apple_pay" v="yes"/>
+    <tag k="payment:card" v="yes"/>
+    <tag k="payment:cards" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:everyday_pay" v="yes"/>
+    <tag k="payment:google_pay" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:samsung_pay" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+61388417627"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="toilets" v="no"/>
+    <tag k="website" v="https://woolworths.com.au"/>
+  </node>
+  <node id="465186446" lat="-37.7869012" lon="145.1264487">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="11007706672" lat="-37.7897440" lon="145.1586259"/>
+  <node id="11007706673" lat="-37.7892885" lon="145.1587099"/>
+  <node id="11007706674" lat="-37.7892771" lon="145.1586215"/>
+  <node id="11007706675" lat="-37.7891926" lon="145.1579620"/>
+  <node id="11007706676" lat="-37.7892919" lon="145.1579451"/>
+  <node id="11007706677" lat="-37.7893151" lon="145.1579153"/>
+  <node id="11007706678" lat="-37.7895761" lon="145.1578701"/>
+  <node id="11007706679" lat="-37.7896033" lon="145.1579174"/>
+  <node id="11007706680" lat="-37.7896129" lon="145.1579996"/>
+  <node id="11007706681" lat="-37.7896695" lon="145.1579897"/>
+  <node id="11007706682" lat="-37.7892512" lon="145.1584602"/>
+  <node id="11007706683" lat="-37.7892894" lon="145.1584530"/>
+  <node id="11007706684" lat="-37.7892989" lon="145.1585381"/>
+  <node id="11007706685" lat="-37.7892878" lon="145.1585401"/>
+  <node id="11007706686" lat="-37.7892971" lon="145.1586173"/>
+  <node id="11007706715" lat="-37.7896767" lon="145.1580515"/>
+  <node id="11007706799" lat="-37.7895916" lon="145.1578970"/>
+  <node id="11007706807" lat="-37.7892302" lon="145.1579556"/>
+  <node id="434950837" lat="-37.8371628" lon="145.1840976"/>
+  <node id="2045666756" lat="-37.7621241" lon="145.1680902">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="907674176" lat="-37.8120412" lon="145.2284585">
+    <tag k="addr:housenumber" v="171-175"/>
+    <tag k="addr:postcode" v="3134"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Maroondah Highway"/>
+    <tag k="addr:suburb" v="Ringwood"/>
+    <tag k="branch" v="Eastland"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-20:00; Sa-Su 07:00-21:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8841 7618"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="320839137" lat="-37.8229337" lon="145.3020376">
+    <tag k="addr:housenumber" v="17-39"/>
+    <tag k="addr:postcode" v="3153"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Canterbury Road"/>
+    <tag k="addr:suburb" v="Bayswater North"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-00:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8756 2407"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="2140806514" lat="-37.8001309" lon="145.2830309">
+    <tag k="addr:housenumber" v="224-238"/>
+    <tag k="addr:postcode" v="3136"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Mount Dandenong Road"/>
+    <tag k="addr:suburb" v="Croydon"/>
+    <tag k="branch" v="Croydon"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8756 2428"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="323466241" lat="-37.8032350" lon="145.3108152">
+    <tag k="addr:housenumber" v="534-542"/>
+    <tag k="addr:postcode" v="3137"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Mount Dandenong Road"/>
+    <tag k="addr:suburb" v="Kilysth"/>
+    <tag k="addr:unit" v="1"/>
+    <tag k="branch" v="Kilsyth"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8756 2437"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/shop/storelocator/vic-kilsyth-3369"/>
+  </node>
+  <node id="907672698" lat="-37.7577207" lon="145.3136509">
+    <tag k="addr:housenumber" v="239-241"/>
+    <tag k="addr:postcode" v="3116"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Maroondah Highway"/>
+    <tag k="addr:suburb" v="Chirnside Park"/>
+    <tag k="branch" v="Chirnside Park"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8756 2422"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="1237207952" lat="-37.9095888" lon="145.3529914"/>
+  <node id="1237207969" lat="-37.9098014" lon="145.3529574"/>
+  <node id="1237207987" lat="-37.9094621" lon="145.3523933"/>
+  <node id="1237207989" lat="-37.9093597" lon="145.3526512"/>
+  <node id="1237207992" lat="-37.9093738" lon="145.3528262"/>
+  <node id="1237208037" lat="-37.9095056" lon="145.3529136"/>
+  <node id="1237208048" lat="-37.9093494" lon="145.3528683"/>
+  <node id="1237208050" lat="-37.9094924" lon="145.3529376"/>
+  <node id="1237208051" lat="-37.9093330" lon="145.3526253"/>
+  <node id="1237208058" lat="-37.9097741" lon="145.3527004"/>
+  <node id="2594883815" lat="-37.9097994" lon="145.3528351">
+    <tag k="door" v="automatic"/>
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="2594883832" lat="-37.9095476" lon="145.3529545">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="8778036978" lat="-37.9097900" lon="145.3527440"/>
+  <node id="8778037015" lat="-37.9093717" lon="145.3525532"/>
+  <node id="1237208024" lat="-37.9092751" lon="145.3527995"/>
+  <node id="738299902" lat="-37.8753514" lon="145.4088250">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="phone" v="+61 3 8756 2431"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="Survey"/>
+    <tag k="website" v="https://www.woolworths.com.au"/>
+  </node>
+  <node id="1463267082" lat="-37.9280261" lon="145.4452359"/>
+  <node id="1463267086" lat="-37.9272479" lon="145.4452484"/>
+  <node id="1463267087" lat="-37.9276005" lon="145.4449277"/>
+  <node id="1463267088" lat="-37.9275102" lon="145.4455966"/>
+  <node id="1463267090" lat="-37.9275389" lon="145.4448502"/>
+  <node id="1463267091" lat="-37.9280228" lon="145.4452802"/>
+  <node id="1477544111" lat="-37.9275691" lon="145.4449718"/>
+  <node id="1477544129" lat="-37.9275870" lon="145.4456902"/>
+  <node id="1477544136" lat="-37.9277509" lon="145.4455618"/>
+  <node id="1477544141" lat="-37.9278144" lon="145.4452890"/>
+  <node id="1477544145" lat="-37.9279311" lon="145.4451197"/>
+  <node id="1508462881" lat="-37.9274703" lon="145.4456457"/>
+  <node id="4804980539" lat="-37.9276108" lon="145.4456555"/>
+  <node id="4804980567" lat="-37.9276574" lon="145.4456929"/>
+  <node id="338906162" lat="-37.7601449" lon="145.3494123">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="3297551761" lat="-37.7771492" lon="145.4590878">
+    <tag k="addr:housenumber" v="568"/>
+    <tag k="addr:postcode" v="3139"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Warburton Highway"/>
+    <tag k="addr:suburb" v="Seville"/>
+    <tag k="branch" v="Seville"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 5949 4322"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <node id="653304918" lat="-37.7818758" lon="145.6127209">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="check_date" v="2023-04-11"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="852255628" lat="-37.7143724" lon="145.1499039"/>
+  <node id="852255637" lat="-37.7138101" lon="145.1505876"/>
+  <node id="852255651" lat="-37.7144668" lon="145.1501441"/>
+  <node id="852255683" lat="-37.7145032" lon="145.1504601"/>
+  <node id="852255747" lat="-37.7137446" lon="145.1500194"/>
+  <node id="852255766" lat="-37.7144015" lon="145.1501561"/>
+  <node id="10813930608" lat="-37.7140412" lon="145.1499648">
+    <tag k="entrance" v="main"/>
+  </node>
+  <node id="10813930611" lat="-37.7144360" lon="145.1501498"/>
+  <node id="10813930640" lat="-37.7144613" lon="145.1501451"/>
+  <node id="9104671053" lat="-37.6849181" lon="145.1356929">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4044969841" lat="-37.5870274" lon="145.1276968">
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </node>
+  <way id="129602943">
+    <nd ref="1429660637"/>
+    <nd ref="8481582407"/>
+    <nd ref="8481582408"/>
+    <nd ref="8481582409"/>
+    <nd ref="8481582410"/>
+    <nd ref="8481582411"/>
+    <nd ref="1429660630"/>
+    <nd ref="8232703070"/>
+    <nd ref="8232703072"/>
+    <nd ref="8232703073"/>
+    <nd ref="8232703071"/>
+    <nd ref="1429660638"/>
+    <nd ref="1429660634"/>
+    <nd ref="1429660637"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="315229190">
+    <nd ref="246714331"/>
+    <nd ref="246714330"/>
+    <nd ref="10181976871"/>
+    <nd ref="3285010488"/>
+    <nd ref="3213342891"/>
+    <nd ref="10181976868"/>
+    <nd ref="10181976869"/>
+    <nd ref="3213342886"/>
+    <nd ref="9871354023"/>
+    <nd ref="246714332"/>
+    <nd ref="246714331"/>
+    <tag k="addr:housenumber" v="991"/>
+    <tag k="addr:street" v="Point Nepean Road"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 5950 4026"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://woolworths.com.au"/>
+  </way>
+  <way id="33069545">
+    <nd ref="373087123"/>
+    <nd ref="2117563152"/>
+    <nd ref="2117563156"/>
+    <nd ref="373087124"/>
+    <nd ref="373087125"/>
+    <nd ref="373087126"/>
+    <nd ref="9705194309"/>
+    <nd ref="9705194278"/>
+    <nd ref="373087123"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="313189859">
+    <nd ref="3190979727"/>
+    <nd ref="3217264075"/>
+    <nd ref="3190979724"/>
+    <nd ref="3190979726"/>
+    <nd ref="367126545"/>
+    <nd ref="367126546"/>
+    <nd ref="367126547"/>
+    <nd ref="3190979727"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="note" v="Yes, there are really 2 in the same centre"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="45231460">
+    <nd ref="574206662"/>
+    <nd ref="9587022425"/>
+    <nd ref="574206663"/>
+    <nd ref="9323041572"/>
+    <nd ref="574206664"/>
+    <nd ref="574206665"/>
+    <nd ref="574206666"/>
+    <nd ref="574206667"/>
+    <nd ref="574206668"/>
+    <nd ref="574206662"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="nearmap"/>
+  </way>
+  <way id="39581668">
+    <nd ref="474423164"/>
+    <nd ref="474423167"/>
+    <nd ref="474423170"/>
+    <nd ref="474423176"/>
+    <nd ref="474423177"/>
+    <nd ref="474423179"/>
+    <nd ref="474423180"/>
+    <nd ref="474423181"/>
+    <nd ref="10744692259"/>
+    <nd ref="10744692273"/>
+    <nd ref="10744692267"/>
+    <nd ref="10744692257"/>
+    <nd ref="10744692263"/>
+    <nd ref="474423164"/>
+    <tag k="branch" v="Mentone"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="roof:shape" v="flat"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="137381684">
+    <nd ref="1507178773"/>
+    <nd ref="1507178779"/>
+    <nd ref="3222365525"/>
+    <nd ref="10558982667"/>
+    <nd ref="3222365523"/>
+    <nd ref="752188275"/>
+    <nd ref="752188274"/>
+    <nd ref="1507178776"/>
+    <nd ref="1507178773"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="full_name" v="Woolworths Highett"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="1039825454">
+    <nd ref="31657137"/>
+    <nd ref="9574713606"/>
+    <nd ref="9574713563"/>
+    <nd ref="666455405"/>
+    <nd ref="9159694314"/>
+    <nd ref="31657141"/>
+    <nd ref="9574713565"/>
+    <nd ref="9159694234"/>
+    <nd ref="619004859"/>
+    <nd ref="619004860"/>
+    <nd ref="619004861"/>
+    <nd ref="9574713564"/>
+    <nd ref="31657137"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="482165285">
+    <nd ref="4750208539"/>
+    <nd ref="7015965003"/>
+    <nd ref="7015965005"/>
+    <nd ref="7015965006"/>
+    <nd ref="7015965004"/>
+    <nd ref="4750208540"/>
+    <nd ref="7015965008"/>
+    <nd ref="7015965007"/>
+    <nd ref="9623653402"/>
+    <nd ref="9459509877"/>
+    <nd ref="9623522278"/>
+    <nd ref="9623522279"/>
+    <nd ref="9623522275"/>
+    <nd ref="7901312805"/>
+    <nd ref="9465850774"/>
+    <nd ref="9459509883"/>
+    <nd ref="9465850775"/>
+    <nd ref="9465850776"/>
+    <nd ref="7015965061"/>
+    <nd ref="9459509885"/>
+    <nd ref="4750208539"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="242170433">
+    <nd ref="2496900636"/>
+    <nd ref="2496900634"/>
+    <nd ref="10963003443"/>
+    <nd ref="10963003442"/>
+    <nd ref="10963003439"/>
+    <nd ref="10963003438"/>
+    <nd ref="9810327305"/>
+    <nd ref="10963003437"/>
+    <nd ref="10963003441"/>
+    <nd ref="10963003440"/>
+    <nd ref="2496900628"/>
+    <nd ref="2496900639"/>
+    <nd ref="2496900638"/>
+    <nd ref="2496900637"/>
+    <nd ref="2496900636"/>
+    <tag k="addr:city" v="St Albans"/>
+    <tag k="addr:housenumber" v="315-321"/>
+    <tag k="addr:postcode" v="3021"/>
+    <tag k="addr:street" v="Main Road East"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="27370878">
+    <nd ref="300467877"/>
+    <nd ref="300467612"/>
+    <nd ref="300467613"/>
+    <nd ref="300467603"/>
+    <nd ref="300776709"/>
+    <nd ref="300776710"/>
+    <nd ref="300467604"/>
+    <nd ref="300467878"/>
+    <nd ref="300467877"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="yahoo"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="320594363">
+    <nd ref="3271391701"/>
+    <nd ref="8263765388"/>
+    <nd ref="3271391695"/>
+    <nd ref="3271391702"/>
+    <nd ref="6231371445"/>
+    <nd ref="3271391707"/>
+    <nd ref="3271391701"/>
+    <tag k="addr:housenumber" v="353"/>
+    <tag k="addr:street" v="Hampton Street"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="1033660875">
+    <nd ref="328088847"/>
+    <nd ref="9523035649"/>
+    <nd ref="9523035619"/>
+    <nd ref="9523035654"/>
+    <nd ref="9523035655"/>
+    <nd ref="9523035653"/>
+    <nd ref="9523035620"/>
+    <nd ref="9523035638"/>
+    <nd ref="9523035636"/>
+    <nd ref="9523035621"/>
+    <nd ref="9523035622"/>
+    <nd ref="737245243"/>
+    <nd ref="9523035623"/>
+    <nd ref="9523035624"/>
+    <nd ref="9523035625"/>
+    <nd ref="9523035657"/>
+    <nd ref="9523035626"/>
+    <nd ref="9523035658"/>
+    <nd ref="9523141723"/>
+    <nd ref="9559200240"/>
+    <nd ref="9523035699"/>
+    <nd ref="9523141725"/>
+    <nd ref="9523035628"/>
+    <nd ref="9523035647"/>
+    <nd ref="9523035629"/>
+    <nd ref="328088847"/>
+    <tag k="addr:housenumber" v="104"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="branch" v="Middle Brighton"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="42387687">
+    <nd ref="529113808"/>
+    <nd ref="529113809"/>
+    <nd ref="633091912"/>
+    <nd ref="633091913"/>
+    <nd ref="529113810"/>
+    <nd ref="529113811"/>
+    <nd ref="633091914"/>
+    <nd ref="2175878776"/>
+    <nd ref="633091915"/>
+    <nd ref="633091916"/>
+    <nd ref="633091917"/>
+    <nd ref="2175878773"/>
+    <nd ref="633091918"/>
+    <nd ref="633091919"/>
+    <nd ref="529113808"/>
+    <tag k="branch" v="Moorabbin"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
+    <tag k="operator" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="38133869">
+    <nd ref="448813336"/>
+    <nd ref="448813337"/>
+    <nd ref="448813338"/>
+    <nd ref="448813339"/>
+    <nd ref="761987686"/>
+    <nd ref="10279585590"/>
+    <nd ref="10279585587"/>
+    <nd ref="448813336"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-12:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="116061199">
+    <nd ref="1309731902"/>
+    <nd ref="11047923036"/>
+    <nd ref="1309731903"/>
+    <nd ref="1309731904"/>
+    <nd ref="1309731901"/>
+    <nd ref="1309731902"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="180072288">
+    <nd ref="256667816"/>
+    <nd ref="1905071448"/>
+    <nd ref="1905071449"/>
+    <nd ref="1905071447"/>
+    <nd ref="256667816"/>
+    <tag k="addr:housenumber" v="551-557"/>
+    <tag k="addr:street" v="Warrigal Road"/>
+    <tag k="branch" v="Ashwood"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="06:00-24:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="roof:levels" v="0"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="38313264">
+    <nd ref="452347905"/>
+    <nd ref="452347907"/>
+    <nd ref="452347908"/>
+    <nd ref="452347909"/>
+    <nd ref="452347910"/>
+    <nd ref="452347912"/>
+    <nd ref="452347913"/>
+    <nd ref="452347914"/>
+    <nd ref="452347905"/>
+    <tag k="addr:housenumber" v="481"/>
+    <tag k="addr:street" v="Plummer Street"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="check_date" v="2023-04-03"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="902713937">
+    <nd ref="4716795586"/>
+    <nd ref="8384425112"/>
+    <nd ref="4716795368"/>
+    <nd ref="8384411875"/>
+    <nd ref="8384411878"/>
+    <nd ref="8384411874"/>
+    <nd ref="4716795413"/>
+    <nd ref="4716795731"/>
+    <nd ref="8384411876"/>
+    <nd ref="4716795387"/>
+    <nd ref="4716795586"/>
+    <tag k="branch" v="Southern Cross"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="1"/>
+    <tag k="location" v="surface"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="32217294">
+    <nd ref="361282551"/>
+    <nd ref="9618866204"/>
+    <nd ref="9618866203"/>
+    <nd ref="361282553"/>
+    <nd ref="9618866202"/>
+    <nd ref="361282554"/>
+    <nd ref="9618866198"/>
+    <nd ref="9618866199"/>
+    <nd ref="9618866200"/>
+    <nd ref="9618866201"/>
+    <nd ref="361282555"/>
+    <nd ref="361282551"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="location" v="surface"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="25717450">
+    <nd ref="280411656"/>
+    <nd ref="280411484"/>
+    <nd ref="280411386"/>
+    <nd ref="280411487"/>
+    <nd ref="280411388"/>
+    <nd ref="9799629357"/>
+    <nd ref="280411389"/>
+    <nd ref="280411390"/>
+    <nd ref="280411656"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="source:name" v="survey"/>
+  </way>
+  <way id="5078930">
+    <nd ref="8930728649"/>
+    <nd ref="8930728650"/>
+    <nd ref="8930728651"/>
+    <nd ref="8930728664"/>
+    <nd ref="8930728652"/>
+    <nd ref="8930728653"/>
+    <nd ref="34496385"/>
+    <nd ref="34496386"/>
+    <nd ref="34496387"/>
+    <nd ref="8930728649"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="building" v="retail"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="name:en" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="26585550">
+    <nd ref="291552617"/>
+    <nd ref="4213713219"/>
+    <nd ref="4213713221"/>
+    <nd ref="291552619"/>
+    <nd ref="291552622"/>
+    <nd ref="291552624"/>
+    <nd ref="9956231249"/>
+    <nd ref="291552617"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-24:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="28296634">
+    <nd ref="310742110"/>
+    <nd ref="310742111"/>
+    <nd ref="4320477384"/>
+    <nd ref="4320477383"/>
+    <nd ref="10931257207"/>
+    <nd ref="10931257208"/>
+    <nd ref="10931257206"/>
+    <nd ref="10931257205"/>
+    <nd ref="310742110"/>
+    <tag k="addr:city" v="Preston"/>
+    <tag k="addr:housenumber" v="50"/>
+    <tag k="addr:postcode" v="3072"/>
+    <tag k="addr:street" v="Plenty Road"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="full_name" v="Woolworths Preston South"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 94782022"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="220483801">
+    <nd ref="2295955017"/>
+    <nd ref="2295955019"/>
+    <nd ref="2295955021"/>
+    <nd ref="2295955023"/>
+    <nd ref="3397769631"/>
+    <nd ref="2295955026"/>
+    <nd ref="2295955028"/>
+    <nd ref="2295955030"/>
+    <nd ref="5575952453"/>
+    <nd ref="2295955032"/>
+    <nd ref="2295955034"/>
+    <nd ref="2295955036"/>
+    <nd ref="2295955038"/>
+    <nd ref="2295955041"/>
+    <nd ref="2295955017"/>
+    <tag k="addr:city" v="Preston"/>
+    <tag k="addr:housenumber" v="334"/>
+    <tag k="addr:postcode" v="3072"/>
+    <tag k="addr:street" v="Murray Road"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="full_name" v="Woolworths Preston"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-00:00"/>
+    <tag k="phone" v="+61 3 94782022"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="220714521">
+    <nd ref="2298060919"/>
+    <nd ref="2298060920"/>
+    <nd ref="2298060921"/>
+    <nd ref="2298060922"/>
+    <nd ref="2298060923"/>
+    <nd ref="2298060924"/>
+    <nd ref="2298060919"/>
+    <tag k="addr:housenumber" v="17"/>
+    <tag k="addr:postcode" v="3101"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Walpole Street"/>
+    <tag k="addr:suburb" v="Kew"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="full_name" v="Woolworths Kew"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-00:00; Su 07:00-24:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="179749474">
+    <nd ref="1901913671"/>
+    <nd ref="1901913842"/>
+    <nd ref="9406602898"/>
+    <nd ref="9322916513"/>
+    <nd ref="9322916512"/>
+    <nd ref="9322916511"/>
+    <nd ref="9322916510"/>
+    <nd ref="10679445654"/>
+    <nd ref="9322934622"/>
+    <nd ref="1901913705"/>
+    <nd ref="1901913815"/>
+    <nd ref="9322916514"/>
+    <nd ref="9322916515"/>
+    <nd ref="1901913671"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="commercial"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="709826601">
+    <nd ref="9900768236"/>
+    <nd ref="9900768235"/>
+    <nd ref="9900768238"/>
+    <nd ref="9900768237"/>
+    <nd ref="9900768236"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="307247316">
+    <nd ref="310943485"/>
+    <nd ref="1271841795"/>
+    <nd ref="3123409891"/>
+    <nd ref="1271841807"/>
+    <nd ref="310943485"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="74132052">
+    <nd ref="877003143"/>
+    <nd ref="877003149"/>
+    <nd ref="877003125"/>
+    <nd ref="8950242660"/>
+    <nd ref="8950242659"/>
+    <nd ref="8950242658"/>
+    <nd ref="877003127"/>
+    <nd ref="877003128"/>
+    <nd ref="877003129"/>
+    <nd ref="877003143"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="300805338">
+    <nd ref="3048930238"/>
+    <nd ref="3048930237"/>
+    <nd ref="3048930130"/>
+    <nd ref="3048930234"/>
+    <nd ref="3048930236"/>
+    <nd ref="3048930235"/>
+    <nd ref="3048930128"/>
+    <nd ref="3048930239"/>
+    <nd ref="3048930131"/>
+    <nd ref="3048930129"/>
+    <nd ref="3048930238"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="288302256">
+    <nd ref="2918617895"/>
+    <nd ref="9981732110"/>
+    <nd ref="9981732103"/>
+    <nd ref="9981732104"/>
+    <nd ref="9981732102"/>
+    <nd ref="9981732101"/>
+    <nd ref="2918617896"/>
+    <nd ref="2918617897"/>
+    <nd ref="9981732137"/>
+    <nd ref="9981732136"/>
+    <nd ref="9981732135"/>
+    <nd ref="3866514376"/>
+    <nd ref="2918617898"/>
+    <nd ref="9981732100"/>
+    <nd ref="9981732099"/>
+    <nd ref="2918617895"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="full_name" v="Woolworths Bundoora"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="PH,Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="49742215">
+    <nd ref="632183815"/>
+    <nd ref="4985941625"/>
+    <nd ref="632183816"/>
+    <nd ref="10779406192"/>
+    <nd ref="632183817"/>
+    <nd ref="632183818"/>
+    <nd ref="632183820"/>
+    <nd ref="632183821"/>
+    <nd ref="632183822"/>
+    <nd ref="632183838"/>
+    <nd ref="6622784013"/>
+    <nd ref="6622784015"/>
+    <nd ref="6622784016"/>
+    <nd ref="6622784014"/>
+    <nd ref="6622784012"/>
+    <nd ref="6622784025"/>
+    <nd ref="6622784011"/>
+    <nd ref="632183823"/>
+    <nd ref="632183824"/>
+    <nd ref="632183825"/>
+    <nd ref="632183826"/>
+    <nd ref="632183827"/>
+    <nd ref="3446496032"/>
+    <nd ref="632183828"/>
+    <nd ref="632183829"/>
+    <nd ref="632183831"/>
+    <nd ref="632183832"/>
+    <nd ref="632183815"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-24:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="532830670">
+    <nd ref="5170096200"/>
+    <nd ref="5170096201"/>
+    <nd ref="5170096198"/>
+    <nd ref="5170096196"/>
+    <nd ref="5170096195"/>
+    <nd ref="5170096194"/>
+    <nd ref="5170096202"/>
+    <nd ref="5170096205"/>
+    <nd ref="5170103325"/>
+    <nd ref="5170096214"/>
+    <nd ref="5170096207"/>
+    <nd ref="5170096204"/>
+    <nd ref="5170103328"/>
+    <nd ref="5170096197"/>
+    <nd ref="5170096217"/>
+    <nd ref="5170103329"/>
+    <nd ref="5170103326"/>
+    <nd ref="5170103321"/>
+    <nd ref="5170096203"/>
+    <nd ref="5170096200"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="1188874629">
+    <nd ref="11039319709"/>
+    <nd ref="11039319710"/>
+    <nd ref="11039319716"/>
+    <nd ref="11039319715"/>
+    <nd ref="11039319711"/>
+    <nd ref="11039319712"/>
+    <nd ref="11039319709"/>
+    <tag k="branch" v="Kalllo Towncentre"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="32742446">
+    <nd ref="368389221"/>
+    <nd ref="9781034882"/>
+    <nd ref="3974797872"/>
+    <nd ref="9177685386"/>
+    <nd ref="3974797871"/>
+    <nd ref="3974797870"/>
+    <nd ref="9781034884"/>
+    <nd ref="368389223"/>
+    <nd ref="9781034883"/>
+    <nd ref="368389224"/>
+    <nd ref="2172680831"/>
+    <nd ref="2172680829"/>
+    <nd ref="368389221"/>
+    <tag k="addr:housenumber" v="166-175"/>
+    <tag k="addr:street" v="Nepean Highway"/>
+    <tag k="branch" v="Seaford"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="operator:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="1023515331">
+    <nd ref="9438703698"/>
+    <nd ref="638198415"/>
+    <nd ref="638198414"/>
+    <nd ref="638198413"/>
+    <nd ref="638198410"/>
+    <nd ref="638198409"/>
+    <nd ref="9438703685"/>
+    <nd ref="9438703684"/>
+    <nd ref="9438703698"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="indoor" v="room"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="07:00-22:00"/>
+    <tag k="phone" v="+61 3 8793 3358"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="297124598">
+    <nd ref="3009653339"/>
+    <nd ref="2172680214"/>
+    <nd ref="606225030"/>
+    <nd ref="3009659498"/>
+    <nd ref="606224460"/>
+    <nd ref="606224462"/>
+    <nd ref="3009653340"/>
+    <nd ref="3009653339"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:colour" v="tan"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="roof:colour" v="grey"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="1088332200">
+    <nd ref="9971398648"/>
+    <nd ref="9971398652"/>
+    <nd ref="9971398656"/>
+    <nd ref="9971398659"/>
+    <nd ref="9971398660"/>
+    <nd ref="9971398661"/>
+    <nd ref="9971398662"/>
+    <nd ref="9971398663"/>
+    <nd ref="365485217"/>
+    <nd ref="9971398666"/>
+    <nd ref="9971398664"/>
+    <nd ref="9971398705"/>
+    <nd ref="9971398698"/>
+    <nd ref="9971398699"/>
+    <nd ref="9971398665"/>
+    <nd ref="9971398701"/>
+    <nd ref="9971398716"/>
+    <nd ref="9981351936"/>
+    <nd ref="9971398731"/>
+    <nd ref="9971398733"/>
+    <nd ref="9971398715"/>
+    <nd ref="9971398674"/>
+    <nd ref="9971398658"/>
+    <nd ref="1258863716"/>
+    <nd ref="9971398636"/>
+    <nd ref="9971398638"/>
+    <nd ref="9971398640"/>
+    <nd ref="9971398642"/>
+    <nd ref="9971398644"/>
+    <nd ref="9971398646"/>
+    <nd ref="9971398647"/>
+    <nd ref="9971398648"/>
+    <tag k="addr:housenumber" v="102-114"/>
+    <tag k="addr:street" v="Gladesville Boulevard"/>
+    <tag k="addr:unit" v="14A"/>
+    <tag k="branch" v="Patterson Lakes"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="221010720">
+    <nd ref="4041199908"/>
+    <nd ref="8269304740"/>
+    <nd ref="2300653193"/>
+    <nd ref="8269304746"/>
+    <nd ref="8269304745"/>
+    <nd ref="8269304747"/>
+    <nd ref="2695289220"/>
+    <nd ref="2432328241"/>
+    <nd ref="2300653195"/>
+    <nd ref="8269304741"/>
+    <nd ref="5213983297"/>
+    <nd ref="5213983300"/>
+    <nd ref="8269304748"/>
+    <nd ref="5202172017"/>
+    <nd ref="4041199908"/>
+    <tag k="addr:housenumber" v="302"/>
+    <tag k="addr:street" v="Springvale Road"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="224823942">
+    <nd ref="360213917"/>
+    <nd ref="2336785271"/>
+    <nd ref="2336785264"/>
+    <nd ref="360213914"/>
+    <nd ref="10582228583"/>
+    <nd ref="10582228582"/>
+    <nd ref="10582228581"/>
+    <nd ref="2336785282"/>
+    <nd ref="2336785276"/>
+    <nd ref="360213941"/>
+    <nd ref="10583176009"/>
+    <nd ref="360213920"/>
+    <nd ref="10583175985"/>
+    <nd ref="360213917"/>
+    <tag k="addr:city" v="Pakenham"/>
+    <tag k="addr:housenumber" v="55"/>
+    <tag k="addr:postcode" v="3810"/>
+    <tag k="addr:province" v="Victoria"/>
+    <tag k="addr:street" v="John Street"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="194204570">
+    <nd ref="2047212694"/>
+    <nd ref="2047212695"/>
+    <nd ref="2047212693"/>
+    <nd ref="2047212700"/>
+    <nd ref="2047212690"/>
+    <nd ref="2047212697"/>
+    <nd ref="1638685371"/>
+    <nd ref="2047212698"/>
+    <nd ref="10830947846"/>
+    <nd ref="2047212694"/>
+    <tag k="addr:housenumber" v="28"/>
+    <tag k="addr:postcode" v="3807"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Sylvia Road"/>
+    <tag k="addr:suburb" v="Beaconsfield"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8793 3349"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="41654970">
+    <nd ref="511961115"/>
+    <nd ref="1217475634"/>
+    <nd ref="1217475640"/>
+    <nd ref="1217475623"/>
+    <nd ref="7800138287"/>
+    <nd ref="511961117"/>
+    <nd ref="7800132083"/>
+    <nd ref="1903796204"/>
+    <nd ref="511961118"/>
+    <nd ref="1217475631"/>
+    <nd ref="1217475645"/>
+    <nd ref="511961120"/>
+    <nd ref="1453609907"/>
+    <nd ref="511961115"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au"/>
+  </way>
+  <way id="37320016">
+    <nd ref="434950832"/>
+    <nd ref="434950834"/>
+    <nd ref="434950837"/>
+    <nd ref="9789861322"/>
+    <nd ref="9789861321"/>
+    <nd ref="9789861320"/>
+    <nd ref="9789861319"/>
+    <nd ref="434950838"/>
+    <nd ref="9789867072"/>
+    <nd ref="434950839"/>
+    <nd ref="434953247"/>
+    <nd ref="9789861318"/>
+    <nd ref="434950841"/>
+    <nd ref="434950842"/>
+    <nd ref="434950832"/>
+    <tag k="addr:housenumber" v="2A"/>
+    <tag k="addr:street" v="Stevens Road"/>
+    <tag k="alt_name" v="Woolworths Vermont;Vermont Woolworths"/>
+    <tag k="branch" v="Vermont"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="check_date" v="2023-03-26"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:ref:abn" v="88000014675"/>
+    <tag k="phone" v="+61 3 8841 7624"/>
+    <tag k="ref" v="3173"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="109562315">
+    <nd ref="1253891932"/>
+    <nd ref="1253891998"/>
+    <nd ref="1253891953"/>
+    <nd ref="1253891996"/>
+    <nd ref="1253891997"/>
+    <nd ref="1253892009"/>
+    <nd ref="1253891957"/>
+    <nd ref="9175678267"/>
+    <nd ref="9175678268"/>
+    <nd ref="1253891988"/>
+    <nd ref="1253891977"/>
+    <nd ref="6105020128"/>
+    <nd ref="7099641103"/>
+    <nd ref="1253891932"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="1166006850">
+    <nd ref="10844952796"/>
+    <nd ref="10844952797"/>
+    <nd ref="301497295"/>
+    <nd ref="10844952792"/>
+    <nd ref="10844952798"/>
+    <nd ref="10844952796"/>
+    <tag k="addr:housenumber" v="1385"/>
+    <tag k="addr:postcode" v="3179"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Ferntree Gully Road"/>
+    <tag k="addr:suburb" v="Scoresby"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="32079895">
+    <nd ref="360153299"/>
+    <nd ref="360153301"/>
+    <nd ref="360153303"/>
+    <nd ref="360153305"/>
+    <nd ref="360153307"/>
+    <nd ref="360153309"/>
+    <nd ref="360153311"/>
+    <nd ref="360153313"/>
+    <nd ref="360153299"/>
+    <tag k="addr:housenumber" v="1038-1042"/>
+    <tag k="addr:street" v="Burwood Highway"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="phone" v="+61 3 8756 2416"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au"/>
+  </way>
+  <way id="108178136">
+    <nd ref="1241518605"/>
+    <nd ref="1241518712"/>
+    <nd ref="1241518613"/>
+    <nd ref="3809529805"/>
+    <nd ref="1241518789"/>
+    <nd ref="1241518791"/>
+    <nd ref="1241518644"/>
+    <nd ref="1241518680"/>
+    <nd ref="1282631320"/>
+    <nd ref="1241518758"/>
+    <nd ref="1241518617"/>
+    <nd ref="1241518772"/>
+    <nd ref="1241518668"/>
+    <nd ref="1241518653"/>
+    <nd ref="1241518605"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="yes"/>
+    <tag k="full_name" v="Woolworths Mountain Gate"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+    <tag k="phone" v="+61 3 8756 2440"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au"/>
+  </way>
+  <way id="85466397">
+    <nd ref="269619406"/>
+    <nd ref="10222639464"/>
+    <nd ref="10222639465"/>
+    <nd ref="10222639466"/>
+    <nd ref="10222639467"/>
+    <nd ref="10222639468"/>
+    <nd ref="10222639470"/>
+    <nd ref="10222639469"/>
+    <nd ref="10222639463"/>
+    <nd ref="10222639462"/>
+    <nd ref="10222639461"/>
+    <nd ref="10222639471"/>
+    <nd ref="10222639474"/>
+    <nd ref="10222639475"/>
+    <nd ref="10222639476"/>
+    <nd ref="619047402"/>
+    <nd ref="269619410"/>
+    <nd ref="269619411"/>
+    <nd ref="269619406"/>
+    <tag k="addr:housenumber" v="659"/>
+    <tag k="addr:postcode" v="3153"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Mountain Highway"/>
+    <tag k="addr:suburb" v="Bayswater"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8756 2413"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="418248053">
+    <nd ref="4186860683"/>
+    <nd ref="4186860684"/>
+    <nd ref="8340413549"/>
+    <nd ref="8340413548"/>
+    <nd ref="8340413534"/>
+    <nd ref="8340413533"/>
+    <nd ref="8340413532"/>
+    <nd ref="4186860687"/>
+    <nd ref="4186865097"/>
+    <nd ref="4186860688"/>
+    <nd ref="4186861189"/>
+    <nd ref="8340413541"/>
+    <nd ref="9425164939"/>
+    <nd ref="8340413540"/>
+    <nd ref="4186861190"/>
+    <nd ref="4186861191"/>
+    <nd ref="4186860683"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="06:00-00:00"/>
+    <tag k="operator" v="Woolworths"/>
+    <tag k="postal_code" v="3155"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="local_knowledge"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+  <way id="135971292">
+    <nd ref="1492302571"/>
+    <nd ref="8637199678"/>
+    <nd ref="1604801467"/>
+    <nd ref="1604801469"/>
+    <nd ref="1604801465"/>
+    <nd ref="1604801461"/>
+    <nd ref="1604801463"/>
+    <nd ref="1492302567"/>
+    <nd ref="9930614210"/>
+    <nd ref="1492302568"/>
+    <nd ref="1492302571"/>
+    <tag k="addr:housenumber" v="195"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="1185033336">
+    <nd ref="11007706672"/>
+    <nd ref="11007706673"/>
+    <nd ref="11007706674"/>
+    <nd ref="11007706686"/>
+    <nd ref="11007706685"/>
+    <nd ref="11007706684"/>
+    <nd ref="11007706683"/>
+    <nd ref="11007706682"/>
+    <nd ref="11007706675"/>
+    <nd ref="11007706807"/>
+    <nd ref="11007706676"/>
+    <nd ref="11007706677"/>
+    <nd ref="11007706678"/>
+    <nd ref="11007706799"/>
+    <nd ref="11007706679"/>
+    <nd ref="11007706680"/>
+    <nd ref="11007706681"/>
+    <nd ref="11007706715"/>
+    <nd ref="11007706672"/>
+    <tag k="addr:housenumber" v="958/978"/>
+    <tag k="addr:postcode" v="3109"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Doncaster Road"/>
+    <tag k="addr:suburb" v="Doncaster East"/>
+    <tag k="branch" v="Doncaster"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="0388417612"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="107692700">
+    <nd ref="1237207952"/>
+    <nd ref="1237207969"/>
+    <nd ref="2594883815"/>
+    <nd ref="8778036978"/>
+    <nd ref="1237208058"/>
+    <nd ref="1237207987"/>
+    <nd ref="8778037015"/>
+    <nd ref="1237208051"/>
+    <nd ref="1237207989"/>
+    <nd ref="1237208024"/>
+    <nd ref="1237208048"/>
+    <nd ref="1237207992"/>
+    <nd ref="1237208050"/>
+    <nd ref="1237208037"/>
+    <nd ref="2594883832"/>
+    <nd ref="1237207952"/>
+    <tag k="addr:housenumber" v="16-29"/>
+    <tag k="addr:street" v="Burwood Highway"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="phone" v="+61 3 8756 2410"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="132983798">
+    <nd ref="1463267087"/>
+    <nd ref="1463267090"/>
+    <nd ref="1463267086"/>
+    <nd ref="1508462881"/>
+    <nd ref="1463267088"/>
+    <nd ref="1477544129"/>
+    <nd ref="4804980539"/>
+    <nd ref="4804980567"/>
+    <nd ref="1477544136"/>
+    <nd ref="1463267091"/>
+    <nd ref="1463267082"/>
+    <nd ref="1477544145"/>
+    <nd ref="1477544141"/>
+    <nd ref="1477544111"/>
+    <nd ref="1463267087"/>
+    <tag k="addr:housenumber" v="383-385"/>
+    <tag k="addr:postcode" v="3782"/>
+    <tag k="addr:street" v="Belgrave-Gembrook Road"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="phone" v="+61 3 5949 4303"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.woolworths.com.au"/>
+  </way>
+  <way id="71679091">
+    <nd ref="852255637"/>
+    <nd ref="852255683"/>
+    <nd ref="852255651"/>
+    <nd ref="10813930640"/>
+    <nd ref="10813930611"/>
+    <nd ref="852255766"/>
+    <nd ref="852255628"/>
+    <nd ref="10813930608"/>
+    <nd ref="852255747"/>
+    <nd ref="852255637"/>
+    <tag k="brand" v="Woolworths"/>
+    <tag k="brand:wikidata" v="Q3249145"/>
+    <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="Woolworths"/>
+    <tag k="operator" v="Woolworths Group"/>
+    <tag k="operator:wikidata" v="Q607272"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="local_knowledge;nearmap"/>
+    <tag k="website" v="https://www.woolworths.com.au/"/>
+  </way>
+
+</osm>
