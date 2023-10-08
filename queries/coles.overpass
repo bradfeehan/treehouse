@@ -1,0 +1,8 @@
+area["name"="Melbourne"]["place"="city"] -> .melbourne;
+
+(
+  node["shop"="supermarket"]["brand"="Coles"](area.melbourne);
+  way["shop"="supermarket"]["brand"="Coles"](area.melbourne);
+);
+(._;>;);
+out body qt;
