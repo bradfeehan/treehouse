@@ -15,9 +15,10 @@ SOURCES := $(wildcard $(QUERY_DIR)/*.overpass)
 # Generates a list of target .xml filenames based on the source filenames
 RESULTS := $(patsubst $(QUERY_DIR)/%.overpass,$(OUTPUT_DIR)/%.xml,$(SOURCES))
 TARGETS := $(patsubst $(QUERY_DIR)/%.overpass,$(DATA_DIR)/%.geojson,$(SOURCES))
+OSM_PBF := docker/data/osm_file.pbf
 
 # The default target
-all: $(RESULTS) $(TARGETS)
+all: $(RESULTS) $(TARGETS) $(OSM_PBF)
 
 # Rule to make the output .geojson files from the source .overpass files
 $(DATA_DIR)/%.geojson: $(OUTPUT_DIR)/%.xml
@@ -29,9 +30,14 @@ $(OUTPUT_DIR)/%.xml: $(QUERY_DIR)/%.overpass
 	@mkdir -p "$(OUTPUT_DIR)"
 	curl --location --silent --show-error --request POST --data @$(<) $(OVERPASS_API) --output $(@)
 
+$(OSM_PBF):
+	@mkdir -p docker/data
+	curl --location --output $(@) --silent --show-error \
+	  'https://download.bbbike.org/osm/bbbike/Melbourne/Melbourne.osm.pbf'
+
 # A phony target for cleaning up the generated files
 clean:
-	@for target in $(RESULTS) $(TARGETS); do \
+	@for target in $(RESULTS) $(TARGETS) $(OSM_PBF); do \
 		rm -f "$$target"; \
 	done
 
