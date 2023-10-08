@@ -73,3 +73,37 @@ the included Docker Compose configuration:
 
 [OpenRouteService]: <https://openrouteservice.org>
 [BBBike.org]: <https://download.bbbike.org/osm/>
+
+TODO
+----
+
+Next steps and ideas (thanks ChatGPT)
+
+1. Data Visualization and Analysis in QGIS:
+  * Load and visualize the GeoJSON data files in QGIS.
+  * Style the layers for distinction: Use unique icons or colors for different datasets like train stations or
+    isochrones.
+  * Create buffer zones around points of interest for distance-based visualizations.
+2. Isochrone Analysis:
+  * Connect QGIS to the self-hosted OpenRouteService.
+  * Generate isochrones from specific points of interest.
+3. Layer Weighting System:
+  * Design a system to assign weights to each layer influencing the final visualization.
+  * Use QGIS functions such as layer blending modes, transparency settings, and expressions to represent these weights
+    visually.
+4. Develop an Interactive Application (Optional):
+  * Implement a frontend map visualization using Leaflet or Mapbox GL JS.
+  * Integrate the frontend with the self-hosted OpenRouteService to retrieve real-time isochrones.
+5. Optimization and Refinement:
+  * Update the OSM datasets periodically.
+  * Optimize the Docker configuration for efficient data storage and retrieval.
+  * Automate repetitive tasks for ease of use.
+6. Documentation:
+  * Document each step, from data retrieval to visualization, for clarity and future reference.
+7. Gather Feedback:
+  * Share the QGIS project or visual results with peers or experts.
+  * Collect feedback and identify areas for improvement.
+8. Future Expansion:
+  * Expand the project to other regions or datasets if necessary.
+  * Integrate additional data factors, such as crime rates, school zones, or recreational areas, to enhance the
+    decision-making process.
