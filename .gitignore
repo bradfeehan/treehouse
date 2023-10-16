@@ -1,5 +1,6 @@
 /node_modules/
 /docker/logs/
+/docker/data/gtfs.zip
 /docker/data/osm_file.pbf
-/docker/data/graphs/
 /docker/data/elevation_cache/
+/docker/data/graphs/

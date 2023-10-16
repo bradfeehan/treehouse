@@ -16,9 +16,10 @@ SOURCES := $(wildcard $(QUERY_DIR)/*.overpass)
 RESULTS := $(patsubst $(QUERY_DIR)/%.overpass,$(OUTPUT_DIR)/%.xml,$(SOURCES))
 TARGETS := $(patsubst $(QUERY_DIR)/%.overpass,$(DATA_DIR)/%.geojson,$(SOURCES))
 OSM_PBF := docker/data/osm_file.pbf
+GTFS_ZIP := docker/data/gtfs.zip
 
 # The default target
-all: $(RESULTS) $(TARGETS) $(OSM_PBF)
+all: $(RESULTS) $(TARGETS) $(OSM_PBF) $(GTFS_ZIP)
 
 # Rule to make the output .geojson files from the source .overpass files
 $(DATA_DIR)/%.geojson: $(OUTPUT_DIR)/%.xml
@@ -32,8 +33,13 @@ $(OUTPUT_DIR)/%.xml: $(QUERY_DIR)/%.overpass
 
 $(OSM_PBF):
 	@mkdir -p docker/data
-	curl --location --output $(@) --silent --show-error \
+	curl --location --output $(@) --show-error \
 	  'https://download.bbbike.org/osm/bbbike/Melbourne/Melbourne.osm.pbf'
+
+$(GTFS_ZIP):
+	@mkdir -p docker/data
+	curl --location --output $(@) --show-error \
+	  'https://data.ptv.vic.gov.au/downloads/gtfs.zip'
 
 # A phony target for cleaning up the generated files
 clean:
