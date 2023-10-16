@@ -69,7 +69,8 @@ the included Docker Compose configuration:
 
 1. Fetch the latest OpenStreetMap dataset of Melbourne, from [BBBike.org]: `make docker/data/osm_file.pbf`
 2. Start the server: `docker-compose up`
-3. Wait for the graph to regenerate (should take <30s for Melbourne dataset)
+3. Wait for the graph to regenerate (should take <5mins for Melbourne dataset). When done the log shows something like:
+    > `flushed graph totalMB:1024, usedMB:297`
 
 [OpenRouteService]: <https://openrouteservice.org>
 [BBBike.org]: <https://download.bbbike.org/osm/>
