@@ -1,8 +1,7 @@
 area["name"="Melbourne"]["place"="city"] -> .melbourne;
 
-(
-  node["shop"="supermarket"]["brand"="Coles"](area.melbourne);
-  way["shop"="supermarket"]["brand"="Coles"](area.melbourne);
-);
-(._;>;);
+node["shop"="supermarket"]["brand"="Coles"](area.melbourne);
 out body qt;
+
+way["shop"="supermarket"]["brand"="Coles"](area.melbourne);
+out center tags qt;

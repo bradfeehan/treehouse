@@ -1,0 +1,3182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-11-09T15:32:06Z" areas="2023-11-09T10:10:37Z"/>
+
+  <node id="1766897048" lat="-38.2298754" lon="145.0502982">
+    <tag k="name" v="Mornington"/>
+    <tag k="name:en" v="Mornington"/>
+    <tag k="name:zh" v="莫宁顿"/>
+    <tag k="operator" v="Mornington Railway Preservation Society"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+  </node>
+  <node id="1766897047" lat="-38.2139994" lon="145.1069582">
+    <tag k="addr:housenumber" v="460"/>
+    <tag k="addr:street" v="Moorooduc Highway"/>
+    <tag k="name" v="Moorooduc"/>
+    <tag k="network" v="Mornington"/>
+    <tag k="operator" v="Mornington Railway Preservation Society"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q14935232"/>
+    <tag k="wikipedia" v="en:Moorooduc railway station"/>
+  </node>
+  <node id="302195221" lat="-38.3538352" lon="145.1894034">
+    <tag k="name" v="Morradoo"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1136"/>
+    <tag k="wikidata" v="Q6913482"/>
+  </node>
+  <node id="330143891" lat="-38.3373754" lon="145.1779381">
+    <tag k="name" v="Bittern Station"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1046"/>
+    <tag k="wikidata" v="Q4919055"/>
+  </node>
+  <node id="1874062761" lat="-38.3056058" lon="145.1859934">
+    <tag k="name" v="Hastings"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="wikidata" v="Q14935150"/>
+  </node>
+  <node id="9882309912" lat="-38.2597861" lon="145.1862289">
+    <tag k="name" v="Tyabb Station"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref:ptv" v="19832"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1197"/>
+  </node>
+  <node id="4814726010" lat="-38.2254200" lon="145.1763347">
+    <tag k="name" v="Somerville"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q7559990"/>
+  </node>
+  <node id="4395817646" lat="-38.1520189" lon="145.1394271">
+    <tag k="name" v="Leawarra"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6510812"/>
+  </node>
+  <node id="498748439" lat="-37.9626364" lon="144.4987369">
+    <tag k="air_conditioning" v="no"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Little River"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6651727"/>
+  </node>
+  <node id="3291950580" lat="-37.8722432" lon="144.6084185">
+    <tag k="alt_name" v="s"/>
+    <tag k="name" v="Wyndham Vale"/>
+    <tag k="name:zh" v="云登威尔"/>
+    <tag k="operator" v="V/Line"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="WVL"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q8040134"/>
+  </node>
+  <node id="1874069605" lat="-37.8832314" lon="144.7010882">
+    <tag k="name" v="Hoppers Crossing"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5901246"/>
+  </node>
+  <node id="3349173431" lat="-37.8321522" lon="144.6946200">
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Tarneit"/>
+    <tag k="operator" v="V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7686408"/>
+  </node>
+  <node id="1774405225" lat="-38.0654490" lon="145.1201080">
+    <tag k="name" v="Bonbeach"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q4941225"/>
+  </node>
+  <node id="9284902621" lat="-38.0535931" lon="145.1167863">
+    <tag k="name" v="Chelsea"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1930471943" lat="-37.9502592" lon="145.0043868">
+    <tag k="addr:postcode" v="3191"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Station Street"/>
+    <tag k="addr:suburb" v="Sandringham"/>
+    <tag k="name" v="Sandringham"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SHM"/>
+    <tag k="ref:ptv" v="19948"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1173"/>
+    <tag k="wikidata" v="Q7416841"/>
+    <tag k="wikipedia" v="en:Sandringham railway station"/>
+  </node>
+  <node id="9800833882" lat="-38.0365046" lon="145.1075721">
+    <tag k="name" v="Edithvale"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="EDI"/>
+    <tag k="ref:ptv" v="19861"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1060"/>
+    <tag k="wikidata" v="Q5338706"/>
+    <tag k="wikipedia" v="en:Edithvale railway station"/>
+  </node>
+  <node id="1774405224" lat="-38.0272365" lon="145.1021263">
+    <tag k="name" v="Aspendale"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q4807863"/>
+  </node>
+  <node id="690177803" lat="-38.0067174" lon="145.0875658">
+    <tag k="name" v="Mordialloc"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="phone" v="+61 3 9610 6155"/>
+    <tag k="platforms" v="1"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/view/19863"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6910825"/>
+  </node>
+  <node id="1874069587" lat="-37.9484438" lon="145.0418800">
+    <tag k="name" v="Highett"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5758473"/>
+  </node>
+  <node id="1874062759" lat="-37.9670081" lon="145.0546951">
+    <tag k="name" v="Cheltenham"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5090255"/>
+  </node>
+  <node id="5336319435" lat="-37.9584027" lon="145.0488064">
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Southland"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1001/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7570886"/>
+  </node>
+  <node id="1774405230" lat="-37.9930643" lon="145.0762768">
+    <tag k="name" v="Parkdale"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7138223"/>
+  </node>
+  <node id="1845026155" lat="-37.8665999" lon="144.7607254">
+    <tag k="access" v="yes"/>
+    <tag k="name" v="Aircraft"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q4698564"/>
+  </node>
+  <node id="1763919353" lat="-37.8637978" lon="144.7723486">
+    <tag k="name" v="Laverton"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6502639"/>
+  </node>
+  <node id="4809526019" lat="-37.8651462" lon="144.8135062">
+    <tag k="name" v="Westona"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7989494"/>
+  </node>
+  <node id="3935689548" lat="-37.7660719" lon="144.7355342">
+    <tag k="name" v="Caroline Springs"/>
+    <tag k="operator" v="V/Line"/>
+    <tag k="platforms" v="1"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5045226"/>
+  </node>
+  <node id="36037470" lat="-37.7829314" lon="144.8014916">
+    <tag k="name" v="Ardeer"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4787882"/>
+  </node>
+  <node id="1763901264" lat="-37.8025395" lon="144.8914169">
+    <tag k="name" v="Middle Footscray"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6841399"/>
+  </node>
+  <node id="2591018879" lat="-37.7600098" lon="144.8112444">
+    <tag k="name" v="Ginifer"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5563127"/>
+  </node>
+  <node id="3787166146" lat="-37.9265062" lon="144.9890551">
+    <tag k="name" v="Brighton Beach"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q4967604"/>
+  </node>
+  <node id="7022891248" lat="-37.9381127" lon="145.0014764">
+    <tag k="name" v="Hampton"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5646342"/>
+  </node>
+  <node id="29928989" lat="-37.9149063" lon="144.9965413">
+    <tag k="name" v="Middle Brighton"/>
+    <tag k="name:zh" v="中布莱顿"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6841245"/>
+  </node>
+  <node id="1874241180" lat="-37.9048498" lon="145.0026141">
+    <tag k="name" v="North Brighton"/>
+    <tag k="name:zh" v="北布莱顿"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7054281"/>
+  </node>
+  <node id="7022891245" lat="-37.8966425" lon="145.0041759">
+    <tag k="name" v="Gardenvale"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5522498"/>
+  </node>
+  <node id="7022891246" lat="-37.8758915" lon="144.9952063">
+    <tag k="name" v="Ripponlea"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q7335746"/>
+  </node>
+  <node id="29980432" lat="-37.9343919" lon="145.0368952">
+    <tag k="name" v="Moorabbin"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6908070"/>
+  </node>
+  <node id="1764747359" lat="-37.9251159" lon="145.0354959">
+    <tag k="name" v="Patterson"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q7148480"/>
+  </node>
+  <node id="482806364" lat="-37.9175354" lon="145.0369346">
+    <tag k="name" v="Bentleigh"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4890445"/>
+  </node>
+  <node id="10038597433" lat="-37.9042587" lon="145.0394811">
+    <tag k="name" v="Ormond"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4989197315" lat="-37.8900716" lon="145.0420495">
+    <tag k="name" v="Glen Huntly"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5567817"/>
+    <tag k="wikipedia" v="en:Glen Huntly, Victoria"/>
+  </node>
+  <node id="27123069" lat="-37.8768611" lon="145.0691707">
+    <tag k="name" v="East Malvern"/>
+    <tag k="name:zh" v="东墨尔文"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5328928"/>
+  </node>
+  <node id="9562190856" lat="-37.8689803" lon="145.0629689">
+    <tag k="name" v="Darling"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5223945"/>
+  </node>
+  <node id="1874241214" lat="-37.8493440" lon="145.0417139">
+    <tag k="addr:postcode" v="3144"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Milton Parade"/>
+    <tag k="addr:suburb" v="Malvern"/>
+    <tag k="name" v="Tooronga"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="TGA"/>
+    <tag k="ref:ptv" v="19911"/>
+    <tag k="source" v="bing"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1195"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7824216"/>
+    <tag k="wikipedia" v="en:Tooronga railway station"/>
+  </node>
+  <node id="5557763438" lat="-37.8397773" lon="145.0330974">
+    <tag k="name" v="Kooyong"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6419922376" lat="-37.8590820" lon="145.0580273">
+    <tag k="name" v="Glen Iris"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2965462536" lat="-37.8683603" lon="145.0797334">
+    <tag k="addr:street" v="Ashburn Grove"/>
+    <tag k="name" v="Alamein"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ALM"/>
+    <tag k="ref:ptv" v="19847"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1002/"/>
+    <tag k="wikidata" v="Q4705898"/>
+    <tag k="wikipedia" v="en:Alamein railway station"/>
+  </node>
+  <node id="1763919352" lat="-37.8745091" lon="145.0902428">
+    <tag k="name" v="Holmesglen"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5883683"/>
+  </node>
+  <node id="27091664" lat="-37.8736635" lon="145.1122691">
+    <tag k="name" v="Jordanville"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6277377"/>
+  </node>
+  <node id="29764097" lat="-37.8620470" lon="145.0812907">
+    <tag k="addr:postcode" v="3147"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Welfare Parade"/>
+    <tag k="addr:suburb" v="Ashburton"/>
+    <tag k="name" v="Ashburton"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ASH"/>
+    <tag k="ref:ptv" v="19848"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1010"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4804680"/>
+    <tag k="wikipedia" v="en:Ashburton railway station, Melbourne"/>
+  </node>
+  <node id="29764104" lat="-37.8516710" lon="145.0805767">
+    <tag k="name" v="Burwood"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5001065"/>
+  </node>
+  <node id="4719964543" lat="-37.8440337" lon="145.0755686">
+    <tag k="name" v="Hartwell"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q5675424"/>
+    <tag k="wikipedia" v="en:Hartwell railway station"/>
+  </node>
+  <node id="1874241133" lat="-37.7939378" lon="144.9305645">
+    <tag k="name" v="Kensington"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="railway:ref" v="KEN"/>
+    <tag k="source" v="bing"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6391519"/>
+    <tag k="wikipedia" v="en:Kensington railway station, Melbourne"/>
+  </node>
+  <node id="31287044" lat="-37.7948639" lon="144.9360832">
+    <tag k="name" v="Macaulay"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="railway:ref" v="MAC"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6722765"/>
+  </node>
+  <node id="4805367723" lat="-37.7881653" lon="144.9392767">
+    <tag k="name" v="Flemington Bridge"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="FBD"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5151457219" lat="-37.8076092" lon="144.9423514">
+    <tag k="name" v="North Melbourne"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="old_name" v="North Melbourne"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="railway:ref" v="NME"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7056082"/>
+    <tag k="wikipedia" v="en:North Melbourne railway station"/>
+  </node>
+  <node id="2656917827" lat="-37.8044703" lon="144.9937555">
+    <tag k="name" v="Collingwood"/>
+    <tag k="name:zh" v="科林伍德"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5147325"/>
+  </node>
+  <node id="5132582207" lat="-37.8103686" lon="144.9925215">
+    <tag k="name" v="North Richmond"/>
+    <tag k="name:zh" v="北里士满"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1874241232" lat="-37.7991230" lon="144.9944300">
+    <tag k="addr:postcode" v="3067"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Little Turner Street"/>
+    <tag k="addr:suburb" v="Abbotsford"/>
+    <tag k="name" v="Victoria Park"/>
+    <tag k="name:zh" v="维多利亚帕克"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="VPK"/>
+    <tag k="ref:ptv" v="19975"/>
+    <tag k="source" v="bing"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1201"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7926946"/>
+    <tag k="wikipedia" v="en:Victoria Park railway station, Melbourne"/>
+  </node>
+  <node id="30287082" lat="-37.7753160" lon="144.9218467">
+    <tag k="name" v="Ascot Vale"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4804045"/>
+  </node>
+  <node id="1874241161" lat="-37.7659350" lon="144.9192614">
+    <tag k="name" v="Moonee Ponds"/>
+    <tag k="network" v="Public Transport Victoria"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6907731"/>
+  </node>
+  <node id="4805373169" lat="-37.7811810" lon="144.9523210">
+    <tag k="name" v="Royal Park"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="RPK"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="32315392" lat="-37.7749186" lon="144.9587440">
+    <tag k="addr:postcode" v="3056"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Wilson Avenue"/>
+    <tag k="addr:suburb" v="Brunswick"/>
+    <tag k="name" v="Jewell"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="JWL"/>
+    <tag k="ref:ptv" v="19969"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1103"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6189571"/>
+    <tag k="wikipedia" v="en:Jewell railway station"/>
+  </node>
+  <node id="32315393" lat="-37.7676910" lon="144.9596104">
+    <tag k="addr:postcode" v="3056"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Wilkinson Street"/>
+    <tag k="addr:suburb" v="Brunswick"/>
+    <tag k="name" v="Brunswick"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BWK"/>
+    <tag k="ref:ptv" v="19968"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1029"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4979569"/>
+    <tag k="wikipedia" v="en:Brunswick railway station, Melbourne"/>
+  </node>
+  <node id="30268281" lat="-37.7472086" lon="144.9209611">
+    <tag k="name" v="Glenbervie"/>
+    <tag k="network" v="Public Transport Victoria"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5568169"/>
+  </node>
+  <node id="9112284161" lat="-37.7439516" lon="144.9269287">
+    <tag k="name" v="Strathmore"/>
+    <tag k="network" v="Metro Trains Melbourne"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1874062754" lat="-37.7335442" lon="144.9628427">
+    <tag k="name" v="Batman"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4869423"/>
+  </node>
+  <node id="1874241194" lat="-37.7830163" lon="144.9921266">
+    <tag k="name" v="Rushall"/>
+    <tag k="name:zh" v="罗沙尔"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7380769"/>
+  </node>
+  <node id="30223632" lat="-37.7805188" lon="144.9993767">
+    <tag k="name" v="Westgarth"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q7988803"/>
+  </node>
+  <node id="1874241149" lat="-37.7776495" lon="144.9930448">
+    <tag k="name" v="Merri"/>
+    <tag k="name:zh" v="美丽"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6820043"/>
+  </node>
+  <node id="30226220" lat="-37.7792103" lon="145.0083669">
+    <tag k="name" v="Dennis"/>
+    <tag k="name:zh" v="丹尼斯"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5259100"/>
+  </node>
+  <node id="30226248" lat="-37.7791763" lon="145.0169241">
+    <tag k="addr:postcode" v="3078"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Railway Place"/>
+    <tag k="addr:suburb" v="Fairfield"/>
+    <tag k="name" v="Fairfield"/>
+    <tag k="name:zh" v="费尔菲尔德"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="FFD"/>
+    <tag k="ref:ptv" v="19930"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1065"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5430411"/>
+    <tag k="wikipedia" v="en:Fairfield railway station, Melbourne"/>
+  </node>
+  <node id="30223693" lat="-37.7698618" lon="144.9952847">
+    <tag k="name" v="Northcote"/>
+    <tag k="name:zh" v="诺思科特"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935264"/>
+  </node>
+  <node id="7884424366" lat="-37.7640557" lon="144.9970550">
+    <tag k="name" v="Croxton"/>
+    <tag k="name:zh" v="克罗克斯顿"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5189632"/>
+  </node>
+  <node id="7884448327" lat="-37.7549944" lon="144.9985944">
+    <tag k="name" v="Thornbury"/>
+    <tag k="name:zh" v="桑伯里站"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7796340"/>
+  </node>
+  <node id="7884463887" lat="-37.7459379" lon="145.0002687">
+    <tag k="name" v="Bell"/>
+    <tag k="name:zh" v="贝尔"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4883325"/>
+  </node>
+  <node id="4813285294" lat="-37.8216549" lon="145.0233187">
+    <tag k="name" v="Hawthorn"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4813285293" lat="-37.8213782" lon="145.0363494">
+    <tag k="name" v="Glenferrie"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="4719803446" lat="-37.8353952" lon="145.0701111">
+    <tag k="name" v="Willison"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q8022132"/>
+  </node>
+  <node id="5641543778" lat="-37.8257185" lon="145.0683091">
+    <tag k="addr:postcode" v="3124"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Sefton Place"/>
+    <tag k="addr:suburb" v="Camberwell"/>
+    <tag k="name" v="East Camberwell"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ECM"/>
+    <tag k="ref:ptv" v="19892"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1057/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5327981"/>
+    <tag k="wikipedia" v="en:East Camberwell railway station"/>
+  </node>
+  <node id="1763901251" lat="-37.8224057" lon="145.0458764">
+    <tag k="addr:postcode" v="3122"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Auburn Road"/>
+    <tag k="addr:suburb" v="Hawthorn"/>
+    <tag k="name" v="Auburn"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="AUB"/>
+    <tag k="ref:ptv" v="19903"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1012"/>
+    <tag k="wheelchair" v="limited"/>
+    <tag k="wikidata" v="Q4819343"/>
+    <tag k="wikipedia" v="en:Auburn railway station, Melbourne"/>
+  </node>
+  <node id="115049006" lat="-37.8247469" lon="145.0807636">
+    <tag k="name" v="Canterbury"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5033718"/>
+  </node>
+  <node id="2610870553" lat="-37.8242309" lon="145.0886628">
+    <tag k="addr:postcode" v="3127"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Stanley Terrace"/>
+    <tag k="addr:suburb" v="Surrey Hills"/>
+    <tag k="name" v="Chatham"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="CHM"/>
+    <tag k="ref:ptv" v="19894"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1037"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5087713"/>
+    <tag k="wikipedia" v="en:Chatham railway station, Melbourne"/>
+  </node>
+  <node id="10916248794" lat="-37.8223766" lon="145.1014154">
+    <tag k="addr:postcode" v="3127"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:suburb" v="Mont Albert"/>
+    <tag k="name" v="Union"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="UNN"/>
+    <tag k="ref:ptv" v="49343"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1229"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q111942807"/>
+    <tag k="wikipedia" v="en:Union railway station, Melbourne"/>
+  </node>
+  <node id="1874062750" lat="-37.7783921" lon="145.0312833">
+    <tag k="addr:postcode" v="3078"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Rowe Street"/>
+    <tag k="addr:suburb" v="Alphington"/>
+    <tag k="name" v="Alphington"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ALP"/>
+    <tag k="ref:ptv" v="19931"/>
+    <tag k="source" v="bing"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1004/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4735327"/>
+    <tag k="wikipedia" v="en:Alphington railway station"/>
+  </node>
+  <node id="30226366" lat="-37.7747529" lon="145.0386786">
+    <tag k="addr:postcode" v="3079"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Heidelberg Road"/>
+    <tag k="addr:suburb" v="Ivanhoe"/>
+    <tag k="name" v="Darebin"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="DBN"/>
+    <tag k="ref:ptv" v="19932"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1050"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5222490"/>
+    <tag k="wikipedia" v="en:Darebin railway station"/>
+  </node>
+  <node id="30226371" lat="-37.7688440" lon="145.0455919">
+    <tag k="name" v="Ivanhoe"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6098153"/>
+  </node>
+  <node id="30226443" lat="-37.7638101" lon="145.0537229">
+    <tag k="name" v="Eaglemont"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5325337"/>
+  </node>
+  <node id="30226555" lat="-37.7428035" lon="145.0661355">
+    <tag k="name" v="Rosanna"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935284"/>
+  </node>
+  <node id="2959705854" lat="-37.7033398" lon="144.5722479">
+    <tag k="name" v="Melton"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6813806"/>
+  </node>
+  <node id="5219137783" lat="-37.7125512" lon="144.6040773">
+    <tag k="name" v="Cobblebank"/>
+    <tag k="network" v="V/Line"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q48806785"/>
+  </node>
+  <node id="1764800401" lat="-37.7291013" lon="144.6505805">
+    <tag k="name" v="Rockbank"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7354968"/>
+  </node>
+  <node id="1763901261" lat="-37.7295638" lon="144.7938135">
+    <tag k="name" v="Keilor Plains"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6383751"/>
+  </node>
+  <node id="5627984367" lat="-37.7007808" lon="144.7738093">
+    <tag k="addr:city" v="Sydenham"/>
+    <tag k="addr:postcode" v="3037"/>
+    <tag k="addr:province" v="VIC"/>
+    <tag k="addr:street" v="Watergardens Circuit Road"/>
+    <tag k="name" v="Watergardens"/>
+    <tag k="network" v="Public Transport Victoria - Metro"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="WGS"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935313"/>
+  </node>
+  <node id="761558337" lat="-37.6275995" lon="144.7200075">
+    <tag k="name" v="Diggers Rest"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5275647"/>
+  </node>
+  <node id="5139485727" lat="-37.5791363" lon="144.7279832">
+    <tag k="name" v="Sunbury"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7639009"/>
+    <tag k="wikipedia" v="en:Sunbury railway station, Melbourne"/>
+  </node>
+  <node id="30267786" lat="-37.7308117" lon="144.9282131">
+    <tag k="name" v="Pascoe Vale"/>
+    <tag k="network" v="Public Transport Victoria"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7141846"/>
+  </node>
+  <node id="30267794" lat="-37.7179979" lon="144.9215272">
+    <tag k="name" v="Oak Park"/>
+    <tag k="network" v="Public Transport Victoria"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7073681"/>
+  </node>
+  <node id="1763919354" lat="-37.7209300" lon="144.9613325">
+    <tag k="name" v="Merlynston"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q6819838"/>
+  </node>
+  <node id="303258870" lat="-37.7146727" lon="144.9605203">
+    <tag k="name" v="Fawkner"/>
+    <tag k="network" v="train"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5438757"/>
+  </node>
+  <node id="301990838" lat="-37.6951482" lon="144.9158281">
+    <tag k="name" v="Jacana"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6110469"/>
+  </node>
+  <node id="31313508" lat="-37.7006282" lon="144.9587460">
+    <tag k="name" v="Gowrie"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q5590136"/>
+  </node>
+  <node id="7884459955" lat="-37.7283879" lon="145.0027776">
+    <tag k="name" v="Regent"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7308122"/>
+  </node>
+  <node id="1874241186" lat="-37.7168415" lon="145.0069944">
+    <tag k="fixme" v="New elevated station needs mapping: https://levelcrossings.vic.gov.au/projects/high-street-reservoir"/>
+    <tag k="name" v="Reservoir"/>
+    <tag k="name:zh" v="瑞泽瓦"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q7315333"/>
+  </node>
+  <node id="7884482807" lat="-37.7078998" lon="145.0094510">
+    <tag k="name" v="Ruthven"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7383421"/>
+  </node>
+  <node id="2965353208" lat="-37.6804981" lon="145.0142881">
+    <tag k="name" v="Thomastown"/>
+    <tag k="name:zh" v="湯馬斯镇"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1763901274" lat="-37.6660199" lon="144.9468555">
+    <tag k="name" v="Upfield"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q7898276"/>
+  </node>
+  <node id="2965346868" lat="-37.6658431" lon="145.0172760">
+    <tag k="name" v="Lalor"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="30226883" lat="-37.7261787" lon="145.0691029">
+    <tag k="name" v="Macleod"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q6724690"/>
+  </node>
+  <node id="30226899" lat="-37.7110022" lon="145.0836350">
+    <tag k="name" v="Watsonia"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q7974884"/>
+  </node>
+  <node id="10945578479" lat="-37.7152264" lon="145.1211163">
+    <tag k="name" v="Montmorency"/>
+    <tag k="network" v="Metro Trains Melbourne"/>
+    <tag k="network:wikidata" v="Q10931299"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+  </node>
+  <node id="5255112720" lat="-37.6441990" lon="145.0919880">
+    <tag k="name" v="Middle Gorge"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q30634711"/>
+  </node>
+  <node id="1764786828" lat="-37.6022613" lon="144.9430882">
+    <tag k="name" v="Craigieburn"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5181704"/>
+  </node>
+  <node id="764851994" lat="-37.5419879" lon="144.9702272">
+    <tag k="name" v="Donnybrook"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5296767"/>
+  </node>
+  <node id="5255116267" lat="-37.6226570" lon="145.0974101">
+    <tag k="name" v="Hawkstowe"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q28197659"/>
+  </node>
+  <node id="5255116525" lat="-37.6025021" lon="145.1009024">
+    <tag k="name" v="Mernda"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6819893"/>
+  </node>
+  <node id="1774405231" lat="-38.1040134" lon="145.1282259">
+    <tag k="name" v="Seaford"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q7440398"/>
+  </node>
+  <node id="9780989802" lat="-38.0997308" lon="145.2807256">
+    <tag k="addr:postcode" v="3977"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Station Street"/>
+    <tag k="addr:suburb" v="Cranbourne"/>
+    <tag k="name" v="Cranbourne"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="CBE"/>
+    <tag k="ref:PTV" v="19886"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1045"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5181938"/>
+    <tag k="wikipedia" v="en:Cranbourne railway station"/>
+  </node>
+  <node id="9787264998" lat="-38.0804510" lon="145.4863646">
+    <tag k="addr:postcode" v="3810"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Railway Avenue"/>
+    <tag k="addr:suburb" v="Pakenham"/>
+    <tag k="name" v="Pakenham"/>
+    <tag k="name:en" v="Pakenham"/>
+    <tag k="name:zh" v="帕克南"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="PKM"/>
+    <tag k="source" v="Bing"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q7125456"/>
+    <tag k="wikipedia" v="en:Pakenham railway station"/>
+  </node>
+  <node id="27071462" lat="-37.8752637" lon="145.1281258">
+    <tag k="name" v="Mount Waverley"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q6924528"/>
+  </node>
+  <node id="327832566" lat="-37.8762762" lon="145.1497930">
+    <tag k="name" v="Syndal"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7662288"/>
+  </node>
+  <node id="1777850736" lat="-37.9036086" lon="145.3313506">
+    <tag k="addr:postcode" v="3158"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Burwood Highway"/>
+    <tag k="addr:suburb" v="Upwey"/>
+    <tag k="name" v="Upwey"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="UPW"/>
+    <tag k="ref:ptv" v="19846"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1200"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7899498"/>
+    <tag k="wikipedia" v="en:Upwey railway station, Melbourne"/>
+  </node>
+  <node id="1763901275" lat="-37.8926144" lon="145.3077074">
+    <tag k="addr:postcode" v="3156"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Burwood Highway"/>
+    <tag k="addr:suburb" v="Upper Ferntree Gully"/>
+    <tag k="alt_name" v="Upper Fern Tree Gully"/>
+    <tag k="name" v="Upper Ferntree Gully"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="note" v="&quot;Upper Ferntree Gully&quot; officially registered on 02/05/1966"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="UFG"/>
+    <tag k="ref:ptv" v="19867"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1199"/>
+    <tag k="wikidata" v="Q7898644"/>
+    <tag k="wikipedia" v="en:Upper Ferntree Gully railway station"/>
+  </node>
+  <node id="1763901253" lat="-37.8417390" lon="145.2681208">
+    <tag k="addr:postcode" v="3153"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Station Street"/>
+    <tag k="addr:suburb" v="Bayswater"/>
+    <tag k="name" v="Bayswater"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BAY"/>
+    <tag k="ref:ptv" v="19870"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1016"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4874861"/>
+    <tag k="wikipedia" v="en:Bayswater railway station, Melbourne"/>
+  </node>
+  <node id="1763919351" lat="-37.8815825" lon="145.2951466">
+    <tag k="addr:postcode" v="3156"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Station Street"/>
+    <tag k="addr:suburb" v="Ferntree Gully"/>
+    <tag k="alt_name" v="Fern Tree Gully"/>
+    <tag k="name" v="Ferntree Gully"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="note" v="&quot;Ferntree Gully&quot; officially registered on 02/05/1966"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="FTG"/>
+    <tag k="ref:ptv" v="19868"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1067"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5445142"/>
+    <tag k="wikipedia" v="en:Ferntree Gully railway station"/>
+  </node>
+  <node id="1763901255" lat="-37.8606450" lon="145.2848446">
+    <tag k="addr:postcode" v="3155"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Genista Avenue"/>
+    <tag k="addr:suburb" v="Boronia"/>
+    <tag k="name" v="Boronia"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BOR"/>
+    <tag k="ref:ptv" v="19869"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1025"/>
+    <tag k="wikidata" v="Q4946281"/>
+    <tag k="wikipedia" v="en:Boronia railway station"/>
+  </node>
+  <node id="2965429197" lat="-37.8206741" lon="145.1408716">
+    <tag k="addr:postcode" v="3130"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Laburnum Street"/>
+    <tag k="addr:suburb" v="Blackburn"/>
+    <tag k="name" v="Laburnum"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="LAB"/>
+    <tag k="ref:ptv" v="19897"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1111"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6467697"/>
+    <tag k="wikipedia" v="en:Laburnum railway station"/>
+  </node>
+  <node id="2683027867" lat="-37.8180929" lon="145.1928003">
+    <tag k="addr:postcode" v="3132"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Mitcham Road"/>
+    <tag k="addr:suburb" v="Mitcham"/>
+    <tag k="name" v="Mitcham"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="MCH"/>
+    <tag k="ref:ptv" v="1128"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1128"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6881051"/>
+    <tag k="wikipedia" v="en:Mitcham railway station, Melbourne"/>
+  </node>
+  <node id="1874069580" lat="-37.8283636" lon="145.2445770">
+    <tag k="addr:postcode" v="3135"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Heathmont Road"/>
+    <tag k="addr:suburb" v="Heathmont"/>
+    <tag k="name" v="Heathmont"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="HMT"/>
+    <tag k="ref:ptv" v="19871"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1092"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935153"/>
+    <tag k="wikipedia" v="en:Heathmont railway station"/>
+  </node>
+  <node id="1763919359" lat="-37.8118681" lon="145.2502993">
+    <tag k="addr:postcode" v="3135"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Railway Avenue"/>
+    <tag k="addr:suburb" v="Ringwood East"/>
+    <tag k="name" v="Ringwood East"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="operator:wikidata" v="Q10931299"/>
+    <tag k="operator:wikipedia" v="en:Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="RWE"/>
+    <tag k="ref:ptv" v="19879"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1164"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7335019"/>
+    <tag k="wikipedia" v="en:Ringwood East railway station"/>
+  </node>
+  <node id="9342438843" lat="-37.7954517" lon="145.2804445">
+    <tag k="name" v="Croydon"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="CDN"/>
+    <tag k="ref:ptv" v="19878"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1048"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5189721"/>
+    <tag k="wikipedia" v="en:Croydon railway station, Melbourne"/>
+  </node>
+  <node id="29749085" lat="-37.7846970" lon="145.3131856">
+    <tag k="addr:postcode" v="3138"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Brice Avenue"/>
+    <tag k="addr:suburb" v="Mooroolbark"/>
+    <tag k="name" v="Mooroolbark"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="MLK"/>
+    <tag k="ref:PTV" v="19877"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1133/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6908452"/>
+    <tag k="wikipedia" v="en:Mooroolbark railway station"/>
+  </node>
+  <node id="9491071235" lat="-37.9080623" lon="145.3429395">
+    <tag k="addr:postcode" v="3160"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Campbell Street"/>
+    <tag k="addr:suburb" v="Tecoma"/>
+    <tag k="name" v="Tecoma"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="TCM"/>
+    <tag k="ref:ptv" v="19845"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1191"/>
+    <tag k="wikidata" v="Q7692774"/>
+    <tag k="wikipedia" v="en:Tecoma railway station"/>
+  </node>
+  <node id="608004817" lat="-37.9076757" lon="145.3565926">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="3160"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Old Monbulk Road"/>
+    <tag k="addr:suburb" v="Belgrave"/>
+    <tag k="alt_name" v="Puffing Billy Station"/>
+    <tag k="heritage" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Belgrave (Narrow-gauge)"/>
+    <tag k="name:en" v="Belgrave (Narrow-gauge)"/>
+    <tag k="name:zh" v="蒸汽小火車"/>
+    <tag k="operator" v="The Emerald Tourist Railway Board"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://puffingbilly.com.au"/>
+    <tag k="wikidata" v="Q4882678"/>
+    <tag k="wikipedia" v="en:Belgrave (Puffing Billy) railway station"/>
+  </node>
+  <node id="608004827" lat="-37.9090120" lon="145.3552458">
+    <tag k="addr:street" v="Belgrave - Gembrook Road"/>
+    <tag k="name" v="Belgrave"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BEG"/>
+    <tag k="ref:ptv" v="19844"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1018"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4882691"/>
+    <tag k="wikipedia" v="en:Belgrave railway station"/>
+  </node>
+  <node id="608004788" lat="-37.9208427" lon="145.4051373">
+    <tag k="addr:postcode" v="3159"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:suburb" v="Menzies Creek"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="internet_access:fee" v="no"/>
+    <tag k="name" v="Menzies Creek"/>
+    <tag k="old_name" v="Aura"/>
+    <tag k="operator" v="The Emerald Tourist Railway Board"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://puffingbilly.com.au/"/>
+    <tag k="wikidata" v="Q14935221"/>
+    <tag k="wikipedia" v="en:Menzies Creek railway station"/>
+  </node>
+  <node id="585162676" lat="-37.9336559" lon="145.4395209">
+    <tag k="addr:postcode" v="3782"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:suburb" v="Emerald"/>
+    <tag k="name" v="Emerald"/>
+    <tag k="operator" v="The Emerald Tourist Railway Board"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://puffingbilly.com.au"/>
+    <tag k="wikidata" v="Q5370506"/>
+    <tag k="wikipedia" v="en:Emerald railway station, Victoria"/>
+  </node>
+  <node id="3781902810" lat="-37.9303959" lon="145.4596473">
+    <tag k="addr:postcode" v="3782"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:suburb" v="Emerald"/>
+    <tag k="historic" v="yes"/>
+    <tag k="name" v="Lakeside"/>
+    <tag k="operator" v="The Emerald Tourist Railway Board"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q6479176"/>
+    <tag k="wikipedia" v="en:Lakeside railway station, Melbourne"/>
+  </node>
+  <node id="1763919348" lat="-37.9344838" lon="145.4914856">
+    <tag k="addr:postcode" v="3781"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:suburb" v="Cockatoo"/>
+    <tag k="name" v="Cockatoo"/>
+    <tag k="old_name" v="Devon;Cockatoo Creek"/>
+    <tag k="operator" v="The Emerald Tourist Railway Board"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5139535"/>
+    <tag k="wikipedia" v="en:Cockatoo railway station"/>
+  </node>
+  <node id="1763901262" lat="-37.7572829" lon="145.3456774">
+    <tag k="addr:postcode" v="3140"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Maroondah Highway"/>
+    <tag k="addr:suburb" v="Lilydale"/>
+    <tag k="name" v="Lilydale"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="LIL"/>
+    <tag k="ref:ptv" v="19853"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1032/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6548625"/>
+    <tag k="wikipedia" v="en:Lilydale railway station"/>
+  </node>
+  <node id="344408987" lat="-38.0815572" lon="145.5715520">
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Nar Nar Goon"/>
+    <tag k="network" v="Traralgon Line"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6965216"/>
+  </node>
+  <node id="4317923514" lat="-38.0848875" lon="145.6283668">
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Tynong"/>
+    <tag k="network" v="Traralgon Line"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="platforms" v="2"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q7860567"/>
+  </node>
+  <node id="3253318892" lat="-38.0911408" lon="145.6743633">
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Garfield"/>
+    <tag k="network" v="Traralgon/Bairnesdale lines"/>
+    <tag k="operator" v="V/Line"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q5523135"/>
+  </node>
+  <node id="1874020917" lat="-38.0989509" lon="145.7207056">
+    <tag k="name" v="Bunyip"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q4997981"/>
+  </node>
+  <node id="619567463" lat="-37.9502176" lon="145.5484381">
+    <tag k="name" v="Gembrook (Heritage)"/>
+    <tag k="operator" v="The Emerald Tourist Railway Board"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5530581"/>
+    <tag k="wikipedia" v="en:Gembrook railway station"/>
+  </node>
+  <node id="619550950" lat="-37.9521016" lon="145.5495811">
+    <tag k="addr:postcode" v="3783"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:suburb" v="Gembrook"/>
+    <tag k="name" v="Gembrook (Town)"/>
+    <tag k="operator" v="The Emerald Tourist Railway Board"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5530581"/>
+    <tag k="wikipedia" v="en:Gembrook railway station"/>
+  </node>
+  <node id="30266145" lat="-37.6733272" lon="145.1588075">
+    <tag k="name" v="Diamond Creek"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q5270762"/>
+  </node>
+  <node id="892863645" lat="-37.6640501" lon="145.1817328">
+    <tag k="name" v="Wattle Glen"/>
+    <tag k="name:zh" v="瓦特格林"/>
+    <tag k="note" v="The gazetted name of the station is Wattleglen, however Wattle Glen is used in all publications and signage."/>
+    <tag k="official_name" v="Wattleglen"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source:name" v="survey"/>
+    <tag k="source:official_name" v="http://services.land.vic.gov.au/vicnames/place.html?method=edit&amp;id=29024"/>
+  </node>
+  <node id="2436961483" lat="-37.6394230" lon="145.1921491">
+    <tag k="name" v="Hurstbridge"/>
+    <tag k="name:zh" v="赫斯布里奇"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q5948637"/>
+  </node>
+  <way id="130542652">
+    <center lat="-38.3659745" lon="145.2041427"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Crib Point"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5184871"/>
+  </way>
+  <way id="130521328">
+    <center lat="-38.3740775" lon="145.2216939"/>
+    <tag k="addr:housenumber" v="3"/>
+    <tag k="addr:postcode" v="3919"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Stony Point Road"/>
+    <tag k="addr:suburb" v="Crib Point"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Stony Point"/>
+    <tag k="name:zh" v="斯托尼波恩特"/>
+    <tag k="network" v="Metro Trains Melbourne"/>
+    <tag k="network:wikidata" v="Q10931299"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="platforms" v="1"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="STY"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q7619601"/>
+  </way>
+  <way id="131005946">
+    <center lat="-38.1940768" lon="145.1605070"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Baxter"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q4873870"/>
+  </way>
+  <way id="676956347">
+    <center lat="-37.8995056" lon="144.6609068"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="Werribee"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q7983586"/>
+  </way>
+  <way id="698468030">
+    <center lat="-38.0774817" lon="145.1230629"/>
+    <tag k="building" v="train_station"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:min_level" v="1"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Carrum"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="start_date" v="2020-02-17"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5046751"/>
+    <tag k="wikipedia" v="en:Carrum railway station"/>
+  </way>
+  <way id="951357382">
+    <center lat="-37.9827760" lon="145.0657960"/>
+    <tag k="area" v="yes"/>
+    <tag k="fixme" v="Location is approximate - imagery has not been updated"/>
+    <tag k="name" v="Mentone"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="MEN"/>
+    <tag k="ref:ptv" v="19865"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1122"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6817585"/>
+    <tag k="wikipedia" v="en:Mentone railway station"/>
+  </way>
+  <way id="215333709">
+    <center lat="-37.8700252" lon="144.7469588"/>
+    <tag k="addr:postcode" v="3027"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Altair Street"/>
+    <tag k="addr:suburb" v="Williams Landing"/>
+    <tag k="building" v="roof"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Williams Landing"/>
+    <tag k="name:zh" v="威蓝町"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="personal survey"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q8021060"/>
+  </way>
+  <way id="924122128">
+    <center lat="-37.8671804" lon="144.8295269"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Altona"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ALT"/>
+    <tag k="ref:ptv" v="19926"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1005"/>
+    <tag k="wikidata" v="Q4736939"/>
+    <tag k="wikipedia" v="en:Altona railway station"/>
+  </way>
+  <way id="488649106">
+    <center lat="-37.8678584" lon="144.8410575"/>
+    <tag k="building" v="train_station"/>
+    <tag k="layer" v="2"/>
+    <tag k="name" v="Seaholme"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7440491"/>
+  </way>
+  <way id="1036454128">
+    <center lat="-37.8639515" lon="144.8944553"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Williamstown Beach"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q8021294"/>
+  </way>
+  <way id="1036450996">
+    <center lat="-37.8676331" lon="144.9050972"/>
+    <tag k="name" v="Williamstown"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q8021315"/>
+  </way>
+  <way id="1036508106">
+    <center lat="-37.8424651" lon="144.8835636"/>
+    <tag k="name" v="Newport"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="NPT"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935252"/>
+  </way>
+  <way id="1036455373">
+    <center lat="-37.8570433" lon="144.8889320"/>
+    <tag k="name" v="North Williamstown"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q14935261"/>
+  </way>
+  <way id="74452814">
+    <center lat="-37.7773817" lon="144.7714119"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Deer Park"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="operator" v="Public Transport Victoria - Regional"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="nearmap"/>
+    <tag k="wikidata" v="Q5250821"/>
+  </way>
+  <way id="571563871">
+    <center lat="-37.7445346" lon="144.7996392"/>
+    <tag k="area" v="yes"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="St Albans"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7592290"/>
+  </way>
+  <way id="942506083">
+    <center lat="-37.7885785" lon="144.8327818"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Sunshine"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SUN"/>
+    <tag k="ref:ptv" v="20021"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1218"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q2246678"/>
+    <tag k="wikipedia" v="en:Sunshine railway station, Melbourne"/>
+  </way>
+  <way id="1036511921">
+    <center lat="-37.8307318" lon="144.8859162"/>
+    <tag k="name" v="Spotswood"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7580095"/>
+  </way>
+  <way id="1036516815">
+    <center lat="-37.8157400" lon="144.8900066"/>
+    <tag k="alt_name" v="Yarraville Railway Station"/>
+    <tag k="name" v="Yarraville"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="19996"/>
+    <tag k="source" v="https://www.ptv.vic.gov.au/stop/view/19996/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q8049547"/>
+  </way>
+  <way id="771258989">
+    <center lat="-37.7992726" lon="144.8632068"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Tottenham"/>
+    <tag k="name:zh" v="托特纳姆"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7828465"/>
+  </way>
+  <way id="240392178">
+    <center lat="-37.8017406" lon="144.8841139"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="West Footscray"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="WFY"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7985169"/>
+    <tag k="wikipedia" v="en:West Footscray railway station"/>
+  </way>
+  <way id="1036702501">
+    <center lat="-37.8090387" lon="144.8956437"/>
+    <tag k="addr:postcode" v="3011"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Pentland Parade"/>
+    <tag k="addr:suburb" v="Seddon"/>
+    <tag k="name" v="Seddon"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SEN"/>
+    <tag k="ref:PTV" v="19997"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1176/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7445172"/>
+    <tag k="wikipedia" v="en:Seddon railway station"/>
+  </way>
+  <way id="443781750">
+    <center lat="-37.8014321" lon="144.9022405"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Footscray"/>
+    <tag k="name:zh" v="富茨克雷"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="FSY"/>
+    <tag k="ref:ptv" v="20025"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1072"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5466579"/>
+    <tag k="wikipedia" v="en:Footscray railway station"/>
+  </way>
+  <way id="948914888">
+    <center lat="-37.7873752" lon="144.9073838"/>
+    <tag k="addr:postcode" v="3031"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Leonard Crescent"/>
+    <tag k="addr:suburb" v="Flemington"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Flemington Racecourse"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="RCE"/>
+    <tag k="ref:ptv" v="20027"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1070"/>
+    <tag k="wikidata" v="Q5458623"/>
+    <tag k="wikipedia" v="en:Flemington Racecourse railway station"/>
+  </way>
+  <way id="124702009">
+    <center lat="-37.7772065" lon="144.8243771"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Albion"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4712574"/>
+  </way>
+  <way id="401771555">
+    <center lat="-37.8851250" lon="145.0010886"/>
+    <tag k="name" v="Elsternwick"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ELS"/>
+    <tag k="ref:ptv" v="19954"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1061"/>
+    <tag k="wikidata" v="Q5367749"/>
+    <tag k="wikipedia" v="en:Elsternwick railway station"/>
+  </way>
+  <way id="397008499">
+    <center lat="-37.8696018" lon="144.9935114"/>
+    <tag k="name" v="Balaclava"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BCV"/>
+    <tag k="ref:ptv" v="19956"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1013"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4849756"/>
+    <tag k="wikipedia" v="en:Balaclava railway station, Melbourne"/>
+  </way>
+  <way id="403604216">
+    <center lat="-37.8498250" lon="144.9897945"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Prahran"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="PRA"/>
+    <tag k="ref:ptv" v="19958"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1158"/>
+    <tag k="wikidata" v="Q7237736"/>
+    <tag k="wikipedia" v="en:Prahran railway station"/>
+  </way>
+  <way id="432579242">
+    <center lat="-37.8558081" lon="144.9916619"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Windsor"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="WIN"/>
+    <tag k="ref:ptv" v="19957"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1214"/>
+    <tag k="wikidata" v="Q8024758"/>
+    <tag k="wikipedia" v="en:Windsor railway station, Melbourne"/>
+  </way>
+  <way id="409412661">
+    <center lat="-37.8506631" lon="145.0136792"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Toorak"/>
+    <tag k="name:zh" v="圖拉克"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="TOR"/>
+    <tag k="ref:ptv" v="19946"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1194"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935301"/>
+    <tag k="wikipedia" v="en:Toorak railway station"/>
+  </way>
+  <way id="714353207">
+    <center lat="-37.8446738" lon="145.0019694"/>
+    <tag k="description" v="Pakenham/Cranbourne services are limited at Hawksburn station."/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Hawksburn"/>
+    <tag k="name:zh" v="霍克斯本"/>
+    <tag k="network" v="Frankston/Pakenham/Cranbourne Line"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5685248"/>
+  </way>
+  <way id="389458167">
+    <center lat="-37.8381009" lon="144.9923700"/>
+    <tag k="addr:postcode" v="3141"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Toorak Road"/>
+    <tag k="addr:suburb" v="South Yarra"/>
+    <tag k="name" v="South Yarra"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SYR"/>
+    <tag k="ref:ptv" v="19959"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1180"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7568986"/>
+    <tag k="wikipedia" v="en:South Yarra railway station"/>
+  </way>
+  <way id="1036761435">
+    <center lat="-37.9114018" lon="145.0381036"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="McKinnon"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q6801998"/>
+  </way>
+  <way id="1096192747">
+    <center lat="-37.9034860" lon="145.0395961"/>
+    <tag k="addr:housenumber" v="483A"/>
+    <tag k="addr:postcode" v="3204"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="North Road"/>
+    <tag k="addr:suburb" v="Ormond"/>
+    <tag k="building:part" v="yes"/>
+    <tag k="name" v="Ormond"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7103457"/>
+  </way>
+  <way id="1078466761">
+    <center lat="-37.8902458" lon="145.0674727"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Murrumbeena"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="MRB"/>
+    <tag k="ref:ptv" v="19919"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q6939634"/>
+  </way>
+  <way id="588669965">
+    <center lat="-37.9245969" lon="145.1206232"/>
+    <tag k="addr:city" v="Clayton"/>
+    <tag k="addr:street" v="Carinish Road"/>
+    <tag k="building" v="train_station"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="layer" v="3"/>
+    <tag k="name" v="Clayton"/>
+    <tag k="name:zh" v="克雷顿"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="CLA"/>
+    <tag k="train" v="yes"/>
+  </way>
+  <way id="1078466764">
+    <center lat="-37.8939968" lon="145.0758087"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Hughesdale"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="HUG"/>
+    <tag k="ref:ptv" v="19918"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q14935164"/>
+  </way>
+  <way id="950248679">
+    <center lat="-37.9005970" lon="145.0885938"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Oakleigh"/>
+    <tag k="name:zh" v="奥克利"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="OAK"/>
+    <tag k="ref:ptv" v="19917"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1150"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7074121"/>
+    <tag k="wikipedia" v="en:Oakleigh railway station"/>
+  </way>
+  <way id="902494524">
+    <center lat="-37.9108364" lon="145.1021349"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Huntingdale"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref:ptv" v="19916"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1099"/>
+    <tag k="wikidata" v="Q5945076"/>
+    <tag k="wikipedia" v="en:Huntingdale railway station"/>
+  </way>
+  <way id="397008500">
+    <center lat="-37.8773212" lon="145.0423811"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Caulfield"/>
+    <tag k="name:en" v="Caulfield"/>
+    <tag k="name:zh" v="考菲尔德"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="CFD"/>
+    <tag k="ref:ptv" v="19943"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1036"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5054526"/>
+    <tag k="wikipedia" v="en:Caulfield railway station"/>
+  </way>
+  <way id="397260833">
+    <center lat="-37.8663425" lon="145.0294640"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Malvern"/>
+    <tag k="name:zh" v="墨尔文"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="MAL"/>
+    <tag k="ref:ptv" v="19944"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1118"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q6745096"/>
+    <tag k="wikipedia" v="en:Malvern railway station, Melbourne"/>
+  </way>
+  <way id="631561743">
+    <center lat="-37.8863001" lon="145.0587252"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Carnegie"/>
+    <tag k="name:zh" v="卡内基"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="CNE"/>
+    <tag k="ref:ptv" v="19920"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5043983"/>
+  </way>
+  <way id="403604215">
+    <center lat="-37.8562948" lon="145.0192436"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Armadale"/>
+    <tag k="name:zh" v="阿玛戴尔"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ARM"/>
+    <tag k="ref:ptv" v="19945"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1008"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4792530"/>
+    <tag k="wikipedia" v="en:Armadale railway station, Melbourne"/>
+  </way>
+  <way id="409455097">
+    <center lat="-37.8529030" lon="145.0511642"/>
+    <tag k="name" v="Gardiner"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="GAR"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5522549"/>
+  </way>
+  <way id="33261083">
+    <center lat="-37.8183768" lon="144.9523466"/>
+    <tag k="addr:housenumber" v="99"/>
+    <tag k="addr:postcode" v="3000"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Spencer Street"/>
+    <tag k="addr:suburb" v="Melbourne"/>
+    <tag k="building" v="train_station"/>
+    <tag k="building:colour" v="black"/>
+    <tag k="building:levels" v="3"/>
+    <tag k="building:material" v="glass"/>
+    <tag k="height" v="25 m"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Southern Cross"/>
+    <tag k="network" v="PTV;NSW TrainLink;Great Southern Rail"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line;NSW Trains;Great Southern Rail"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SSS"/>
+    <tag k="ref:ptv" v="22180"/>
+    <tag k="roof:shape" v="many"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1181"/>
+    <tag k="website:building" v="http://www.southerncrossstation.net.au/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q801455"/>
+    <tag k="wikipedia" v="en:Southern Cross railway station"/>
+  </way>
+  <way id="1079190311">
+    <center lat="-37.8181993" lon="144.9666138"/>
+    <tag k="addr:housenumber" v="207-361"/>
+    <tag k="addr:postcode" v="3000"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Flinders Street"/>
+    <tag k="addr:suburb" v="Melbourne"/>
+    <tag k="alt_name" v="Flinders Street Station"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Flinders Street"/>
+    <tag k="name:zh" v="弗林德斯街"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="FSS"/>
+    <tag k="ref:ptv" v="19854"/>
+    <tag k="source:addr:housenumber" v="https://vhd.heritagecouncil.vic.gov.au/places/752"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1071"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q260986"/>
+    <tag k="wikipedia" v="en:Flinders Street railway station"/>
+  </way>
+  <way id="460872000">
+    <center lat="-37.8118656" lon="144.9560156"/>
+    <tag k="layer" v="-1"/>
+    <tag k="location" v="underground"/>
+    <tag k="name" v="Flagstaff"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="FGS"/>
+    <tag k="ref:ptv" v="19841"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1068"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5457040"/>
+    <tag k="wikipedia" v="en:Flagstaff railway station"/>
+  </way>
+  <way id="1036449860">
+    <center lat="-37.7995140" lon="144.9248269"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="South Kensington"/>
+    <tag k="network" v="Public Transport Victoria"/>
+    <tag k="note" v="Sunbury services do not stop here."/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="railway" v="station"/>
+    <tag k="railway:ref" v="SKN"/>
+    <tag k="ref" v="20026"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7567602"/>
+  </way>
+  <way id="448787961">
+    <center lat="-37.7874238" lon="144.9290266"/>
+    <tag k="name" v="Newmarket"/>
+    <tag k="name:zh" v="纽马克"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="NKT"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935250"/>
+    <tag k="wikipedia" v="en:Newmarket railway station, Melbourne"/>
+  </way>
+  <way id="459973943">
+    <center lat="-37.8100345" lon="144.9624768"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Melbourne Central"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="MCE"/>
+    <tag k="ref:ptv" v="19842"/>
+    <tag k="structure" v="underground"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1120"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q12859055"/>
+    <tag k="wikipedia" v="en:Melbourne Central railway station"/>
+  </way>
+  <way id="413591728">
+    <center lat="-37.8239266" lon="144.9892693"/>
+    <tag k="addr:postcode" v="3121"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Punt Road"/>
+    <tag k="addr:suburb" v="Richmond"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Richmond"/>
+    <tag k="name:zh" v="里士满"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="RMD"/>
+    <tag k="ref:ptv" v="19908"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1162"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7331055"/>
+    <tag k="wikipedia" v="en:Richmond railway station, Melbourne"/>
+  </way>
+  <way id="458461654">
+    <center lat="-37.8109221" lon="144.9729099"/>
+    <tag k="addr:postcode" v="3000"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Spring Street"/>
+    <tag k="addr:suburb" v="Melbourne"/>
+    <tag k="area" v="yes"/>
+    <tag k="layer" v="-1"/>
+    <tag k="name" v="Parliament"/>
+    <tag k="name:ko" v="의회"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="PAR"/>
+    <tag k="ref:ptv" v="19843"/>
+    <tag k="structure" v="underground"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1155"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7138956"/>
+    <tag k="wikipedia" v="en:Parliament railway station"/>
+  </way>
+  <way id="735142298">
+    <center lat="-37.8147044" lon="144.9914857"/>
+    <tag k="name" v="West Richmond"/>
+    <tag k="name:zh" v="西里士满"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7986342"/>
+  </way>
+  <way id="413591726">
+    <center lat="-37.8164984" lon="144.9838347"/>
+    <tag k="addr:postcode" v="3002"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Wellington Parade"/>
+    <tag k="addr:suburb" v="East Melbourne"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Jolimont"/>
+    <tag k="name:en" v="Jolimont"/>
+    <tag k="name:zh" v="乔利蒙特"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="railway:ref" v="JLI"/>
+    <tag k="ref" v="JLI"/>
+    <tag k="ref:PTV" v="19979"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1104/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q13219693"/>
+    <tag k="wikipedia" v="en:Jolimont railway station"/>
+  </way>
+  <way id="414590975">
+    <center lat="-37.8263440" lon="144.9967559"/>
+    <tag k="addr:postcode" v="3121"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Church Street"/>
+    <tag k="addr:suburb" v="Cremorne"/>
+    <tag k="name" v="East Richmond"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ERM"/>
+    <tag k="ref:ptv" v="19907"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1059"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5329244"/>
+    <tag k="wikipedia" v="en:East Richmond railway station, Melbourne"/>
+  </way>
+  <way id="414590974">
+    <center lat="-37.8276110" lon="145.0080903"/>
+    <tag k="addr:postcode" v="3121"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Burnley Street"/>
+    <tag k="addr:suburb" v="Burnley"/>
+    <tag k="name" v="Burnley"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BLY"/>
+    <tag k="ref:PTV" v="19906"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1030/"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5000029"/>
+    <tag k="wikipedia" v="en:Burnley railway station"/>
+  </way>
+  <way id="714353208">
+    <center lat="-37.7888914" lon="144.9953594"/>
+    <tag k="name" v="Clifton Hill"/>
+    <tag k="name:zh" v="克利夫顿希尔"/>
+    <tag k="network" v="Hurstbridge / Mernda Line"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="bing"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5133247"/>
+  </way>
+  <way id="948914891">
+    <center lat="-37.7834366" lon="144.9150307"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Showgrounds"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SGS"/>
+    <tag k="ref:ptv" v="20028"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1177"/>
+    <tag k="wikidata" v="Q7503253"/>
+    <tag k="wikipedia" v="en:Showgrounds railway station, Melbourne"/>
+  </way>
+  <way id="1148464500">
+    <center lat="-37.7613451" lon="144.9607056"/>
+    <tag k="name" v="Anstey"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+  </way>
+  <way id="443043632">
+    <center lat="-37.7560971" lon="144.9162065"/>
+    <tag k="addr:street" v="Russell Street"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Essendon"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ESD"/>
+    <tag k="ref:ptv" v="20037"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1064"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5399488"/>
+    <tag k="wikipedia" v="en:Essendon railway station"/>
+  </way>
+  <way id="434337769">
+    <center lat="-37.7542928" lon="144.9619541"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Moreland"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935233"/>
+    <tag k="wikipedia" v="en:Moreland railway station"/>
+  </way>
+  <way id="944094648">
+    <center lat="-37.7419131" lon="144.9633779"/>
+    <tag k="area" v="yes"/>
+    <tag k="fixme" v="Location is approximate - new station location is not yet reflected in imagery"/>
+    <tag k="name" v="Coburg"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="COB"/>
+    <tag k="ref:ptv" v="19965"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1042"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5139028"/>
+    <tag k="wikipedia" v="en:Coburg railway station"/>
+  </way>
+  <way id="944193062">
+    <center lat="-37.7387674" lon="145.0005355"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Preston"/>
+    <tag k="name:zh" v="普雷斯頓"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="PRE"/>
+    <tag k="ref:ptv" v="20012"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1159"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7242035"/>
+    <tag k="wikipedia" v="en:Preston railway station, Melbourne"/>
+  </way>
+  <way id="1169218900">
+    <center lat="-37.8345211" lon="145.0226534"/>
+    <tag k="name" v="Heyington"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wheelchair" v="no"/>
+    <tag k="wikidata" v="Q14935157"/>
+  </way>
+  <way id="423619382">
+    <center lat="-37.8315022" lon="145.0694697"/>
+    <tag k="addr:postcode" v="3124"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Wandin Road"/>
+    <tag k="addr:suburb" v="Camberwell"/>
+    <tag k="name" v="Riversdale"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="RIV"/>
+    <tag k="ref:PTV" v="19852"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1166/"/>
+    <tag k="wikidata" v="Q7338363"/>
+    <tag k="wikipedia" v="en:Riversdale railway station"/>
+  </way>
+  <way id="412958109">
+    <center lat="-37.8265963" lon="145.0586525"/>
+    <tag k="addr:postcode" v="3124"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Burke Road"/>
+    <tag k="addr:suburb" v="Camberwell"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Camberwell"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="CAM"/>
+    <tag k="ref:ptv" v="19853"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1032"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5025070"/>
+    <tag k="wikipedia" v="en:Camberwell railway station, Melbourne"/>
+  </way>
+  <way id="430888679">
+    <center lat="-37.8193176" lon="145.1221238"/>
+    <tag k="addr:postcode" v="3128"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Station Street"/>
+    <tag k="addr:suburb" v="Box Hill"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="building:levels:underground" v="1"/>
+    <tag k="building:part" v="transportation"/>
+    <tag k="layer" v="-1"/>
+    <tag k="level" v="-1"/>
+    <tag k="name" v="Box Hill"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BOX"/>
+    <tag k="ref:ptv" v="20042"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1026"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4951548"/>
+    <tag k="wikipedia" v="en:Box Hill railway station, Melbourne"/>
+  </way>
+  <way id="949264035">
+    <center lat="-37.7571092" lon="145.0607923"/>
+    <tag k="addr:postcode" v="3084"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Studley Road"/>
+    <tag k="addr:suburb" v="Heidelberg"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Heidelberg"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="HDB"/>
+    <tag k="ref:ptv" v="19935"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1093"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5698739"/>
+    <tag k="wikipedia" v="en:Heidelberg railway station"/>
+  </way>
+  <way id="123697394">
+    <center lat="-37.7044446" lon="144.9173172"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Glenroy"/>
+    <tag k="operator" v="Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="wikidata" v="Q5569306"/>
+  </way>
+  <way id="431122379">
+    <center lat="-37.6828127" lon="144.9197003"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Broadmeadows"/>
+    <tag k="network" v="PTV;NSW TrainLink"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line;NSW Trains"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BMS"/>
+    <tag k="ref:ptv" v="20030"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1028"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q4972244"/>
+    <tag k="wikipedia" v="en:Broadmeadows railway station, Melbourne"/>
+  </way>
+  <way id="1187517824">
+    <center lat="-37.7162195" lon="145.0073265"/>
+    <tag k="building" v="yes"/>
+    <tag k="layer" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+  </way>
+  <way id="728997908">
+    <center lat="-37.6939759" lon="145.0119178"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Keon Park"/>
+    <tag k="name:zh" v="吉恩帕克"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="KPK"/>
+    <tag k="ref:ptv" v="20008"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1109"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935178"/>
+    <tag k="wikipedia" v="en:Keon Park railway station"/>
+  </way>
+  <way id="901055076">
+    <center lat="-37.6613546" lon="144.9261058"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Coolaroo"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="CLO"/>
+    <tag k="ref:ptv" v="44817"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1221"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5167410"/>
+    <tag k="wikipedia" v="en:Coolaroo railway station"/>
+  </way>
+  <way id="900975089">
+    <center lat="-37.6381679" lon="144.9353843"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Roxburgh Park"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="RXP"/>
+    <tag k="ref:ptv" v="40220"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1219"/>
+    <tag k="wikidata" v="Q7372406"/>
+    <tag k="wikipedia" v="en:Roxburgh Park railway station"/>
+  </way>
+  <way id="462072592">
+    <center lat="-37.7040174" lon="145.1081982"/>
+    <tag k="addr:city" v="Greensborough"/>
+    <tag k="addr:postcode" v="3088"/>
+    <tag k="addr:street" v="Poulter Avenue"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Greensborough"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="nohousenumber" v="yes"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="GRN"/>
+    <tag k="ref:ptv" v="19985"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5604482"/>
+    <tag k="wikipedia" v="en:Greensborough railway station"/>
+  </way>
+  <way id="901489159">
+    <center lat="-37.6523290" lon="145.0319334"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Epping"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="platforms" v="2"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="EPP"/>
+    <tag k="ref:ptv" v="20005"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1063"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5383900"/>
+    <tag k="wikipedia" v="en:Epping railway station, Melbourne"/>
+  </way>
+  <way id="899834198">
+    <center lat="-37.6492168" lon="145.0672690"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="South Morang"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SMG"/>
+    <tag k="ref:ptv" v="45795"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1224"/>
+    <tag k="wikidata" v="Q7567982"/>
+    <tag k="wikipedia" v="en:South Morang railway station"/>
+  </way>
+  <way id="889951534">
+    <center lat="-38.1427851" lon="145.1261424"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Frankston"/>
+    <tag k="name:zh" v="法兰克斯顿"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="FKN"/>
+    <tag k="ref:ptv" v="19855"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1073"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5492275"/>
+    <tag k="wikipedia" v="en:Frankston railway station"/>
+  </way>
+  <way id="889874959">
+    <center lat="-38.1216880" lon="145.1354187"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Kananook"/>
+    <tag k="name:zh" v="卡纳怒克"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="KAN"/>
+    <tag k="ref:ptv" v="19856"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1106"/>
+    <tag k="wikidata" v="Q14935175"/>
+    <tag k="wikipedia" v="en:Kananook railway station"/>
+  </way>
+  <way id="610494295">
+    <center lat="-38.0789223" lon="145.2635179"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Merinda Park"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="MPK"/>
+    <tag k="train" v="yes"/>
+  </way>
+  <way id="131641938">
+    <center lat="-38.0576753" lon="145.2493925"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Lynbrook"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+  </way>
+  <way id="1076774214">
+    <center lat="-37.9565064" lon="145.1628068"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Sandown Park"/>
+    <tag k="name:zh" v="桑当帕克"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SNP"/>
+    <tag k="ref:ptv" v="19891"/>
+    <tag k="train" v="yes"/>
+  </way>
+  <way id="910464860">
+    <center lat="-37.9495913" lon="145.1537838"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Springvale"/>
+    <tag k="name:en" v="Springvale"/>
+    <tag k="name:ru" v="Спрингвейл"/>
+    <tag k="name:zh" v="史宾威"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="SPG"/>
+    <tag k="ref:ptv" v="19913"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1183"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7581228"/>
+    <tag k="wikipedia" v="en:Springvale railway station"/>
+  </way>
+  <way id="1076771267">
+    <center lat="-37.9776569" lon="145.1909726"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Yarraman"/>
+    <tag k="name:zh" v="雅拉满"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="YMN"/>
+    <tag k="ref:ptv" v="19889"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q8049533"/>
+    <tag k="wikipedia" v="en:Yarraman railway station"/>
+  </way>
+  <way id="889426995">
+    <center lat="-37.9900573" lon="145.2097060"/>
+    <tag k="area" v="yes"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Dandenong"/>
+    <tag k="name:zh" v="丹德农"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="DNG"/>
+    <tag k="ref:ptv" v="19888"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1049"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5215706"/>
+    <tag k="wikipedia" v="en:Dandenong railway station"/>
+  </way>
+  <way id="765274052">
+    <center lat="-37.9664679" lon="145.1761493"/>
+    <tag k="building" v="train_station"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Noble Park"/>
+    <tag k="name:zh" v="诺布尔帕克"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q7045762"/>
+  </way>
+  <way id="1076771274">
+    <center lat="-38.0179566" lon="145.2703156"/>
+    <tag k="name" v="Hallam"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5642764"/>
+  </way>
+  <way id="1076771279">
+    <center lat="-38.0278136" lon="145.3039745"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Narre Warren"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="NWA"/>
+    <tag k="ref:ptv" v="19884"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q13651929"/>
+  </way>
+  <way id="1056586128">
+    <center lat="-38.0510861" lon="145.3665092"/>
+    <tag k="area" v="yes"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Beaconsfield"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q4876039"/>
+  </way>
+  <way id="1056586129">
+    <center lat="-38.0662964" lon="145.4117066"/>
+    <tag k="area" v="yes"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="Officer"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref:ptv" v="19881"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q7079470"/>
+  </way>
+  <way id="1054662431">
+    <center lat="-38.0712786" lon="145.4376367"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Cardinia Road"/>
+    <tag k="name:zh" v="卡尔迪尼亚路"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q5038695"/>
+  </way>
+  <way id="1076771280">
+    <center lat="-38.0401074" lon="145.3453070"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Berwick"/>
+    <tag k="network" v="PTV"/>
+    <tag k="operator" v="Metro Trains Melbourne;V/Line"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BEW"/>
+    <tag k="ref:ptv" v="19883"/>
+    <tag k="train" v="yes"/>
+    <tag k="wikidata" v="Q4896020"/>
+    <tag k="wikipedia" v="en:Berwick railway station, Melbourne"/>
+  </way>
+  <way id="1076777142">
+    <center lat="-37.9377802" lon="145.1379759"/>
+    <tag k="name" v="Westall"/>
+    <tag k="name:zh" v="韦斯托尔"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne;Public Transport Victoria - Metro"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="WTL"/>
+    <tag k="ref:ptv" v="19914"/>
+    <tag k="tactile_paving" v="yes"/>
+    <tag k="train" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7987100"/>
+  </way>
+  <way id="907601371">
+    <center lat="-37.8794708" lon="145.1623515"/>
+    <tag k="addr:street" v="Kingsway"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Glen Waverley"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="GWY"/>
+    <tag k="ref:ptv" v="19873"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1078"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5568094"/>
+    <tag k="wikipedia" v="en:Glen Waverley railway station"/>
+  </way>
+  <way id="463340079">
+    <center lat="-37.8200847" lon="145.1500487"/>
+    <tag k="addr:postcode" v="3130"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Railway Road"/>
+    <tag k="addr:suburb" v="Blackburn"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Blackburn"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="BBN"/>
+    <tag k="ref:ptv" v="19898"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1023"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q14935065"/>
+    <tag k="wikipedia" v="en:Blackburn railway station, Melbourne"/>
+  </way>
+  <way id="906386515">
+    <center lat="-37.8205253" lon="145.1746456"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Nunawading"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="NWG"/>
+    <tag k="ref:ptv" v="19899"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1148"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7069765"/>
+    <tag k="wikipedia" v="en:Nunawading railway station"/>
+  </way>
+  <way id="1012739109">
+    <center lat="-37.8188131" lon="145.2145089"/>
+    <tag k="addr:postcode" v="3134"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Heatherdale Road"/>
+    <tag k="addr:suburb" v="Ringwood"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Heatherdale"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="HTD"/>
+    <tag k="ref:ptv" v="19901"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://www.ptv.vic.gov.au/stop/1091"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5694210"/>
+    <tag k="wikipedia" v="en:Heatherdale railway station"/>
+  </way>
+  <way id="888793487">
+    <center lat="-37.8158332" lon="145.2290332"/>
+    <tag k="addr:postcode" v="3134"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:suburb" v="Ringwood"/>
+    <tag k="area" v="yes"/>
+    <tag k="name" v="Ringwood"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="RWD"/>
+    <tag k="ref:ptv" v="19902"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1163"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q7335031"/>
+    <tag k="wikipedia" v="en:Ringwood railway station, Melbourne"/>
+  </way>
+  <way id="904359779">
+    <center lat="-37.7137782" lon="145.1476014"/>
+    <tag k="name" v="Eltham"/>
+    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="station"/>
+    <tag k="ref" v="ELT"/>
+    <tag k="ref:ptv" v="19987"/>
+    <tag k="train" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/1062"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wikidata" v="Q5367805"/>
+    <tag k="wikipedia" v="en:Eltham railway station, Melbourne"/>
+  </way>
+  <way id="131295103">
+    <center lat="-37.6549931" lon="145.5102756"/>
+    <tag k="building" v="train_station"/>
+    <tag k="name" v="Healesville"/>
+    <tag k="railway" v="station"/>
+    <tag k="tourism" v="yes"/>
+    <tag k="wikidata" v="Q5690229"/>
+  </way>
+
+</osm>

@@ -1,0 +1,7 @@
+area["name"="Melbourne"]["place"="city"] -> .melbourne;
+
+node[railway=tram_stop](area.melbourne);
+out body qt;
+
+way[railway=tram_stop](area.melbourne);
+out center tags qt;

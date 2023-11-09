@@ -3,561 +3,54 @@
 "features": [
 {
   "type": "Feature",
-  "id": "way/51968747",
+  "id": "way/25797855",
   "properties": {
-    "addr:housenumber": "15",
-    "addr:postcode": "3915",
+    "addr:housenumber": "1-9",
+    "addr:postcode": "3104",
     "addr:state": "VIC",
-    "addr:street": "Church Street",
-    "addr:suburb": "Hastings",
+    "addr:street": "Doncaster Road",
+    "addr:suburb": "Balwyn North",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "retail",
+    "building": "supermarket",
     "name": "Coles",
-    "opening_hours": "Mo-Su 6:00-22:00",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "phone": "+61 3 5979 1700",
+    "opening_hours": "Mo-Sa 06:00-00:00; Su 06:00-24:00",
+    "phone": "+613 9859 1221",
     "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/51968747"
+    "id": "way/25797855"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          145.1910149,
-          -38.3060965
-        ],
-        [
-          145.1908643,
-          -38.3060932
-        ],
-        [
-          145.1908639,
-          -38.306201
-        ],
-        [
-          145.1909593,
-          -38.3062008
-        ],
-        [
-          145.1909595,
-          -38.3063113
-        ],
-        [
-          145.191009,
-          -38.3063113
-        ],
-        [
-          145.1910094,
-          -38.3065048
-        ],
-        [
-          145.1919708,
-          -38.3065037
-        ],
-        [
-          145.1919701,
-          -38.3060954
-        ],
-        [
-          145.1910149,
-          -38.3060965
-        ]
-      ]
+      145.0647462,
+      -37.7930171
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/39581680",
+  "id": "way/33840185",
   "properties": {
-    "addr:housenumber": "81-93",
-    "addr:street": "Mentone Parade",
+    "addr:housenumber": "190",
+    "addr:street": "Union Street",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "retail",
+    "full_name": "Coles West Brunswick",
     "name": "Coles",
-    "shop": "supermarket",
-    "toilets:wheelchair": "no",
-    "website": "https://www.coles.com.au/",
-    "wheelchair": "yes",
-    "id": "way/39581680"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0640036,
-          -37.984164
-        ],
-        [
-          145.0639921,
-          -37.9842224
-        ],
-        [
-          145.0647091,
-          -37.984307
-        ],
-        [
-          145.0647095,
-          -37.9842916
-        ],
-        [
-          145.0647293,
-          -37.9842907
-        ],
-        [
-          145.0647487,
-          -37.9839215
-        ],
-        [
-          145.0643517,
-          -37.9838745
-        ],
-        [
-          145.0640678,
-          -37.9838397
-        ],
-        [
-          145.0640036,
-          -37.984164
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/391365574",
-  "properties": {
-    "addr:housenumber": "361",
-    "addr:street": "Bluff Road",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "retail",
-    "building:levels": "1",
-    "name": "Coles",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "phone": "+61 3 9598 8744",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/391365574"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0215285,
-          -37.9451315
-        ],
-        [
-          145.0214731,
-          -37.9454193
-        ],
-        [
-          145.0216657,
-          -37.9454415
-        ],
-        [
-          145.0216632,
-          -37.945458
-        ],
-        [
-          145.0217531,
-          -37.9454687
-        ],
-        [
-          145.021854,
-          -37.9454817
-        ],
-        [
-          145.0218657,
-          -37.9454262
-        ],
-        [
-          145.022077,
-          -37.9454535
-        ],
-        [
-          145.0221092,
-          -37.9452853
-        ],
-        [
-          145.0220261,
-          -37.9452754
-        ],
-        [
-          145.0220371,
-          -37.945218
-        ],
-        [
-          145.0220416,
-          -37.9451944
-        ],
-        [
-          145.0219539,
-          -37.9451839
-        ],
-        [
-          145.0215285,
-          -37.9451315
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/53843626",
-  "properties": {
-    "addr:city": "Altona",
-    "addr:postcode": "3018",
-    "addr:street": "Pier Street and Queen Street",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "yes",
-    "landuse": "retail",
-    "name": "Coles",
-    "opening_hours": "Mo-Su 7:00-0:00",
-    "phone": "+61 3 93983754",
-    "shop": "supermarket",
-    "id": "way/53843626"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          144.8301563,
-          -37.8691963
-        ],
-        [
-          144.8301799,
-          -37.8691835
-        ],
-        [
-          144.8301942,
-          -37.8691538
-        ],
-        [
-          144.8302559,
-          -37.8687219
-        ],
-        [
-          144.8302629,
-          -37.8686733
-        ],
-        [
-          144.8299831,
-          -37.868647
-        ],
-        [
-          144.8298089,
-          -37.86863
-        ],
-        [
-          144.8297128,
-          -37.8691699
-        ],
-        [
-          144.8297953,
-          -37.8691821
-        ],
-        [
-          144.8298013,
-          -37.8692101
-        ],
-        [
-          144.8301563,
-          -37.8691963
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/490242047",
-  "properties": {
-    "area": "yes",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "level": "0",
-    "name": "Coles",
-    "room": "shop",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/490242047"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          144.8476972,
-          -37.8285946
-        ],
-        [
-          144.8480078,
-          -37.8286256
-        ],
-        [
-          144.8480195,
-          -37.8285529
-        ],
-        [
-          144.8482024,
-          -37.8285712
-        ],
-        [
-          144.848212,
-          -37.8285112
-        ],
-        [
-          144.8482695,
-          -37.828172
-        ],
-        [
-          144.8483121,
-          -37.8279282
-        ],
-        [
-          144.8482855,
-          -37.8278912
-        ],
-        [
-          144.8481848,
-          -37.8278829
-        ],
-        [
-          144.8479517,
-          -37.8278644
-        ],
-        [
-          144.8478673,
-          -37.8278577
-        ],
-        [
-          144.8478068,
-          -37.8278534
-        ],
-        [
-          144.8478014,
-          -37.8278995
-        ],
-        [
-          144.8477951,
-          -37.8279543
-        ],
-        [
-          144.8477899,
-          -37.8279989
-        ],
-        [
-          144.8477841,
-          -37.8280498
-        ],
-        [
-          144.8477827,
-          -37.828061
-        ],
-        [
-          144.8477814,
-          -37.8280723
-        ],
-        [
-          144.8477784,
-          -37.8280939
-        ],
-        [
-          144.8477368,
-          -37.8283476
-        ],
-        [
-          144.8477288,
-          -37.8283976
-        ],
-        [
-          144.8477184,
-          -37.8284621
-        ],
-        [
-          144.8476972,
-          -37.8285946
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/329099952",
-  "properties": {
-    "addr:housenumber": "1-3",
-    "addr:street": "High Street",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "yes",
-    "name": "Coles",
-    "opening_hours": "Mo-Su 06:00-23:00",
+    "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00",
     "operator": "Coles Group",
     "operator:wikidata": "Q1339055",
     "shop": "supermarket",
-    "id": "way/329099952"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          144.8809477,
-          -37.8165601
-        ],
-        [
-          144.8809363,
-          -37.8166166
-        ],
-        [
-          144.8808356,
-          -37.8166059
-        ],
-        [
-          144.8807391,
-          -37.8171543
-        ],
-        [
-          144.881277,
-          -37.817217
-        ],
-        [
-          144.8812849,
-          -37.8171848
-        ],
-        [
-          144.8813044,
-          -37.8170758
-        ],
-        [
-          144.8814024,
-          -37.816566
-        ],
-        [
-          144.8810996,
-          -37.8165329
-        ],
-        [
-          144.8810134,
-          -37.8165227
-        ],
-        [
-          144.8809477,
-          -37.8165601
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/262518576",
-  "properties": {
-    "addr:housenumber": "53-65",
-    "addr:street": "Military Road",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "yes",
-    "name": "Coles",
-    "operator": "Coles",
-    "shop": "supermarket",
-    "id": "way/262518576"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          144.8631677,
-          -37.767046
-        ],
-        [
-          144.8630504,
-          -37.7677668
-        ],
-        [
-          144.8635884,
-          -37.7678215
-        ],
-        [
-          144.8637056,
-          -37.7671007
-        ],
-        [
-          144.8631677,
-          -37.767046
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/236242345",
-  "properties": {
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "retail",
-    "name": "Coles",
-    "shop": "supermarket",
     "website": "https://www.coles.com.au/",
-    "id": "way/236242345"
+    "id": "way/33840185"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          144.910924,
-          -37.7438766
-        ],
-        [
-          144.910889,
-          -37.7436555
-        ],
-        [
-          144.9108786,
-          -37.7435864
-        ],
-        [
-          144.9104591,
-          -37.743556
-        ],
-        [
-          144.9105179,
-          -37.7437955
-        ],
-        [
-          144.91055,
-          -37.7439264
-        ],
-        [
-          144.910924,
-          -37.7438766
-        ]
-      ]
+      144.9488152,
+      -37.7724084
     ]
   }
 },
@@ -579,247 +72,65 @@
     "id": "way/38225804"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          145.0382987,
-          -37.9173419
-        ],
-        [
-          145.0382867,
-          -37.9174096
-        ],
-        [
-          145.0382264,
-          -37.9174019
-        ],
-        [
-          145.0381942,
-          -37.9175788
-        ],
-        [
-          145.038177,
-          -37.9175872
-        ],
-        [
-          145.0381562,
-          -37.9177073
-        ],
-        [
-          145.0383205,
-          -37.9177229
-        ],
-        [
-          145.0383478,
-          -37.9177255
-        ],
-        [
-          145.0383496,
-          -37.9177151
-        ],
-        [
-          145.0388165,
-          -37.9177627
-        ],
-        [
-          145.0388581,
-          -37.9174899
-        ],
-        [
-          145.0388218,
-          -37.9174847
-        ],
-        [
-          145.0388201,
-          -37.9173983
-        ],
-        [
-          145.0382987,
-          -37.9173419
-        ]
-      ]
+      145.0385071,
+      -37.9175523
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/166249327",
+  "id": "way/39581680",
   "properties": {
-    "addr:housenumber": "160-178",
-    "addr:street": "Glenferrie Road",
+    "addr:housenumber": "81-93",
+    "addr:street": "Mentone Parade",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
     "building": "retail",
-    "full_name": "Coles Malvern",
     "name": "Coles",
     "shop": "supermarket",
+    "toilets:wheelchair": "no",
     "website": "https://www.coles.com.au/",
-    "id": "way/166249327"
+    "wheelchair": "yes",
+    "id": "way/39581680"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          145.028801,
-          -37.860328
-        ],
-        [
-          145.0290155,
-          -37.8603555
-        ],
-        [
-          145.0292811,
-          -37.8603936
-        ],
-        [
-          145.0292074,
-          -37.8608369
-        ],
-        [
-          145.0293661,
-          -37.8608568
-        ],
-        [
-          145.0294014,
-          -37.8606293
-        ],
-        [
-          145.0294192,
-          -37.8605006
-        ],
-        [
-          145.0294004,
-          -37.8604995
-        ],
-        [
-          145.0294246,
-          -37.8603449
-        ],
-        [
-          145.0294045,
-          -37.8603417
-        ],
-        [
-          145.0294446,
-          -37.8600917
-        ],
-        [
-          145.0293198,
-          -37.8600747
-        ],
-        [
-          145.0288545,
-          -37.8600089
-        ],
-        [
-          145.028801,
-          -37.860328
-        ]
-      ]
+      145.0643704,
+      -37.9840734
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/112445024",
+  "id": "way/51968747",
   "properties": {
-    "addr:housenumber": "620",
-    "addr:street": "Victoria Street",
-    "branch": "Victoria Gardens",
+    "addr:housenumber": "15",
+    "addr:postcode": "3915",
+    "addr:state": "VIC",
+    "addr:street": "Church Street",
+    "addr:suburb": "Hastings",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
-    "full_name": "Coles Victoria Gardens",
-    "layer": "1",
+    "building": "retail",
     "name": "Coles",
-    "opening_hours": "Mo-Su 06:00-00:00",
+    "opening_hours": "Mo-Su 6:00-22:00",
     "operator": "Coles Group",
     "operator:wikidata": "Q1339055",
-    "phone": "+61 3 9429 5811",
+    "phone": "+61 3 5979 1700",
     "shop": "supermarket",
     "website": "https://www.coles.com.au/",
-    "id": "way/112445024"
+    "id": "way/51968747"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          145.0111947,
-          -37.8135769
-        ],
-        [
-          145.0111237,
-          -37.8140577
-        ],
-        [
-          145.0111087,
-          -37.8142303
-        ],
-        [
-          145.0111776,
-          -37.8142355
-        ],
-        [
-          145.0113919,
-          -37.81426
-        ],
-        [
-          145.0113804,
-          -37.81433
-        ],
-        [
-          145.011487,
-          -37.8143416
-        ],
-        [
-          145.0114999,
-          -37.8142704
-        ],
-        [
-          145.0117593,
-          -37.8142999
-        ],
-        [
-          145.0117637,
-          -37.8142605
-        ],
-        [
-          145.0118036,
-          -37.8142642
-        ],
-        [
-          145.0118173,
-          -37.8141936
-        ],
-        [
-          145.0119206,
-          -37.8141974
-        ],
-        [
-          145.0120163,
-          -37.8137277
-        ],
-        [
-          145.0120283,
-          -37.8137094
-        ],
-        [
-          145.0120221,
-          -37.8136353
-        ],
-        [
-          145.0119313,
-          -37.8136273
-        ],
-        [
-          145.0111947,
-          -37.8135769
-        ]
-      ]
+      145.1914173,
+      -38.306299
     ]
   }
 },
@@ -848,1205 +159,36 @@
     "id": "way/53839901"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          144.9777803,
-          -37.7981636
-        ],
-        [
-          144.9780064,
-          -37.7981884
-        ],
-        [
-          144.978064,
-          -37.7981947
-        ],
-        [
-          144.9780942,
-          -37.7980274
-        ],
-        [
-          144.9781244,
-          -37.7978579
-        ],
-        [
-          144.9781352,
-          -37.7977981
-        ],
-        [
-          144.9781793,
-          -37.7975385
-        ],
-        [
-          144.97794,
-          -37.7975122
-        ],
-        [
-          144.9778958,
-          -37.7975074
-        ],
-        [
-          144.9777803,
-          -37.7981636
-        ]
-      ]
+      144.9779798,
+      -37.7978511
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/33840185",
+  "id": "way/53843626",
   "properties": {
-    "addr:housenumber": "190",
-    "addr:street": "Union Street",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "full_name": "Coles West Brunswick",
-    "name": "Coles",
-    "opening_hours": "Mo-Fr 07:00-22:00; Sa,Su 08:00-22:00",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/33840185"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          144.9486445,
-          -37.7721153
-        ],
-        [
-          144.9485348,
-          -37.7726415
-        ],
-        [
-          144.9489953,
-          -37.7727014
-        ],
-        [
-          144.9490257,
-          -37.7725556
-        ],
-        [
-          144.9490372,
-          -37.7724992
-        ],
-        [
-          144.9490494,
-          -37.7724397
-        ],
-        [
-          144.9490724,
-          -37.7723156
-        ],
-        [
-          144.9490957,
-          -37.7721765
-        ],
-        [
-          144.9486445,
-          -37.7721153
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/826855625",
-  "properties": {
-    "addr:housenumber": "689-699",
-    "addr:street": "Glenferrie Road",
+    "addr:city": "Altona",
+    "addr:postcode": "3018",
+    "addr:street": "Pier Street and Queen Street",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
     "building": "yes",
+    "landuse": "retail",
     "name": "Coles",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
+    "opening_hours": "Mo-Su 7:00-0:00",
+    "phone": "+61 3 93983754",
     "shop": "supermarket",
-    "id": "way/826855625"
+    "id": "way/53843626"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          145.0352347,
-          -37.8198665
-        ],
-        [
-          145.0351851,
-          -37.8201256
-        ],
-        [
-          145.0353298,
-          -37.8201429
-        ],
-        [
-          145.0357073,
-          -37.8201808
-        ],
-        [
-          145.0357531,
-          -37.8199198
-        ],
-        [
-          145.0352347,
-          -37.8198665
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/523105425",
-  "properties": {
-    "addr:housenumber": "369",
-    "addr:postcode": "3101",
-    "addr:state": "VIC",
-    "addr:street": "High Street",
-    "addr:suburb": "Kew",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "retail",
-    "name": "Coles",
-    "opening_hours": "06:00-23:00",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "phone": "+613 4243 4700",
-    "shop": "supermarket",
-    "id": "way/523105425"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0375083,
-          -37.8038226
-        ],
-        [
-          145.0374935,
-          -37.8039113
-        ],
-        [
-          145.0376186,
-          -37.8039244
-        ],
-        [
-          145.0375678,
-          -37.8042282
-        ],
-        [
-          145.0378267,
-          -37.8041454
-        ],
-        [
-          145.0378579,
-          -37.8041354
-        ],
-        [
-          145.0379707,
-          -37.8040993
-        ],
-        [
-          145.0379928,
-          -37.8040922
-        ],
-        [
-          145.0382286,
-          -37.8040167
-        ],
-        [
-          145.0379608,
-          -37.8034943
-        ],
-        [
-          145.0372203,
-          -37.8034172
-        ],
-        [
-          145.0371936,
-          -37.8035771
-        ],
-        [
-          145.0375849,
-          -37.8036179
-        ],
-        [
-          145.03755,
-          -37.803827
-        ],
-        [
-          145.0375083,
-          -37.8038226
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/25797855",
-  "properties": {
-    "addr:housenumber": "1-9",
-    "addr:postcode": "3104",
-    "addr:state": "VIC",
-    "addr:street": "Doncaster Road",
-    "addr:suburb": "Balwyn North",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "supermarket",
-    "name": "Coles",
-    "opening_hours": "Mo-Sa 06:00-00:00; Su 06:00-24:00",
-    "phone": "+613 9859 1221",
-    "shop": "supermarket",
-    "id": "way/25797855"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0643426,
-          -37.7929281
-        ],
-        [
-          145.0643077,
-          -37.7930352
-        ],
-        [
-          145.0643303,
-          -37.7931274
-        ],
-        [
-          145.0644086,
-          -37.7931948
-        ],
-        [
-          145.0650323,
-          -37.7931186
-        ],
-        [
-          145.0651848,
-          -37.7930992
-        ],
-        [
-          145.0651272,
-          -37.7928393
-        ],
-        [
-          145.0646243,
-          -37.7929091
-        ],
-        [
-          145.0645046,
-          -37.7929117
-        ],
-        [
-          145.0643426,
-          -37.7929281
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/612495369",
-  "properties": {
-    "addr:housenumber": "735",
-    "addr:postcode": "3124",
-    "addr:state": "VIC",
-    "addr:street": "Riversdale Road",
-    "addr:suburb": "Camberwell",
-    "branch": "Middle Camberwell",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "yes",
-    "building:levels": "2",
-    "name": "Coles",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "shop": "supermarket",
-    "id": "way/612495369"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0768456,
-          -37.8331644
-        ],
-        [
-          145.0767841,
-          -37.8335644
-        ],
-        [
-          145.0777569,
-          -37.833685
-        ],
-        [
-          145.0778555,
-          -37.8336338
-        ],
-        [
-          145.0778936,
-          -37.8334355
-        ],
-        [
-          145.07786,
-          -37.8334317
-        ],
-        [
-          145.0778639,
-          -37.8334004
-        ],
-        [
-          145.0775504,
-          -37.8333627
-        ],
-        [
-          145.0775716,
-          -37.8332465
-        ],
-        [
-          145.0768456,
-          -37.8331644
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/112564353",
-  "properties": {
-    "addr:housenumber": "4",
-    "addr:street": "Livingstone Street",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "check_date": "2023-04-20",
-    "name": "Coles",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/112564353"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0419229,
-          -37.7682332
-        ],
-        [
-          145.0418842,
-          -37.7684522
-        ],
-        [
-          145.0419529,
-          -37.7684586
-        ],
-        [
-          145.0419979,
-          -37.7684628
-        ],
-        [
-          145.0421261,
-          -37.7683733
-        ],
-        [
-          145.0422098,
-          -37.7683392
-        ],
-        [
-          145.0422999,
-          -37.7678773
-        ],
-        [
-          145.0420223,
-          -37.7678434
-        ],
-        [
-          145.0420091,
-          -37.767911
-        ],
-        [
-          145.0414759,
-          -37.7678461
-        ],
-        [
-          145.0414128,
-          -37.7681798
-        ],
-        [
-          145.0416665,
-          -37.7682076
-        ],
-        [
-          145.0419229,
-          -37.7682332
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/111679185",
-  "properties": {
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building:part": "yes",
-    "name": "Coles",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/111679185"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0280461,
-          -37.7388165
-        ],
-        [
-          145.0279356,
-          -37.7394318
-        ],
-        [
-          145.0285267,
-          -37.7395002
-        ],
-        [
-          145.0286441,
-          -37.7388851
-        ],
-        [
-          145.0280461,
-          -37.7388165
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/112553029",
-  "properties": {
-    "addr:housenumber": "56",
-    "addr:street": "Burgundy Street",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "name": "Coles",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/112553029"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0692184,
-          -37.7555712
-        ],
-        [
-          145.069172,
-          -37.7558323
-        ],
-        [
-          145.0691239,
-          -37.7561035
-        ],
-        [
-          145.0695959,
-          -37.7561616
-        ],
-        [
-          145.0696937,
-          -37.755624
-        ],
-        [
-          145.0692184,
-          -37.7555712
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/124007107",
-  "properties": {
-    "addr:housenumber": "240",
-    "addr:street": "Glenroy Road",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "retail",
-    "full_name": "Coles Glenroy",
-    "name": "Coles",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/124007107"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          144.9166267,
-          -37.7050084
-        ],
-        [
-          144.9165865,
-          -37.7048733
-        ],
-        [
-          144.9164014,
-          -37.7049115
-        ],
-        [
-          144.9164325,
-          -37.7050506
-        ],
-        [
-          144.9164618,
-          -37.7050472
-        ],
-        [
-          144.9164837,
-          -37.7051405
-        ],
-        [
-          144.9165671,
-          -37.705495
-        ],
-        [
-          144.9165921,
-          -37.7056012
-        ],
-        [
-          144.9166991,
-          -37.7055863
-        ],
-        [
-          144.917039,
-          -37.7055389
-        ],
-        [
-          144.9171473,
-          -37.7055238
-        ],
-        [
-          144.9169637,
-          -37.7049513
-        ],
-        [
-          144.9169454,
-          -37.7049544
-        ],
-        [
-          144.9166267,
-          -37.7050084
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/382367751",
-  "properties": {
-    "addr:housenumber": "325",
-    "addr:postcode": "3073",
-    "addr:state": "VIC",
-    "addr:street": "Spring Street",
-    "addr:suburb": "Reservoir",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "yes",
-    "name": "Coles",
-    "opening_hours": "Mo-Su 06:00-22:00",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/382367751"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0076036,
-          -37.7143303
-        ],
-        [
-          145.0070524,
-          -37.7142709
-        ],
-        [
-          145.0070313,
-          -37.7143726
-        ],
-        [
-          145.0070797,
-          -37.7143793
-        ],
-        [
-          145.0070213,
-          -37.7147248
-        ],
-        [
-          145.0070897,
-          -37.7147321
-        ],
-        [
-          145.0074108,
-          -37.7147573
-        ],
-        [
-          145.0075756,
-          -37.7144861
-        ],
-        [
-          145.0076036,
-          -37.7143303
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/437901776",
-  "properties": {
-    "addr:housenumber": "290",
-    "addr:street": "Gordons Road",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "yes",
-    "name": "Coles",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/437901776"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.0790647,
-          -37.6292973
-        ],
-        [
-          145.0790213,
-          -37.6295482
-        ],
-        [
-          145.0789764,
-          -37.6298068
-        ],
-        [
-          145.0789663,
-          -37.6298644
-        ],
-        [
-          145.0790874,
-          -37.6298776
-        ],
-        [
-          145.0790813,
-          -37.6299129
-        ],
-        [
-          145.0795226,
-          -37.6299609
-        ],
-        [
-          145.0796593,
-          -37.6299197
-        ],
-        [
-          145.0797255,
-          -37.629539
-        ],
-        [
-          145.0798233,
-          -37.6295496
-        ],
-        [
-          145.0798514,
-          -37.6293883
-        ],
-        [
-          145.0790647,
-          -37.6292973
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/897346810",
-  "properties": {
-    "addr:housenumber": "230",
-    "addr:street": "Cranbourne-Frankston Road",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "indoor": "room",
-    "name": "Coles",
-    "opening_hours": "Mo-Su 07:00-22:00",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "phone": "+61 3 9785 9521",
-    "ref": "M001",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/store-locator/stores/vic/langwarrin-670",
-    "wheelchair": "yes",
-    "id": "way/897346810"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.1969499,
-          -38.1515324
-        ],
-        [
-          145.1969703,
-          -38.1514193
-        ],
-        [
-          145.1969421,
-          -38.1514162
-        ],
-        [
-          145.1970198,
-          -38.1509816
-        ],
-        [
-          145.1968466,
-          -38.1509628
-        ],
-        [
-          145.1967314,
-          -38.1509503
-        ],
-        [
-          145.1966622,
-          -38.1509428
-        ],
-        [
-          145.1965666,
-          -38.1509324
-        ],
-        [
-          145.1964646,
-          -38.1509213
-        ],
-        [
-          145.1964244,
-          -38.150917
-        ],
-        [
-          145.1963646,
-          -38.1509105
-        ],
-        [
-          145.1962426,
-          -38.1508972
-        ],
-        [
-          145.1962394,
-          -38.1509148
-        ],
-        [
-          145.1961642,
-          -38.1513332
-        ],
-        [
-          145.1966493,
-          -38.1513866
-        ],
-        [
-          145.1966297,
-          -38.1514967
-        ],
-        [
-          145.1969499,
-          -38.1515324
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/163700279",
-  "properties": {
-    "addr:housenumber": "1370",
-    "addr:street": "Thompsons Road",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "yes",
-    "name": "Coles",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "shop": "supermarket",
-    "id": "way/163700279"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.2923823,
-          -38.0849254
-        ],
-        [
-          145.2923495,
-          -38.0850813
-        ],
-        [
-          145.2924499,
-          -38.0850925
-        ],
-        [
-          145.2924284,
-          -38.0851994
-        ],
-        [
-          145.293127,
-          -38.0852785
-        ],
-        [
-          145.2932429,
-          -38.0852915
-        ],
-        [
-          145.2932492,
-          -38.0852514
-        ],
-        [
-          145.293136,
-          -38.0852372
-        ],
-        [
-          145.2931445,
-          -38.0851905
-        ],
-        [
-          145.2932826,
-          -38.0852038
-        ],
-        [
-          145.2933207,
-          -38.0849796
-        ],
-        [
-          145.2932937,
-          -38.084977
-        ],
-        [
-          145.2931877,
-          -38.0849667
-        ],
-        [
-          145.2932201,
-          -38.0847967
-        ],
-        [
-          145.2932465,
-          -38.0847678
-        ],
-        [
-          145.2931567,
-          -38.0847563
-        ],
-        [
-          145.2931538,
-          -38.0847726
-        ],
-        [
-          145.2925801,
-          -38.0847055
-        ],
-        [
-          145.2925233,
-          -38.0846987
-        ],
-        [
-          145.292483,
-          -38.0849181
-        ],
-        [
-          145.2924799,
-          -38.0849365
-        ],
-        [
-          145.2923823,
-          -38.0849254
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/190526844",
-  "properties": {
-    "addr:housenumber": "4",
-    "addr:street": "Princes Domain Drive",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "yes",
-    "name": "Coles",
-    "shop": "supermarket",
-    "id": "way/190526844"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.2661438,
-          -38.0050337
-        ],
-        [
-          145.2667602,
-          -38.0051077
-        ],
-        [
-          145.2667797,
-          -38.0050066
-        ],
-        [
-          145.2668544,
-          -38.00462
-        ],
-        [
-          145.2667343,
-          -38.0046049
-        ],
-        [
-          145.2663995,
-          -38.0045655
-        ],
-        [
-          145.266238,
-          -38.0045462
-        ],
-        [
-          145.2661438,
-          -38.0050337
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/326037694",
-  "properties": {
-    "addr:housenumber": "9-17",
-    "addr:street": "Lakeside Boulevard",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "supermarket",
-    "name": "Coles",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/326037694"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.4553056,
-          -38.0630115
-        ],
-        [
-          145.4552621,
-          -38.0630583
-        ],
-        [
-          145.4551136,
-          -38.0634231
-        ],
-        [
-          145.4551132,
-          -38.0634804
-        ],
-        [
-          145.4553076,
-          -38.0635299
-        ],
-        [
-          145.4553514,
-          -38.0634826
-        ],
-        [
-          145.4553563,
-          -38.0634671
-        ],
-        [
-          145.4555835,
-          -38.0635254
-        ],
-        [
-          145.4555785,
-          -38.0635381
-        ],
-        [
-          145.4555779,
-          -38.063598
-        ],
-        [
-          145.4557782,
-          -38.0636495
-        ],
-        [
-          145.4558069,
-          -38.0635821
-        ],
-        [
-          145.4558657,
-          -38.0635967
-        ],
-        [
-          145.4560029,
-          -38.0632507
-        ],
-        [
-          145.4555691,
-          -38.06314
-        ],
-        [
-          145.4556002,
-          -38.0630635
-        ],
-        [
-          145.4554094,
-          -38.0630145
-        ],
-        [
-          145.4554012,
-          -38.0630345
-        ],
-        [
-          145.4553056,
-          -38.0630115
-        ]
-      ]
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "way/326150517",
-  "properties": {
-    "addr:housenumber": "140",
-    "addr:street": "Windermere Boulevard",
-    "brand": "Coles",
-    "brand:wikidata": "Q1108172",
-    "brand:wikipedia": "en:Coles Supermarkets",
-    "building": "retail",
-    "full_name": "Coles Cardinia Lakes",
-    "name": "Coles",
-    "shop": "supermarket",
-    "website": "https://www.coles.com.au/",
-    "id": "way/326150517"
-  },
-  "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-      [
-        [
-          145.5072246,
-          -38.0631945
-        ],
-        [
-          145.5073319,
-          -38.0626644
-        ],
-        [
-          145.5063307,
-          -38.062531
-        ],
-        [
-          145.5062019,
-          -38.0631054
-        ],
-        [
-          145.5062644,
-          -38.0631185
-        ],
-        [
-          145.506302,
-          -38.0629939
-        ],
-        [
-          145.5063824,
-          -38.0630066
-        ],
-        [
-          145.5063583,
-          -38.0630784
-        ],
-        [
-          145.5066024,
-          -38.0631143
-        ],
-        [
-          145.5065889,
-          -38.0631502
-        ],
-        [
-          145.5067081,
-          -38.0631662
-        ],
-        [
-          145.5067928,
-          -38.0631776
-        ],
-        [
-          145.5067982,
-          -38.0631438
-        ],
-        [
-          145.5072246,
-          -38.0631945
-        ]
-      ]
+      144.8299879,
+      -37.86892
     ]
   }
 },
@@ -2070,66 +212,129 @@
     "id": "way/90625912"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          145.275618,
-          -37.8838686
-        ],
-        [
-          145.2755413,
-          -37.8834763
-        ],
-        [
-          145.2754803,
-          -37.88344
-        ],
-        [
-          145.2750529,
-          -37.8834922
-        ],
-        [
-          145.2750666,
-          -37.883562
-        ],
-        [
-          145.2750047,
-          -37.8835696
-        ],
-        [
-          145.2750102,
-          -37.8835977
-        ],
-        [
-          145.2750688,
-          -37.8835906
-        ],
-        [
-          145.2750761,
-          -37.8836281
-        ],
-        [
-          145.2750118,
-          -37.883636
-        ],
-        [
-          145.2750612,
-          -37.8838911
-        ],
-        [
-          145.2750706,
-          -37.8839354
-        ],
-        [
-          145.2752622,
-          -37.8839119
-        ],
-        [
-          145.275618,
-          -37.8838686
-        ]
-      ]
+      145.2753114,
+      -37.8836877
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/111679185",
+  "properties": {
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building:part": "yes",
+    "name": "Coles",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/111679185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0282899,
+      -37.7391583
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/112445024",
+  "properties": {
+    "addr:housenumber": "620",
+    "addr:street": "Victoria Street",
+    "branch": "Victoria Gardens",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "full_name": "Coles Victoria Gardens",
+    "layer": "1",
+    "name": "Coles",
+    "opening_hours": "Mo-Su 06:00-00:00",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "phone": "+61 3 9429 5811",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/112445024"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0115685,
+      -37.8139592
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/112553029",
+  "properties": {
+    "addr:housenumber": "56",
+    "addr:street": "Burgundy Street",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "name": "Coles",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/112553029"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0694088,
+      -37.7558664
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/112564353",
+  "properties": {
+    "addr:housenumber": "4",
+    "addr:street": "Livingstone Street",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "check_date": "2023-04-20",
+    "name": "Coles",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/112564353"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0418563,
+      -37.7681531
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/124007107",
+  "properties": {
+    "addr:housenumber": "240",
+    "addr:street": "Glenroy Road",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "retail",
+    "full_name": "Coles Glenroy",
+    "name": "Coles",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/124007107"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9167744,
+      -37.7052372
     ]
   }
 },
@@ -2152,219 +357,80 @@
     "id": "way/145887879"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          145.1923419,
-          -37.8151159
-        ],
-        [
-          145.1923851,
-          -37.8155674
-        ],
-        [
-          145.1928502,
-          -37.8155476
-        ],
-        [
-          145.1931753,
-          -37.8155269
-        ],
-        [
-          145.1932163,
-          -37.8155243
-        ],
-        [
-          145.1931761,
-          -37.8150698
-        ],
-        [
-          145.1928214,
-          -37.8150908
-        ],
-        [
-          145.1928154,
-          -37.815056
-        ],
-        [
-          145.1927644,
-          -37.8150581
-        ],
-        [
-          145.1927631,
-          -37.8150263
-        ],
-        [
-          145.192704,
-          -37.8150284
-        ],
-        [
-          145.1927054,
-          -37.815039
-        ],
-        [
-          145.1926075,
-          -37.8150422
-        ],
-        [
-          145.1926075,
-          -37.8150306
-        ],
-        [
-          145.1924801,
-          -37.8150136
-        ],
-        [
-          145.192472,
-          -37.8150549
-        ],
-        [
-          145.1925042,
-          -37.8150592
-        ],
-        [
-          145.1925103,
-          -37.8151088
-        ],
-        [
-          145.1923419,
-          -37.8151159
-        ]
-      ]
+      145.1927791,
+      -37.8152905
     ]
   }
 },
 {
   "type": "Feature",
-  "id": "way/1105684358",
+  "id": "way/163700279",
   "properties": {
-    "addr:housenumber": "89",
-    "addr:postcode": "3138",
-    "addr:state": "Victoria",
-    "addr:street": "Brice Avenue",
-    "addr:suburb": "Mooroolbark",
-    "air_conditioning": "yes",
-    "branch": "Mooroolbark",
+    "addr:housenumber": "1370",
+    "addr:street": "Thompsons Road",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "yes",
+    "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "shop": "supermarket",
+    "id": "way/163700279"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2928351,
+      -38.0849951
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/166249327",
+  "properties": {
+    "addr:housenumber": "160-178",
+    "addr:street": "Glenferrie Road",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
     "building": "retail",
-    "building:levels": "1",
-    "height": "4",
+    "full_name": "Coles Malvern",
     "name": "Coles",
-    "opening_hours": "Mo-Su 06:00-22:00",
-    "operator": "Coles Group",
-    "operator:wikidata": "Q1339055",
-    "payment:american_express": "yes",
-    "payment:cash": "yes",
-    "payment:coins": "yes",
-    "payment:contactless": "yes",
-    "payment:credit_cards": "yes",
-    "payment:debit_cards": "yes",
-    "payment:mastercard": "yes",
-    "payment:notes": "yes",
-    "payment:visa": "yes",
-    "phone": "+61 3 9727 7600",
     "shop": "supermarket",
-    "stroller": "yes",
-    "website": "https://www.coles.com.au",
-    "wheelchair": "yes",
-    "id": "way/1105684358"
+    "website": "https://www.coles.com.au/",
+    "id": "way/166249327"
   },
   "geometry": {
-    "type": "Polygon",
+    "type": "Point",
     "coordinates": [
-      [
-        [
-          145.3150468,
-          -37.7847381
-        ],
-        [
-          145.315076,
-          -37.7849228
-        ],
-        [
-          145.3150286,
-          -37.7849539
-        ],
-        [
-          145.3149425,
-          -37.7850448
-        ],
-        [
-          145.3149627,
-          -37.7850571
-        ],
-        [
-          145.3149519,
-          -37.7850682
-        ],
-        [
-          145.3149388,
-          -37.7850816
-        ],
-        [
-          145.3150216,
-          -37.7851322
-        ],
-        [
-          145.3150598,
-          -37.7851377
-        ],
-        [
-          145.3155049,
-          -37.7852019
-        ],
-        [
-          145.3155422,
-          -37.7852072
-        ],
-        [
-          145.3155621,
-          -37.7852101
-        ],
-        [
-          145.3156695,
-          -37.7847414
-        ],
-        [
-          145.31569,
-          -37.7846545
-        ],
-        [
-          145.3157614,
-          -37.784665
-        ],
-        [
-          145.3158231,
-          -37.7846741
-        ],
-        [
-          145.3158341,
-          -37.7846273
-        ],
-        [
-          145.3157143,
-          -37.78461
-        ],
-        [
-          145.3150516,
-          -37.7846735
-        ],
-        [
-          145.3150609,
-          -37.7847341
-        ],
-        [
-          145.3150464,
-          -37.7847355
-        ],
-        [
-          145.3150468,
-          -37.7847381
-        ]
-      ]
+      145.0291228,
+      -37.8604328
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/190526844",
+  "properties": {
+    "addr:housenumber": "4",
+    "addr:street": "Princes Domain Drive",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "yes",
+    "name": "Coles",
+    "shop": "supermarket",
+    "id": "way/190526844"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2664991,
+      -38.004827
     ]
   }
 },
@@ -2390,6 +456,27 @@
     "coordinates": [
       145.1718422,
       -37.7914336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/236242345",
+  "properties": {
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "retail",
+    "name": "Coles",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/236242345"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9106915,
+      -37.7437412
     ]
   }
 },
@@ -2457,6 +544,29 @@
     "coordinates": [
       145.1643348,
       -37.83496
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/262518576",
+  "properties": {
+    "addr:housenumber": "53-65",
+    "addr:street": "Military Road",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "yes",
+    "name": "Coles",
+    "operator": "Coles",
+    "shop": "supermarket",
+    "id": "way/262518576"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.863378,
+      -37.7674337
     ]
   }
 },
@@ -2584,14 +694,22 @@
   "properties": {
     "addr:housenumber": "172-210",
     "addr:street": "Burwood Highway",
+    "branch": "Burwood East",
     "brand": "Coles",
     "brand:wikidata": "Q1108172",
     "brand:wikipedia": "en:Coles Supermarkets",
+    "check_date": "2023-10-28",
     "full_name": "Coles East Burwood",
     "name": "Coles",
     "opening_hours": "24/7",
+    "operator": "Coles Supermarkets Australia Pty Ltd",
+    "operator:ref:abn": "45004189708",
+    "phone": "+61398478300",
+    "ref": "584",
     "shop": "supermarket",
+    "source": "survey",
     "website": "https://www.coles.com.au/",
+    "wheelchair": "yes",
     "id": "node/314087330"
   },
   "geometry": {
@@ -2668,6 +786,80 @@
     "coordinates": [
       144.5657612,
       -37.6856825
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/326037694",
+  "properties": {
+    "addr:housenumber": "9-17",
+    "addr:street": "Lakeside Boulevard",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "supermarket",
+    "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/326037694"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.455558,
+      -38.0633305
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/326150517",
+  "properties": {
+    "addr:housenumber": "140",
+    "addr:street": "Windermere Boulevard",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "retail",
+    "full_name": "Coles Cardinia Lakes",
+    "name": "Coles",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/326150517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.5067669,
+      -38.0628628
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/329099952",
+  "properties": {
+    "addr:housenumber": "1-3",
+    "addr:street": "High Street",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "yes",
+    "name": "Coles",
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "shop": "supermarket",
+    "id": "way/329099952"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8810707,
+      -37.8168699
     ]
   }
 },
@@ -2871,6 +1063,60 @@
 },
 {
   "type": "Feature",
+  "id": "way/382367751",
+  "properties": {
+    "addr:housenumber": "325",
+    "addr:postcode": "3073",
+    "addr:state": "VIC",
+    "addr:street": "Spring Street",
+    "addr:suburb": "Reservoir",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "yes",
+    "name": "Coles",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/382367751"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0073125,
+      -37.7145141
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/391365574",
+  "properties": {
+    "addr:housenumber": "361",
+    "addr:street": "Bluff Road",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "retail",
+    "building:levels": "1",
+    "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "phone": "+61 3 9598 8744",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/391365574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0217912,
+      -37.9453066
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/427864933",
   "properties": {
     "brand": "Coles",
@@ -2886,6 +1132,29 @@
     "coordinates": [
       145.1719538,
       -37.9922837
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/437901776",
+  "properties": {
+    "addr:housenumber": "290",
+    "addr:street": "Gordons Road",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "yes",
+    "name": "Coles",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/437901776"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0794088,
+      -37.6296291
     ]
   }
 },
@@ -3006,6 +1275,29 @@
 },
 {
   "type": "Feature",
+  "id": "way/490242047",
+  "properties": {
+    "area": "yes",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "level": "0",
+    "name": "Coles",
+    "room": "shop",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/",
+    "id": "way/490242047"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8480047,
+      -37.8282395
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/492900388",
   "properties": {
     "brand": "Coles",
@@ -3043,6 +1335,35 @@
     "coordinates": [
       144.8603614,
       -37.7936568
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/523105425",
+  "properties": {
+    "addr:housenumber": "369",
+    "addr:postcode": "3101",
+    "addr:state": "VIC",
+    "addr:street": "High Street",
+    "addr:suburb": "Kew",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "retail",
+    "name": "Coles",
+    "opening_hours": "06:00-23:00",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "phone": "+613 4243 4700",
+    "shop": "supermarket",
+    "id": "way/523105425"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0377111,
+      -37.8038227
     ]
   }
 },
@@ -3235,6 +1556,35 @@
     "coordinates": [
       144.9649673,
       -37.8175611
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/612495369",
+  "properties": {
+    "addr:housenumber": "735",
+    "addr:postcode": "3124",
+    "addr:state": "VIC",
+    "addr:street": "Riversdale Road",
+    "addr:suburb": "Camberwell",
+    "branch": "Middle Camberwell",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "yes",
+    "building:levels": "2",
+    "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "shop": "supermarket",
+    "id": "way/612495369"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0773388,
+      -37.8334247
     ]
   }
 },
@@ -3436,6 +1786,30 @@
 },
 {
   "type": "Feature",
+  "id": "way/826855625",
+  "properties": {
+    "addr:housenumber": "689-699",
+    "addr:street": "Glenferrie Road",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "yes",
+    "name": "Coles",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "shop": "supermarket",
+    "id": "way/826855625"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0354691,
+      -37.8200237
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/832563928",
   "properties": {
     "addr:housenumber": "50",
@@ -3496,6 +1870,35 @@
     "coordinates": [
       145.0918512,
       -37.7652693
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/897346810",
+  "properties": {
+    "addr:housenumber": "230",
+    "addr:street": "Cranbourne-Frankston Road",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "indoor": "room",
+    "name": "Coles",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "phone": "+61 3 9785 9521",
+    "ref": "M001",
+    "shop": "supermarket",
+    "website": "https://www.coles.com.au/store-locator/stores/vic/langwarrin-670",
+    "wheelchair": "yes",
+    "id": "way/897346810"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.196592,
+      -38.1512148
     ]
   }
 },
@@ -3716,6 +2119,51 @@
 },
 {
   "type": "Feature",
+  "id": "way/1105684358",
+  "properties": {
+    "addr:housenumber": "89",
+    "addr:postcode": "3138",
+    "addr:state": "Victoria",
+    "addr:street": "Brice Avenue",
+    "addr:suburb": "Mooroolbark",
+    "air_conditioning": "yes",
+    "branch": "Mooroolbark",
+    "brand": "Coles",
+    "brand:wikidata": "Q1108172",
+    "brand:wikipedia": "en:Coles Supermarkets",
+    "building": "retail",
+    "building:levels": "1",
+    "height": "4",
+    "name": "Coles",
+    "opening_hours": "Mo-Su 06:00-22:00",
+    "operator": "Coles Group",
+    "operator:wikidata": "Q1339055",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "phone": "+61 3 9727 7600",
+    "shop": "supermarket",
+    "stroller": "yes",
+    "website": "https://www.coles.com.au",
+    "wheelchair": "yes",
+    "id": "way/1105684358"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3153865,
+      -37.7849101
+    ]
+  }
+},
+{
+  "type": "Feature",
   "id": "node/1169919216",
   "properties": {
     "brand": "Coles",
@@ -3848,7 +2296,7 @@
     "opening_hours": "Mo-Su 07:00-00:00; Dec 25 off; Apr 25 07:00-13:00",
     "operator": "Coles Group",
     "operator:wikidata": "Q1339055",
-    "phone": "03 8361 8955",
+    "phone": "+61 3 8361 8955",
     "shop": "supermarket",
     "website": "https://www.coles.com.au",
     "id": "node/1278129196"
@@ -3858,21 +2306,6 @@
     "coordinates": [
       144.7425236,
       -37.7323759
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/1279106998",
-  "properties": {
-    "entrance": "yes",
-    "id": "node/1279106998"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.0422098,
-      -37.7683392
     ]
   }
 },
@@ -4400,21 +2833,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/2175884668",
-  "properties": {
-    "entrance": "yes",
-    "id": "node/2175884668"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.0383205,
-      -37.9177229
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/2177939910",
   "properties": {
     "brand": "Coles",
@@ -4615,36 +3033,6 @@
     "coordinates": [
       145.0051856,
       -37.9060865
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3327637518",
-  "properties": {
-    "entrance": "main",
-    "id": "node/3327637518"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.5067081,
-      -38.0631662
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3327764094",
-  "properties": {
-    "entrance": "main",
-    "id": "node/3327764094"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.2663995,
-      -38.0045655
     ]
   }
 },
@@ -4880,21 +3268,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/3809529806",
-  "properties": {
-    "entrance": "main",
-    "id": "node/3809529806"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.2752622,
-      -37.8839119
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/3942998909",
   "properties": {
     "addr:housenumber": "16A",
@@ -4913,22 +3286,6 @@
     "coordinates": [
       144.897529,
       -37.8013978
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/3945859420",
-  "properties": {
-    "entrance": "main",
-    "source": "survey",
-    "id": "node/3945859420"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.0220371,
-      -37.945218
     ]
   }
 },
@@ -5094,21 +3451,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/7998265641",
-  "properties": {
-    "entrance": "yes",
-    "id": "node/7998265641"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      144.8302559,
-      -37.8687219
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/5905408641",
   "properties": {
     "brand": "Coles",
@@ -5253,36 +3595,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9888670177",
-  "properties": {
-    "entrance": "main",
-    "id": "node/9888670177"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      144.9780064,
-      -37.7981884
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9494123575",
-  "properties": {
-    "amenity": "parking_entrance",
-    "id": "node/9494123575"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      144.97794,
-      -37.7975122
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/7342542045",
   "properties": {
     "addr:housenumber": "127-137",
@@ -5410,7 +3722,7 @@
     "opening_hours": "Mo-Su 06:00-00:00",
     "operator": "Coles Group",
     "operator:wikidata": "Q1339055",
-    "phone": "(03) 8348 3100",
+    "phone": "+61 3 8348 3100",
     "shop": "supermarket",
     "website": "https://www.coles.com.au",
     "id": "node/4793241132"
@@ -5513,51 +3825,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/8340388041",
-  "properties": {
-    "entrance": "yes",
-    "id": "node/8340388041"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.1968466,
-      -38.1509628
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/8340388045",
-  "properties": {
-    "entrance": "yes",
-    "id": "node/8340388045"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.1967314,
-      -38.1509503
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9069339018",
-  "properties": {
-    "entrance": "yes",
-    "id": "node/9069339018"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.1962394,
-      -38.1509148
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10212909074",
   "properties": {
     "addr:housenumber": "2-30S",
@@ -5603,36 +3870,6 @@
 },
 {
   "type": "Feature",
-  "id": "node/9236868781",
-  "properties": {
-    "entrance": "yes",
-    "id": "node/9236868781"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.292483,
-      -38.0849181
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9237367686",
-  "properties": {
-    "amenity": "loading_dock",
-    "id": "node/9237367686"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.2932937,
-      -38.084977
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/10743106111",
   "properties": {
     "addr:housenumber": "66-104",
@@ -5665,40 +3902,6 @@
     "coordinates": [
       145.1535054,
       -37.8112818
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/9978821238",
-  "properties": {
-    "entrance": "main",
-    "id": "node/9978821238"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.3155049,
-      -37.7852019
-    ]
-  }
-},
-{
-  "type": "Feature",
-  "id": "node/10117862527",
-  "properties": {
-    "access": "customers",
-    "door": "automatic",
-    "entrance": "main",
-    "level": "0",
-    "wheelchair": "yes",
-    "id": "node/10117862527"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.3150598,
-      -37.7851377
     ]
   }
 },
