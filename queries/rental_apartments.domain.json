@@ -1,0 +1,23 @@
+{
+    "listingType": "Rent",
+    "propertyTypes": [
+        "ApartmentUnitFlat",
+        "NewApartments",
+        "Townhouse"
+    ],
+    "propertyEstablishedType": "Any",
+    "minBedrooms": 3,
+    "minBathrooms": 2,
+    "minCarspaces": 1,
+    "minPrice": 400,
+    "maxPrice": 700,
+    "locations": [
+        {
+            "state": "VIC",
+            "region": "Melbourne Region"
+        }
+    ],
+    "excludePriceWithheld": true,
+    "excludeDepositTaken": true,
+    "pageSize": 200
+}
