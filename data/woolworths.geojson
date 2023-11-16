@@ -113,7 +113,7 @@
     "name": "Woolworths",
     "operator": "Woolworths Group",
     "operator:wikidata": "Q607272",
-    "phone": "+61 3 94782022",
+    "phone": "+61 3 9478 2022",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/",
     "id": "way/28296634"
@@ -272,8 +272,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      145.0410195,
-      -37.8889412
+      145.0410268,
+      -37.8889215
     ]
   }
 },
@@ -788,7 +788,7 @@
     "full_name": "Woolworths Preston",
     "name": "Woolworths",
     "opening_hours": "Mo-Su 06:00-00:00",
-    "phone": "+61 3 94782022",
+    "phone": "+61 3 9478 2022",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/",
     "wheelchair": "yes",
@@ -944,7 +944,7 @@
     "check_date": "2023-04-13",
     "name": "Woolworths",
     "operator:ref:abn": "88000014675",
-    "phone": "+61383476545",
+    "phone": "+61 3 8347 6545",
     "ref": "3335",
     "shop": "supermarket",
     "toilets": "no",
@@ -1677,7 +1677,7 @@
     "opening_hours": "Mo-Su 07:00-00:00",
     "operator": "Woolworths Group",
     "operator:wikidata": "Q607272",
-    "phone": "+61383475870",
+    "phone": "+61 3 8347 5870",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/",
     "id": "node/570758510"
@@ -1879,7 +1879,7 @@
     "opening_hours": "Mo-Su 7:00-0:00",
     "operator": "Woolworths Group",
     "operator:wikidata": "Q607272",
-    "phone": "+61 3 93814442",
+    "phone": "+61 3 9381 4442",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/",
     "id": "node/666846427"
@@ -2166,15 +2166,13 @@
   "type": "Feature",
   "id": "node/932432827",
   "properties": {
-    "addr:city": "Balaclava",
     "addr:housenumber": "220",
-    "addr:postcode": "3183",
     "addr:street": "Carlisle Street",
     "brand": "Woolworths",
     "brand:wikidata": "Q3249145",
     "brand:wikipedia": "en:Woolworths Supermarkets",
     "name": "Woolworths",
-    "phone": "+61 3 92235858",
+    "phone": "+61 3 9223 5858",
     "shop": "supermarket",
     "website": "https://www.woolworths.com.au/",
     "wheelchair": "yes",
@@ -4164,7 +4162,7 @@
     "payment:mastercard": "yes",
     "payment:samsung_pay": "yes",
     "payment:visa": "yes",
-    "phone": "+61388417627",
+    "phone": "+61 3 8841 7627",
     "shop": "supermarket",
     "toilets": "no",
     "website": "https://woolworths.com.au",

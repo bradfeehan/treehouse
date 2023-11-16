@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-09T15:47:20Z" areas="2023-11-09T10:10:37Z"/>
+<meta osm_base="2023-11-16T13:57:34Z" areas="2023-11-16T08:55:33Z"/>
 
   <node id="1277984725" lat="-37.7998055" lon="144.8997840">
     <tag k="name" v="Stop 62: Nicholson Street"/>
@@ -4364,7 +4364,7 @@
     <tag k="ref" v="43"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="1773284265" lat="-37.8623990" lon="145.0285375">
+  <node id="1773284265" lat="-37.8623995" lon="145.0285134">
     <tag k="name" v="Stop 45: Glenferrie Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4373,7 +4373,7 @@
     <tag k="ref" v="45"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="1773284325" lat="-37.8621645" lon="145.0284020">
+  <node id="1773284325" lat="-37.8621677" lon="145.0283943">
     <tag k="bench" v="no"/>
     <tag k="name" v="Stop 54: Wattletree Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
@@ -4385,7 +4385,7 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="1773301239" lat="-37.8620182" lon="145.0254911">
+  <node id="1773301239" lat="-37.8620150" lon="145.0254911">
     <tag k="name" v="Stop 44: Duncraig Avenue"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4403,7 +4403,7 @@
     <tag k="ref" v="56"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2274543693" lat="-37.8619409" lon="145.0251330">
+  <node id="2274543693" lat="-37.8619459" lon="145.0251954">
     <tag k="name" v="Stop 44: Duncraig Avenue"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4412,7 +4412,7 @@
     <tag k="ref" v="44"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2274544033" lat="-37.8623261" lon="145.0281989">
+  <node id="2274544033" lat="-37.8623264" lon="145.0281929">
     <tag k="name" v="Stop 45: Glenferrie Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4421,7 +4421,7 @@
     <tag k="ref" v="45"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2274544124" lat="-37.8624765" lon="145.0283112">
+  <node id="2274544124" lat="-37.8624765" lon="145.0283065">
     <tag k="bench" v="no"/>
     <tag k="name" v="Stop 54: Wattletree Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
@@ -4442,7 +4442,7 @@
     <tag k="ref" v="46"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2274556422" lat="-37.8611052" lon="145.0285759">
+  <node id="2274556422" lat="-37.8610546" lon="145.0285819">
     <tag k="bench" v="no"/>
     <tag k="name" v="Stop 55: Edsall Street"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
@@ -4454,7 +4454,7 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2274556423" lat="-37.8612386" lon="145.0285135">
+  <node id="2274556423" lat="-37.8611949" lon="145.0285175">
     <tag k="bench" v="yes"/>
     <tag k="name" v="Stop 55: Llaneast Street"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
@@ -4511,7 +4511,7 @@
     <tag k="ref" v="40"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2274797014" lat="-37.8558739" lon="145.0236882">
+  <node id="2274797014" lat="-37.8558718" lon="145.0236771">
     <tag k="name" v="Stop 42: Huntingtower Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4520,7 +4520,7 @@
     <tag k="ref" v="42"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2274797017" lat="-37.8559241" lon="145.0238510">
+  <node id="2274797017" lat="-37.8559262" lon="145.0238520">
     <tag k="name" v="Stop 42: Huntingtower Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4639,7 +4639,7 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2274719086" lat="-37.8565766" lon="145.0290809">
+  <node id="2274719086" lat="-37.8565778" lon="145.0291196">
     <tag k="name" v="Stop 44: Glenferrie Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4648,7 +4648,7 @@
     <tag k="ref" v="44"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2274719098" lat="-37.8566660" lon="145.0295447">
+  <node id="2274719098" lat="-37.8566623" lon="145.0295514">
     <tag k="name" v="Stop 44: Glenferrie Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4705,7 +4705,7 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="no"/>
   </node>
-  <node id="2274795055" lat="-37.8561665" lon="145.0259286">
+  <node id="2274795055" lat="-37.8561678" lon="145.0259269">
     <tag k="name" v="Stop 43: Mercer Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -4714,7 +4714,7 @@
     <tag k="ref" v="43"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2274795058" lat="-37.8562318" lon="145.0262067">
+  <node id="2274795058" lat="-37.8562337" lon="145.0262057">
     <tag k="name" v="Stop 43: Mercer Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>

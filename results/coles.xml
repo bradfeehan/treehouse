@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-09T15:34:02Z" areas="2023-11-09T10:10:37Z"/>
+<meta osm_base="2023-11-16T13:57:34Z" areas="2023-11-16T08:55:33Z"/>
 
   <node id="278111955" lat="-38.3614651" lon="144.8921554">
     <tag k="brand" v="Coles"/>
@@ -247,9 +247,8 @@
     <tag k="brand" v="Coles"/>
     <tag k="brand:wikidata" v="Q1108172"/>
     <tag k="brand:wikipedia" v="en:Coles Supermarkets"/>
-    <tag k="contact:facebook" v="coles"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/coles/"/>
     <tag k="contact:instagram" v="colessupermarkets"/>
-    <tag k="facebook" v="https://www.facebook.com/coles/"/>
     <tag k="name" v="Coles"/>
     <tag k="opening_hours" v="Mo-Su 07:00-00:00; Dec 25 off; Apr 25 07:00-13:00"/>
     <tag k="operator" v="Coles Group"/>
@@ -529,16 +528,13 @@
   </node>
   <node id="441991395" lat="-37.8254909" lon="144.9947938">
     <tag k="addr:housenumber" v="150"/>
-    <tag k="addr:postcode" v="3121"/>
-    <tag k="addr:state" v="VIC"/>
     <tag k="addr:street" v="Swan Street"/>
-    <tag k="addr:suburb" v="Richmond"/>
     <tag k="brand" v="Coles"/>
     <tag k="brand:wikidata" v="Q1108172"/>
     <tag k="brand:wikipedia" v="en:Coles Supermarkets"/>
     <tag k="name" v="Coles"/>
     <tag k="opening_hours" v="Mo-Su 06:00-00:00"/>
-    <tag k="phone" v="+61 3 94203000"/>
+    <tag k="phone" v="+61 3 9420 3000"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.coles.com.au/"/>
   </node>
@@ -556,18 +552,14 @@
     <tag k="shop" v="supermarket"/>
   </node>
   <node id="3800095557" lat="-37.8038030" lon="144.9836190">
-    <tag k="addr:city" v="Collingwood"/>
     <tag k="addr:housenumber" v="172"/>
-    <tag k="addr:postcode" v="3066"/>
-    <tag k="addr:state" v="VIC"/>
     <tag k="addr:street" v="Smith Street"/>
-    <tag k="addr:suburb" v="Collingwood"/>
     <tag k="brand" v="Coles"/>
     <tag k="brand:wikidata" v="Q1108172"/>
     <tag k="brand:wikipedia" v="en:Coles Supermarkets"/>
     <tag k="name" v="Coles"/>
     <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
-    <tag k="phone" v="+61 3 92301600"/>
+    <tag k="phone" v="+61 3 9230 1600"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.coles.com.au/"/>
     <tag k="wheelchair" v="yes"/>
@@ -602,7 +594,7 @@
     <tag k="opening_hours" v="Mo-Su 7:00-0:00"/>
     <tag k="operator" v="Coles Group"/>
     <tag k="operator:wikidata" v="Q1339055"/>
-    <tag k="phone" v="+61 3 93876122"/>
+    <tag k="phone" v="+61 3 9387 6122"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.coles.com.au/"/>
   </node>
@@ -677,10 +669,7 @@
   </node>
   <node id="3676221315" lat="-37.8038542" lon="145.1021788">
     <tag k="addr:housenumber" v="342-344"/>
-    <tag k="addr:postcode" v="3103"/>
-    <tag k="addr:state" v="VIC"/>
     <tag k="addr:street" v="Belmore Road"/>
-    <tag k="addr:suburb" v="Balwyn"/>
     <tag k="branch" v="Balwyn East"/>
     <tag k="brand" v="Coles"/>
     <tag k="brand:wikidata" v="Q1108172"/>
@@ -697,7 +686,7 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:notes" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+61 3 70320300"/>
+    <tag k="phone" v="+61 3 7032 0300"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.coles.com.au/stores/storeDetail/7797?brandId=2"/>
   </node>
@@ -850,7 +839,7 @@
     <tag k="brand:wikidata" v="Q1108172"/>
     <tag k="brand:wikipedia" v="en:Coles Supermarkets"/>
     <tag k="name" v="Coles"/>
-    <tag k="phone" v="+61-3-9359-6111"/>
+    <tag k="phone" v="+61 3 9359 6111"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.coles.com.au/"/>
   </node>
@@ -1272,7 +1261,7 @@
     <tag k="opening_hours" v="24/7"/>
     <tag k="operator" v="Coles Supermarkets Australia Pty Ltd"/>
     <tag k="operator:ref:abn" v="45004189708"/>
-    <tag k="phone" v="+61398478300"/>
+    <tag k="phone" v="+61 3 9847 8300"/>
     <tag k="ref" v="584"/>
     <tag k="shop" v="supermarket"/>
     <tag k="source" v="survey"/>
@@ -1370,7 +1359,7 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:samsung_pay" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+61388638200"/>
+    <tag k="phone" v="+61 3 8863 8200"/>
     <tag k="shop" v="supermarket"/>
     <tag k="toilets" v="no"/>
     <tag k="website" v="https://www.coles.com.au"/>
@@ -1604,7 +1593,7 @@
     <tag k="landuse" v="retail"/>
     <tag k="name" v="Coles"/>
     <tag k="opening_hours" v="Mo-Su 7:00-0:00"/>
-    <tag k="phone" v="+61 3 93983754"/>
+    <tag k="phone" v="+61 3 9398 3754"/>
     <tag k="shop" v="supermarket"/>
   </way>
   <way id="490242047">
@@ -1717,7 +1706,7 @@
     <tag k="opening_hours" v="Mo-Su 07:00-0:00"/>
     <tag k="operator" v="Coles Group"/>
     <tag k="operator:wikidata" v="Q1339055"/>
-    <tag k="phone" v="+61 3 94152100"/>
+    <tag k="phone" v="+61 3 9415 2100"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.coles.com.au/"/>
   </way>
@@ -1764,7 +1753,7 @@
     <tag k="opening_hours" v="06:00-23:00"/>
     <tag k="operator" v="Coles Group"/>
     <tag k="operator:wikidata" v="Q1339055"/>
-    <tag k="phone" v="+613 4243 4700"/>
+    <tag k="phone" v="+61 3 4243 4700"/>
     <tag k="shop" v="supermarket"/>
   </way>
   <way id="25797855">
@@ -1780,7 +1769,7 @@
     <tag k="building" v="supermarket"/>
     <tag k="name" v="Coles"/>
     <tag k="opening_hours" v="Mo-Sa 06:00-00:00; Su 06:00-24:00"/>
-    <tag k="phone" v="+613 9859 1221"/>
+    <tag k="phone" v="+61 3 9859 1221"/>
     <tag k="shop" v="supermarket"/>
   </way>
   <way id="612495369">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-09T15:34:02Z" areas="2023-11-09T10:04:34Z"/>
+<meta osm_base="2023-11-16T13:57:34Z" areas="2023-11-16T08:55:33Z"/>
 
   <node id="10616913654" lat="-38.3615342" lon="144.8904717">
     <tag k="brand" v="Woolworths"/>
@@ -227,20 +227,18 @@
     <tag k="opening_hours" v="Mo-Su 07:00-00:00"/>
     <tag k="operator" v="Woolworths Group"/>
     <tag k="operator:wikidata" v="Q607272"/>
-    <tag k="phone" v="+61383475870"/>
+    <tag k="phone" v="+61 3 8347 5870"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.woolworths.com.au/"/>
   </node>
   <node id="932432827" lat="-37.8682430" lon="144.9912770">
-    <tag k="addr:city" v="Balaclava"/>
     <tag k="addr:housenumber" v="220"/>
-    <tag k="addr:postcode" v="3183"/>
     <tag k="addr:street" v="Carlisle Street"/>
     <tag k="brand" v="Woolworths"/>
     <tag k="brand:wikidata" v="Q3249145"/>
     <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
     <tag k="name" v="Woolworths"/>
-    <tag k="phone" v="+61 3 92235858"/>
+    <tag k="phone" v="+61 3 9223 5858"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.woolworths.com.au/"/>
     <tag k="wheelchair" v="yes"/>
@@ -360,7 +358,7 @@
     <tag k="check_date" v="2023-04-13"/>
     <tag k="name" v="Woolworths"/>
     <tag k="operator:ref:abn" v="88000014675"/>
-    <tag k="phone" v="+61383476545"/>
+    <tag k="phone" v="+61 3 8347 6545"/>
     <tag k="ref" v="3335"/>
     <tag k="shop" v="supermarket"/>
     <tag k="toilets" v="no"/>
@@ -524,7 +522,7 @@
     <tag k="opening_hours" v="Mo-Su 7:00-0:00"/>
     <tag k="operator" v="Woolworths Group"/>
     <tag k="operator:wikidata" v="Q607272"/>
-    <tag k="phone" v="+61 3 93814442"/>
+    <tag k="phone" v="+61 3 9381 4442"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.woolworths.com.au/"/>
   </node>
@@ -1110,7 +1108,7 @@
     <tag k="payment:mastercard" v="yes"/>
     <tag k="payment:samsung_pay" v="yes"/>
     <tag k="payment:visa" v="yes"/>
-    <tag k="phone" v="+61388417627"/>
+    <tag k="phone" v="+61 3 8841 7627"/>
     <tag k="shop" v="supermarket"/>
     <tag k="toilets" v="no"/>
     <tag k="website" v="https://woolworths.com.au"/>
@@ -1472,7 +1470,7 @@
     <tag k="website" v="https://www.woolworths.com.au/"/>
   </way>
   <way id="38133869">
-    <center lat="-37.8889412" lon="145.0410195"/>
+    <center lat="-37.8889215" lon="145.0410268"/>
     <tag k="brand" v="Woolworths"/>
     <tag k="brand:wikidata" v="Q3249145"/>
     <tag k="brand:wikipedia" v="en:Woolworths Supermarkets"/>
@@ -1613,7 +1611,7 @@
     <tag k="name" v="Woolworths"/>
     <tag k="operator" v="Woolworths Group"/>
     <tag k="operator:wikidata" v="Q607272"/>
-    <tag k="phone" v="+61 3 94782022"/>
+    <tag k="phone" v="+61 3 9478 2022"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.woolworths.com.au/"/>
   </way>
@@ -1630,7 +1628,7 @@
     <tag k="full_name" v="Woolworths Preston"/>
     <tag k="name" v="Woolworths"/>
     <tag k="opening_hours" v="Mo-Su 06:00-00:00"/>
-    <tag k="phone" v="+61 3 94782022"/>
+    <tag k="phone" v="+61 3 9478 2022"/>
     <tag k="shop" v="supermarket"/>
     <tag k="website" v="https://www.woolworths.com.au/"/>
     <tag k="wheelchair" v="yes"/>

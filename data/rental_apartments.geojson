@@ -1,0 +1,2605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.00856,
+          -37.930088
+        ]
+      },
+      "properties": {
+        "name": "1/126 South Road, Brighton East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.031662,
+          -37.84163
+        ]
+      },
+      "properties": {
+        "name": "3/453 Glenferrie Road, Kooyong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.910461,
+          -37.6966057
+        ]
+      },
+      "properties": {
+        "name": "1/70 Augustine Terrace, Glenroy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.053024,
+          -37.90038
+        ]
+      },
+      "properties": {
+        "name": "3/9 Rigby Avenue, Carnegie"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.351074,
+          -38.14529
+        ]
+      },
+      "properties": {
+        "name": "2/24 Emerald Street, Geelong West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.068222,
+          -37.95668
+        ]
+      },
+      "properties": {
+        "name": "24 Primrose Avenue, Cheltenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.094131,
+          -38.18887
+        ]
+      },
+      "properties": {
+        "name": "2/1 Baden Powell Place, Mount Eliza"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.073837,
+          -37.9168625
+        ]
+      },
+      "properties": {
+        "name": "98 Castlewood Street, Bentleigh East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.151688,
+          -37.8925362
+        ]
+      },
+      "properties": {
+        "name": "45 Saladin Avenue, Glen Waverley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1851,
+          -38.1085625
+        ]
+      },
+      "properties": {
+        "name": "1/8 Nike Court, Carrum Downs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.148148,
+          -37.87069
+        ]
+      },
+      "properties": {
+        "name": "5/177 Blackburn Road, Mount Waverley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.136581,
+          -37.9386559
+        ]
+      },
+      "properties": {
+        "name": "32 Botanic Drive, Clayton South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.700012,
+          -37.7157822
+        ]
+      },
+      "properties": {
+        "name": "8 Elm Drive, Fraser Rise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0883,
+          -37.8735046
+        ]
+      },
+      "properties": {
+        "name": "5 Ayr Avenue, Malvern East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.094528,
+          -37.9418259
+        ]
+      },
+      "properties": {
+        "name": "1/2 Cunningham Place, Oakleigh South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7661,
+          -37.696167
+        ]
+      },
+      "properties": {
+        "name": "3/51 Trickey Avenue, Sydenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.834412,
+          -37.8671074
+        ]
+      },
+      "properties": {
+        "name": "23 Mount Street, Altona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.091858,
+          -37.9016647
+        ]
+      },
+      "properties": {
+        "name": "1/4 Delia Street, Oakleigh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.105026,
+          -37.9367332
+        ]
+      },
+      "properties": {
+        "name": "14 Broadchapel Place, Clarinda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.970245,
+          -37.532444
+        ]
+      },
+      "properties": {
+        "name": "26 Taketa Way, Kalkallo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1306,
+          -38.15555
+        ]
+      },
+      "properties": {
+        "name": "16A Reid Street, Frankston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.11557,
+          -37.927784
+        ]
+      },
+      "properties": {
+        "name": "2/1367-1369 Centre Road, Clayton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.12233,
+          -37.9184036
+        ]
+      },
+      "properties": {
+        "name": "G05/2-8 Murray Street, Clayton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.320145,
+          -38.2114029
+        ]
+      },
+      "properties": {
+        "name": "14 Villea Avenue, Grovedale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.332092,
+          -38.18704
+        ]
+      },
+      "properties": {
+        "name": "1 Corriedale Court, Belmont"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.101852,
+          -37.87808
+        ]
+      },
+      "properties": {
+        "name": "2/2 Euroka Street, Chadstone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.156052,
+          -37.9872742
+        ]
+      },
+      "properties": {
+        "name": "11 Hanbury Court, Keysborough"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.129425,
+          -37.9280357
+        ]
+      },
+      "properties": {
+        "name": "1/128 Moriah Street, Clayton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.312836,
+          -38.0587349
+        ]
+      },
+      "properties": {
+        "name": "12 Snowgum Court, Narre Warren South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.980988,
+          -37.7304764
+        ]
+      },
+      "properties": {
+        "name": "18 Ronald Street, Coburg North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.043076,
+          -37.7389069
+        ]
+      },
+      "properties": {
+        "name": "2B Pacific Drive, Heidelberg West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.716812,
+          -37.86025
+        ]
+      },
+      "properties": {
+        "name": "3 Acer Tce, Hoppers Crossing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.950317,
+          -37.7657661
+        ]
+      },
+      "properties": {
+        "name": "A2/460 Victoria Street, Brunswick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.591492,
+          -37.8444252
+        ]
+      },
+      "properties": {
+        "name": "4 Wetherby Road, Wyndham Vale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70369,
+          -37.5884132
+        ]
+      },
+      "properties": {
+        "name": "18 Kokoda Drive, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.920349,
+          -37.70639
+        ]
+      },
+      "properties": {
+        "name": "3/2 Argyle Street, Glenroy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5886,
+          -37.8483734
+        ]
+      },
+      "properties": {
+        "name": "3 Kilford Walk, Wyndham Vale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.093735,
+          -37.8855
+        ]
+      },
+      "properties": {
+        "name": "3/10 Kelly Street, Chadstone"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.837372,
+          -37.7689
+        ]
+      },
+      "properties": {
+        "name": "1/69 Warwick Road, Sunshine North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.748718,
+          -37.73285
+        ]
+      },
+      "properties": {
+        "name": "3/25 Boathouse Drive, Caroline Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.560349,
+          -37.7150459
+        ]
+      },
+      "properties": {
+        "name": "26 Laurier Avenue, Melton South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.707855,
+          -37.5751457
+        ]
+      },
+      "properties": {
+        "name": "33 HEYSEN DRIVE, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.835785,
+          -37.77272
+        ]
+      },
+      "properties": {
+        "name": "54 Westmoreland Road, Sunshine North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.666473,
+          -37.8770561
+        ]
+      },
+      "properties": {
+        "name": "2/34 Songlark Crescent, Werribee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.645447,
+          -37.8926277
+        ]
+      },
+      "properties": {
+        "name": "65 Manorvale Parade, Werribee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.715225,
+          -37.6909
+        ]
+      },
+      "properties": {
+        "name": "27 Verona Crescent, Fraser Rise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5506,
+          -37.7142677
+        ]
+      },
+      "properties": {
+        "name": "203 James Melrose Drive, Brookfield"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.686615,
+          -37.71415
+        ]
+      },
+      "properties": {
+        "name": "37 Canyon Circuit, Bonnie Brook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.724457,
+          -37.5561523
+        ]
+      },
+      "properties": {
+        "name": "14 FRAGRANT STREET, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.88475,
+          -37.6421738
+        ]
+      },
+      "properties": {
+        "name": "33 Rudstone Bend, Greenvale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.747238,
+          -37.69656
+        ]
+      },
+      "properties": {
+        "name": "68 John Paul Drive, Hillside"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.716522,
+          -37.7149353
+        ]
+      },
+      "properties": {
+        "name": "51 Saric Street, Fraser Rise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.696381,
+          -37.8390236
+        ]
+      },
+      "properties": {
+        "name": "38 Leda Drive, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.11557,
+          -37.8994522
+        ]
+      },
+      "properties": {
+        "name": "1/1 Inga Street, Oakleigh East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.766586,
+          -37.6969147
+        ]
+      },
+      "properties": {
+        "name": "53 Trickey Avenue, Sydenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.934875,
+          -37.6981239
+        ]
+      },
+      "properties": {
+        "name": "109 Justin Avenue, Glenroy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.707809,
+          -37.624836
+        ]
+      },
+      "properties": {
+        "name": "55 Farm Road, Diggers Rest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.596786,
+          -37.84951
+        ]
+      },
+      "properties": {
+        "name": "9 Onslow Walk, Wyndham Vale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.702682,
+          -37.62047
+        ]
+      },
+      "properties": {
+        "name": "39 Civic Street, Diggers Rest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.726151,
+          -37.5860939
+        ]
+      },
+      "properties": {
+        "name": "3/188 O'Shanassy Street, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.048431,
+          -37.7135239
+        ]
+      },
+      "properties": {
+        "name": "63 Copernicus Crescent, Bundoora"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.854324,
+          -37.8394852
+        ]
+      },
+      "properties": {
+        "name": "28 First Avenue, Altona North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.582581,
+          -37.8677673
+        ]
+      },
+      "properties": {
+        "name": "3 Julep Street, Manor Lakes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.012619,
+          -37.543232
+        ]
+      },
+      "properties": {
+        "name": "5 Caseys Way, Donnybrook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.694122,
+          -37.88334
+        ]
+      },
+      "properties": {
+        "name": "12A Fairway Avenue, Hoppers Crossing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6883,
+          -37.8696823
+        ]
+      },
+      "properties": {
+        "name": "15 Hunter Avenue, Hoppers Crossing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.610367,
+          -37.87778
+        ]
+      },
+      "properties": {
+        "name": "15 Yarra Gum Road, Manor Lakes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.720642,
+          -37.72511
+        ]
+      },
+      "properties": {
+        "name": "7 Giggs Street, Deanside"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.594177,
+          -37.9013977
+        ]
+      },
+      "properties": {
+        "name": "31 Avonbury Drive, Werribee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.599487,
+          -37.8905754
+        ]
+      },
+      "properties": {
+        "name": "18 Ellimatta Road, Mambourin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.976089,
+          -37.7369156
+        ]
+      },
+      "properties": {
+        "name": "12/1 Manna Gum Court, Coburg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.591,
+          -37.8876953
+        ]
+      },
+      "properties": {
+        "name": "145 Callaway Street, Mambourin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.577164,
+          -37.8673019
+        ]
+      },
+      "properties": {
+        "name": "195 Maracana Avenue, Manor Lakes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.619156,
+          -37.86917
+        ]
+      },
+      "properties": {
+        "name": "13 Munoz Walk, Wyndham Vale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.83252,
+          -37.78567
+        ]
+      },
+      "properties": {
+        "name": "201/254 Hampshire Road, Sunshine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.692261,
+          -37.7706642
+        ]
+      },
+      "properties": {
+        "name": "54 Lena Crescent, Truganina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.927185,
+          -37.77832
+        ]
+      },
+      "properties": {
+        "name": "41 South Street, Ascot Vale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.763062,
+          -37.7649956
+        ]
+      },
+      "properties": {
+        "name": "9A Davitt Drive, Deer Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.726761,
+          -37.87764
+        ]
+      },
+      "properties": {
+        "name": "14 Parkstone Crescent, Point Cook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7268,
+          -37.7483
+        ]
+      },
+      "properties": {
+        "name": "4 Tamborine Way, Caroline Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.755478,
+          -37.73134
+        ]
+      },
+      "properties": {
+        "name": "36 Wilkins Crescent, Burnside Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.730591,
+          -37.74722
+        ]
+      },
+      "properties": {
+        "name": "4 Muirhead Gardens, Caroline Springs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.129868,
+          -37.92268
+        ]
+      },
+      "properties": {
+        "name": "16 Dooga Street, Clayton"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.717453,
+          -37.7149162
+        ]
+      },
+      "properties": {
+        "name": "63 Krateron Street, Fraser Rise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7024,
+          -37.7353477
+        ]
+      },
+      "properties": {
+        "name": "1 Angul Parade, Deanside"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.595856,
+          -37.87274
+        ]
+      },
+      "properties": {
+        "name": "8 Creekside Boulevard, Manor Lakes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.660461,
+          -37.7187042
+        ]
+      },
+      "properties": {
+        "name": "21 Quarters Street, Aintree"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.262054,
+          -38.04413
+        ]
+      },
+      "properties": {
+        "name": "5 Greenwell Close, Hampton Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.774124,
+          -37.70237
+        ]
+      },
+      "properties": {
+        "name": "1/358 Sydenham Road, Sydenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.213287,
+          -37.9726143
+        ]
+      },
+      "properties": {
+        "name": "2/26 Woodle Street, Dandenong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70459,
+          -37.5942726
+        ]
+      },
+      "properties": {
+        "name": "14 Trooper Avenue, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.130188,
+          -38.09733
+        ]
+      },
+      "properties": {
+        "name": "35 Portland Parade, Seaford"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2825,
+          -38.00522
+        ]
+      },
+      "properties": {
+        "name": "25 Marjoram Close, Hallam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.890167,
+          -37.6747551
+        ]
+      },
+      "properties": {
+        "name": "121 Kenny Street, Westmeadows"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.871567,
+          -37.7458153
+        ]
+      },
+      "properties": {
+        "name": "1/2 Dinah Parade, Keilor East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.015335,
+          -37.7097168
+        ]
+      },
+      "properties": {
+        "name": "1/93 Crookston Road, Reservoir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6992,
+          -37.558094
+        ]
+      },
+      "properties": {
+        "name": "16 Olivia Street, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.70163,
+          -37.7216454
+        ]
+      },
+      "properties": {
+        "name": "5 Sheba Street, Deanside"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.070892,
+          -37.71934
+        ]
+      },
+      "properties": {
+        "name": "8 Portree Street, Macleod"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.709183,
+          -37.55806
+        ]
+      },
+      "properties": {
+        "name": "20 Wallaby Walk, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.710678,
+          -37.81624
+        ]
+      },
+      "properties": {
+        "name": "48 Lucerne Drive, Truganina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.609787,
+          -37.716217
+        ]
+      },
+      "properties": {
+        "name": "78 Adelong Boulevard, Cobblebank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.329224,
+          -38.14524
+        ]
+      },
+      "properties": {
+        "name": "188 Minerva Road, Newtown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.05014,
+          -37.6732
+        ]
+      },
+      "properties": {
+        "name": "171 Roycroft Avenue, Mill Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.049728,
+          -37.76943
+        ]
+      },
+      "properties": {
+        "name": "6/141 Maltravers Road, Ivanhoe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.247986,
+          -38.0928078
+        ]
+      },
+      "properties": {
+        "name": "5 Cultura Walk, Cranbourne West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.327133,
+          -38.150547
+        ]
+      },
+      "properties": {
+        "name": "4 Heathfield Court, Newtown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3249,
+          -38.11516
+        ]
+      },
+      "properties": {
+        "name": "3 Forfar Road, Hamlyn Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.905121,
+          -37.58121
+        ]
+      },
+      "properties": {
+        "name": "82 Grevillea Street, Craigieburn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.686584,
+          -37.82403
+        ]
+      },
+      "properties": {
+        "name": "19 Caddy Road, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.189484,
+          -37.9722977
+        ]
+      },
+      "properties": {
+        "name": "13 Holmes Street, Noble Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.801575,
+          -38.37794
+        ]
+      },
+      "properties": {
+        "name": "57 Thomson Terrace, Rye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.991547,
+          -37.7500648
+        ]
+      },
+      "properties": {
+        "name": "14 Devon Street, Preston"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.60199,
+          -37.7354736
+        ]
+      },
+      "properties": {
+        "name": "7 Octavia Place, Strathtulloh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1628,
+          -37.93285
+        ]
+      },
+      "properties": {
+        "name": "2/18 Studley Street, Mulgrave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.60791,
+          -37.9125748
+        ]
+      },
+      "properties": {
+        "name": "16 Irvine Rise, Werribee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.093292,
+          -37.7202339
+        ]
+      },
+      "properties": {
+        "name": "4 Stephanie Court, Macleod"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.706268,
+          -37.5555649
+        ]
+      },
+      "properties": {
+        "name": "44 Saxonwood Drive, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.109818,
+          -37.6052361
+        ]
+      },
+      "properties": {
+        "name": "13 Towerhill Avenue, Doreen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.329681,
+          -38.0757
+        ]
+      },
+      "properties": {
+        "name": "4 Beacon Drive, Cranbourne North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.540482,
+          -37.6689224
+        ]
+      },
+      "properties": {
+        "name": "1 Weeks Avenue, Harkness"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.710953,
+          -37.8357964
+        ]
+      },
+      "properties": {
+        "name": "12 Blanchett Road, Truganina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.345154,
+          -38.0715561
+        ]
+      },
+      "properties": {
+        "name": "10 Wurundjeri Boulevard, Berwick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.335373,
+          -38.1246452
+        ]
+      },
+      "properties": {
+        "name": "87 Waterman Drive, Clyde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.166336,
+          -37.91003
+        ]
+      },
+      "properties": {
+        "name": "27 Graduate Crescent, Wheelers Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.662109,
+          -37.8385162
+        ]
+      },
+      "properties": {
+        "name": "121 Isabella Way, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.90686,
+          -37.53552
+        ]
+      },
+      "properties": {
+        "name": "16 Willsmere Way, Mickleham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.659073,
+          -37.81465
+        ]
+      },
+      "properties": {
+        "name": "11 Imatra Loop, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.906113,
+          -37.5342178
+        ]
+      },
+      "properties": {
+        "name": "19 St Georges Boulevard, Mickleham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6786,
+          -37.7597351
+        ]
+      },
+      "properties": {
+        "name": "13 Genovesa Drive, Truganina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.628387,
+          -38.2700233
+        ]
+      },
+      "properties": {
+        "name": "17 Rayleigh Avenue, Queenscliff"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.685074,
+          -37.81525
+        ]
+      },
+      "properties": {
+        "name": "31 Respect Way, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.718262,
+          -37.823082
+        ]
+      },
+      "properties": {
+        "name": "14 Ledger Street, Truganina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.725021,
+          -37.82644
+        ]
+      },
+      "properties": {
+        "name": "32 Trafford Drive, Truganina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.875183,
+          -37.85367
+        ]
+      },
+      "properties": {
+        "name": "4/115 Park Crescent, Williamstown North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.306641,
+          -38.1147728
+        ]
+      },
+      "properties": {
+        "name": "53 Challenger Circuit, Cranbourne East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.3216,
+          -38.1182823
+        ]
+      },
+      "properties": {
+        "name": "118 Sladen Street, Hamlyn Heights"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.031662,
+          -37.84163
+        ]
+      },
+      "properties": {
+        "name": "3/453 Glenferrie Road, Kooyong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.135529,
+          -37.94792
+        ]
+      },
+      "properties": {
+        "name": "30 Spring Valley Drive, Clayton South"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.716263,
+          -37.700985
+        ]
+      },
+      "properties": {
+        "name": "69 Walkside Boulevard, Fraser Rise"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.180191,
+          -38.0889778
+        ]
+      },
+      "properties": {
+        "name": "5 Winter Lane, Carrum Downs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.1684,
+          -37.6733
+        ]
+      },
+      "properties": {
+        "name": "4 Perversi Avenue, Diamond Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.088074,
+          -38.00209
+        ]
+      },
+      "properties": {
+        "name": "23 Edith Street, Mordialloc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.565582,
+          -37.7263145
+        ]
+      },
+      "properties": {
+        "name": "12 Doolans Street, Weir Views"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2392,
+          -37.97427
+        ]
+      },
+      "properties": {
+        "name": "43 Aldridge Street, Endeavour Hills"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.324951,
+          -38.0449867
+        ]
+      },
+      "properties": {
+        "name": "26 Grand Arch Way, Berwick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.205353,
+          -37.9907951
+        ]
+      },
+      "properties": {
+        "name": "4/27 Hornsby street, Dandenong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.782562,
+          -37.8915749
+        ]
+      },
+      "properties": {
+        "name": "5 Sturrock Court, Altona Meadows"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0713,
+          -37.746067
+        ]
+      },
+      "properties": {
+        "name": "147 Rosanna Rd, Rosanna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.135941,
+          -37.871357
+        ]
+      },
+      "properties": {
+        "name": "3/3 Fleet Street, Mount Waverley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.670761,
+          -37.89953
+        ]
+      },
+      "properties": {
+        "name": "9 Wattle Avenue, Werribee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.121613,
+          -38.0410423
+        ]
+      },
+      "properties": {
+        "name": "1/96 Berry Avenue, Edithvale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.302887,
+          -38.111908
+        ]
+      },
+      "properties": {
+        "name": "9 Maddock Drive, Cranbourne East"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.738541,
+          -37.8508873
+        ]
+      },
+      "properties": {
+        "name": "11 Choy Street, Truganina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.743927,
+          -37.85458
+        ]
+      },
+      "properties": {
+        "name": "85 Urban Drive, Williams Landing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.872208,
+          -37.8261223
+        ]
+      },
+      "properties": {
+        "name": "2/114 The Avenue, Spotswood"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.7622,
+          -37.57304
+        ]
+      },
+      "properties": {
+        "name": "4 Ballet Crescent, Sunbury"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.131348,
+          -37.8779259
+        ]
+      },
+      "properties": {
+        "name": "17 Valley Road, Mount Waverley"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.545975,
+          -37.66917
+        ]
+      },
+      "properties": {
+        "name": "10 Parris Avenue, Harkness"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.647263,
+          -37.73331
+        ]
+      },
+      "properties": {
+        "name": "23 Dev Terrace, Rockbank"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.060822,
+          -37.7488937
+        ]
+      },
+      "properties": {
+        "name": "73 Martin Street, Heidelberg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66008,
+          -37.8433647
+        ]
+      },
+      "properties": {
+        "name": "31 Hamish Drive, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5937,
+          -37.86415
+        ]
+      },
+      "properties": {
+        "name": "10 Fragrance Terrace, Manor Lakes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.550964,
+          -38.2522163
+        ]
+      },
+      "properties": {
+        "name": "2/26 Holburn Rise, Ocean Grove"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.69429,
+          -37.86803
+        ]
+      },
+      "properties": {
+        "name": "11 Burge Crescent, Hoppers Crossing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.348862,
+          -38.15921
+        ]
+      },
+      "properties": {
+        "name": "1/19 Marshall Street, Newtown"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.065689,
+          -37.63838
+        ]
+      },
+      "properties": {
+        "name": "4 Avion Rise, South Morang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.805176,
+          -37.7180023
+        ]
+      },
+      "properties": {
+        "name": "8 Bremen Court, Keilor Downs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.623566,
+          -37.7085876
+        ]
+      },
+      "properties": {
+        "name": "4 Rachel Way, Thornhill Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6036,
+          -37.9100571
+        ]
+      },
+      "properties": {
+        "name": "33 Lumley Cct, Werribee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.750351,
+          -37.855484
+        ]
+      },
+      "properties": {
+        "name": "14 Kingsbridge Boulevard, Williams Landing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.758911,
+          -37.7042732
+        ]
+      },
+      "properties": {
+        "name": "8A Shields Court, Sydenham"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.722519,
+          -37.90551
+        ]
+      },
+      "properties": {
+        "name": "23 Gardener Drive, Point Cook"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.564316,
+          -37.6638756
+        ]
+      },
+      "properties": {
+        "name": "4 Emerald Court, Harkness"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.238724,
+          -38.1163559
+        ]
+      },
+      "properties": {
+        "name": "13 Cazaly Way, Cranbourne West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.6847,
+          -37.8361969
+        ]
+      },
+      "properties": {
+        "name": "32 Lilyturf Drive, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.056976,
+          -37.9568748
+        ]
+      },
+      "properties": {
+        "name": "1/59 Chesterville Road, Highett"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.083557,
+          -37.5904274
+        ]
+      },
+      "properties": {
+        "name": "14 Mcculloch Street, Mernda"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.288666,
+          -38.1002769
+        ]
+      },
+      "properties": {
+        "name": "35 Normanby Street, Cranbourne"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.325089,
+          -38.12469
+        ]
+      },
+      "properties": {
+        "name": "31 Cradle Avenue, Clyde"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.348892,
+          -38.2318153
+        ]
+      },
+      "properties": {
+        "name": "28 Element Circuit, Armstrong Creek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.047592,
+          -37.66279
+        ]
+      },
+      "properties": {
+        "name": "207 Childs Road, Mill Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.686768,
+          -37.83784
+        ]
+      },
+      "properties": {
+        "name": "31 Melville Street, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.200424,
+          -38.1096458
+        ]
+      },
+      "properties": {
+        "name": "18 Friuli Place, Skye"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.374237,
+          -38.0162621
+        ]
+      },
+      "properties": {
+        "name": "3 Leafy Street, Lara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.384262,
+          -38.0971375
+        ]
+      },
+      "properties": {
+        "name": "46 Boboli Avenue, Clyde North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.362427,
+          -38.0558052
+        ]
+      },
+      "properties": {
+        "name": "73 Jarryd Crescent, Berwick"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.743988,
+          -37.85433
+        ]
+      },
+      "properties": {
+        "name": "91 Sayers Road, Williams Landing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.662155,
+          -37.89132
+        ]
+      },
+      "properties": {
+        "name": "5 Persimmon Place, Werribee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.167969,
+          -37.9131851
+        ]
+      },
+      "properties": {
+        "name": "94 Brandon Park Drive, Wheelers Hill"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.66008,
+          -37.8511162
+        ]
+      },
+      "properties": {
+        "name": "5B Larissa Street, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.22702,
+          -37.98568
+        ]
+      },
+      "properties": {
+        "name": "25 Sarona Street, Dandenong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.19722,
+          -38.0873756
+        ]
+      },
+      "properties": {
+        "name": "6 Bitalli Place, Sandhurst"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.113739,
+          -38.0437927
+        ]
+      },
+      "properties": {
+        "name": "12 Berry Avenue, Edithvale"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.190491,
+          -38.25775
+        ]
+      },
+      "properties": {
+        "name": "6 Stella Avenue, Tyabb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.3535,
+          -38.0857925
+        ]
+      },
+      "properties": {
+        "name": "14 Spindle Street, Clyde North"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.669373,
+          -37.8130455
+        ]
+      },
+      "properties": {
+        "name": "23 Lowell Road, Tarneit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0269,
+          -37.9154
+        ]
+      },
+      "properties": {
+        "name": "10 Somers Street, Bentleigh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.889557,
+          -37.75187
+        ]
+      },
+      "properties": {
+        "name": "15 Hoffmans Road, Essendon West"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.889359,
+          -37.7517929
+        ]
+      },
+      "properties": {
+        "name": "15A Hoffmans Road, Essendon West"
+      }
+    }
+  ]
+}

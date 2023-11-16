@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-09T15:32:06Z" areas="2023-11-09T10:10:37Z"/>
+<meta osm_base="2023-11-16T13:57:34Z" areas="2023-11-16T10:23:59Z"/>
 
   <node id="1766897048" lat="-38.2298754" lon="145.0502982">
     <tag k="name" v="Mornington"/>
@@ -2254,12 +2254,14 @@
     <tag k="area" v="yes"/>
     <tag k="name" v="Armadale"/>
     <tag k="name:zh" v="阿玛戴尔"/>
-    <tag k="network" v="PTV – Metropolitan Trains"/>
+    <tag k="network" v="PTV - Metropolitan Trains"/>
+    <tag k="network:wikidata" v="Q7257648"/>
     <tag k="operator" v="Metro Trains Melbourne"/>
     <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="ref" v="ARM"/>
     <tag k="ref:ptv" v="19945"/>
+    <tag k="train" v="yes"/>
     <tag k="website" v="https://ptv.vic.gov.au/stop/1008"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q4792530"/>
@@ -2354,12 +2356,15 @@
     <center lat="-37.7995140" lon="144.9248269"/>
     <tag k="internet_access" v="no"/>
     <tag k="name" v="South Kensington"/>
-    <tag k="network" v="Public Transport Victoria"/>
+    <tag k="network" v="Metro Trains Melbourne"/>
+    <tag k="network:wikidata" v="Q10931299"/>
     <tag k="note" v="Sunbury services do not stop here."/>
     <tag k="operator" v="Metro Trains Melbourne"/>
+    <tag k="public_transport" v="station"/>
     <tag k="railway" v="station"/>
     <tag k="railway:ref" v="SKN"/>
     <tag k="ref" v="20026"/>
+    <tag k="train" v="yes"/>
     <tag k="wheelchair" v="yes"/>
     <tag k="wikidata" v="Q7567602"/>
   </way>
