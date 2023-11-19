@@ -1,0 +1,88 @@
+#!/usr/bin/env ruby
+require 'net/http'
+require 'json'
+
+DOMAIN_API_URL = URI("https://api.domain.com.au/v1/listings/residential/_search")
+DOMAIN_API_KEY = ENV['DOMAIN_API_KEY']
+
+DEFAULT_HEADERS = {
+  'Content-Type' => 'application/json',
+  'Transfer-Encoding' => 'chunked',
+  'X-API-Key' => DOMAIN_API_KEY
+}
+
+def abort(message, status: 1)
+  $stderr.puts(message)
+  exit 1
+end
+
+def post(query, page_number: 1, page_size: 50)
+  query['pageSize'] = page_size unless page_size.nil?
+  query['pageNumber'] = page_number
+  $stderr.puts 'Query:', '-' * 80, query, '-' * 80
+  http = Net::HTTP.new(DOMAIN_API_URL.host, DOMAIN_API_URL.port)
+  http.use_ssl = true
+  request = Net::HTTP::Post.new(DOMAIN_API_URL.path, DEFAULT_HEADERS)
+  response = http.request(request, JSON.dump(query))
+end
+
+def handle_response(response, query:, output:)
+case response
+  when Net::HTTPSuccess
+    $stderr.puts "Success: #{response.code} (#{response.class}) -- #{response.message}"
+
+    # Debug
+    response.each_capitalized do |header, value|
+      $stderr.puts("#{header}: #{value}")
+    end
+
+    $stderr.puts('', '-' * 80, response.body, '-' * 80)
+
+    # Get header X-Total-Count
+    count = Integer(response.fetch('X-Total-Count'))
+
+    # If it's lower than the page size (X-Pagination-Pagesize) times the (X-Pagination-Pagenumber),
+    # we need to get the next page too
+    page_size = Integer(response.fetch('X-Pagination-Pagesize'))
+    page_number = Integer(response.fetch('X-Pagination-Pagenumber'))
+
+    results = JSON.parse(response.body)
+    $stderr.puts "count=#{count} results.count=#{results.count} page_size=#{page_size} page_number=#{page_number}"
+    $stderr.puts("if results.count=#{results.count} > page_size=#{page_size}")
+
+    results.pop while results.count > page_size
+    output.puts(results.map { |result| JSON.dump(result) })
+
+    $stderr.puts("if count=#{count} > (page_size * page_number)=#{page_size * page_number}")
+    if count > (page_size * page_number)
+      $stderr.puts('Get next page')
+      # TODO
+      sleep 2
+      handle_response(post(query, page_number: page_number + 1), query:, output:)
+    else
+      $stderr.puts('Done')
+    end
+  else
+    $stderr.puts "Error: #{response.code} (#{response.class}) -- #{response.message}"
+    $stderr.puts response.body
+    exit 1
+  end
+end
+
+if ARGV.length != 2
+  $stderr.puts "Usage: #{$0} input_file output_file"
+  exit
+end
+
+input, output = ARGV
+
+abort "File #{input} is not readable" unless File.readable?(input)
+abort "File #{output} is not writable" if File.exist?(output) && !File.writable?(output)
+
+$stderr.puts "Processing #{input} -> #{output}"
+
+query = File.open(input) { |file| JSON.load(file) }
+response = post(query)
+File.open(output, 'w') do |file|
+  handle_response(response, query:, output: file)
+end

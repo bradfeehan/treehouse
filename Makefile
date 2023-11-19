@@ -4,6 +4,10 @@ QUERY_DIR := queries
 OUTPUT_DIR := results
 # Directory where the output geojson files should be saved
 DATA_DIR := data
+# Directory containing API clients
+CLIENTS_DIR := clients
+# Directory with files describing JQ filters/commands
+FILTERS_DIR := filters
 
 # Overpass API endpoint
 OVERPASS_API := "https://overpass-api.de/api/interpreter"
@@ -11,7 +15,7 @@ OVERPASS_API := "https://overpass-api.de/api/interpreter"
 OSMTOGEOJSON := ./node_modules/.bin/osmtogeojson
 
 # Domain.com.au API
-DOMAIN_API := "https://api.domain.com.au/v1/listings/residential/_search"
+DOMAIN_CLIENT := $(CLIENTS_DIR)/domain
 DOMAIN_SOURCES := $(wildcard $(QUERY_DIR)/*.domain.json)
 DOMAIN_RESULTS := $(patsubst $(QUERY_DIR)/%.domain.json,$(OUTPUT_DIR)/%.domain.json,$(DOMAIN_SOURCES))
 DOMAIN_TARGETS := $(patsubst $(QUERY_DIR)/%.domain.json,$(DATA_DIR)/%.geojson,$(DOMAIN_SOURCES))
@@ -35,35 +39,17 @@ $(DATA_DIR)/%.geojson: $(OUTPUT_DIR)/%.xml
 # Rule to make the result .xml files from the source .overpass files
 $(OUTPUT_DIR)/%.xml: $(QUERY_DIR)/%.overpass
 	@mkdir -p "$(OUTPUT_DIR)"
-	curl --location --silent --show-error --request POST --data @$(<) $(OVERPASS_API) --output $(@)
+	curl --location --silent --show-error \
+		--request POST --data @$(<) $(OVERPASS_API) --output $(@)
 
 # Rule to make the output .geojson files from the result .domain.json files
 $(DATA_DIR)/%.geojson: $(OUTPUT_DIR)/%.domain.json
 	@mkdir -p "$(DATA_DIR)"
-	jq \
-	  '{ \
-	    type: "FeatureCollection", \
-	    features: map({ \
-	      type: "Feature", \
-	      geometry: { \
-	        type: "Point", \
-	        coordinates: [.listing.propertyDetails.longitude, .listing.propertyDetails.latitude] \
-	      }, \
-	      properties: { \
-	        name: .listing.propertyDetails.displayableAddress \
-	      } \
-	    }) \
-	  }' \
-	  $(<) > $(@)
+	jq --slurp --from-file $(FILTERS_DIR)/domain_listings_to_geojson.jq $(<) > $(@)
 
 $(OUTPUT_DIR)/%.domain.json: $(QUERY_DIR)/%.domain.json
 	@mkdir -p "$(OUTPUT_DIR)"
-	curl --location --silent --fail --show-error --output $(@) \
-	  --request POST \
-	  --header "Content-Type: application/json" \
-	  --header "X-API-Key: ${DOMAIN_API_KEY}" \
-	  --data @$(<) \
-	  $(DOMAIN_API)
+	$(DOMAIN_CLIENT) $(<) $(@)
 
 $(OSM_PBF):
 	@mkdir -p docker/data
