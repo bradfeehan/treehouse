@@ -1,6 +1,5 @@
 area["place"="city"]["name"="Melbourne"]["wikidata"="Q3141"] -> .melbourne;
 
-// FIXME: this is missing some locations, e.g. Victoria Gardens
 node["amenity"="pharmacy"]["brand"="Chemist Warehouse"](area.melbourne);
 out body qt;
 
