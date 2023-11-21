@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-16T13:57:34Z" areas="2023-11-16T08:55:33Z"/>
+<meta osm_base="2023-11-20T10:20:10Z" areas="2023-11-20T05:02:58Z"/>
 
   <node id="10616913654" lat="-38.3615342" lon="144.8904717">
     <tag k="brand" v="Woolworths"/>
@@ -1098,7 +1098,6 @@
     <tag k="operator:wikidata" v="Q607272"/>
     <tag k="payment:american_express" v="yes"/>
     <tag k="payment:apple_pay" v="yes"/>
-    <tag k="payment:card" v="yes"/>
     <tag k="payment:cards" v="yes"/>
     <tag k="payment:cash" v="yes"/>
     <tag k="payment:contactless" v="yes"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-16T13:57:34Z" areas="2023-11-16T08:55:33Z"/>
+<meta osm_base="2023-11-20T10:20:10Z" areas="2023-11-20T05:02:58Z"/>
 
   <node id="1277984725" lat="-37.7998055" lon="144.8997840">
     <tag k="name" v="Stop 62: Nicholson Street"/>
@@ -9717,7 +9717,7 @@
     <tag k="tram" v="yes"/>
     <tag k="wheelchair" v="yes"/>
   </node>
-  <node id="2203993230" lat="-37.7948697" lon="144.9753982">
+  <node id="2203993230" lat="-37.7948644" lon="144.9753721">
     <tag k="fixme" v="check for correct name: &quot;Stop 14: Kay Street&quot; vs. &quot;Stop 14: Rose Street&quot;"/>
     <tag k="name" v="Stop 14: Kay Street"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
@@ -9727,7 +9727,7 @@
     <tag k="ref" v="14"/>
     <tag k="tram" v="yes"/>
   </node>
-  <node id="2203993231" lat="-37.7951494" lon="144.9753903">
+  <node id="2203993231" lat="-37.7951507" lon="144.9754072">
     <tag k="name" v="Stop 14: Rose Street"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
     <tag k="operator" v="Yarra Trams"/>
@@ -14860,6 +14860,25 @@
     <tag k="ref" v="55"/>
     <tag k="tram" v="yes"/>
   </node>
+  <node id="11359481039" lat="-37.8178449" lon="145.1218898">
+    <tag k="bench" v="yes"/>
+    <tag k="bin" v="yes"/>
+    <tag k="departures_board" v="realtime"/>
+    <tag k="name" v="Stop 58: Box Hill Central"/>
+    <tag k="network" v="PTV - Metropolitan Trams"/>
+    <tag k="network:wikidata" v="Q7257648"/>
+    <tag k="operator" v="Keolis Downer"/>
+    <tag k="operator:wikidata" v="Q6328065"/>
+    <tag k="public_transport" v="station"/>
+    <tag k="railway" v="tram_stop"/>
+    <tag k="ref" v="58"/>
+    <tag k="ref:ptv" v="19781"/>
+    <tag k="shelter" v="yes"/>
+    <tag k="surface" v="paved"/>
+    <tag k="tram" v="yes"/>
+    <tag k="website" v="https://ptv.vic.gov.au/stop/2409"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
   <node id="2246561239" lat="-37.8168364" lon="145.1144663">
     <tag k="name" v="Stop 56: Elgar Road"/>
     <tag k="network" v="PTV - Metropolitan Trams"/>
@@ -15751,27 +15770,6 @@
     <tag k="shelter" v="yes"/>
     <tag k="tactile_paving" v="yes"/>
     <tag k="tram" v="yes"/>
-    <tag k="wheelchair" v="yes"/>
-  </way>
-  <way id="1211762810">
-    <center lat="-37.8178448" lon="145.1218895"/>
-    <tag k="area" v="yes"/>
-    <tag k="bench" v="yes"/>
-    <tag k="bin" v="yes"/>
-    <tag k="departures_board" v="realtime"/>
-    <tag k="name" v="Stop 58: Box Hill Central"/>
-    <tag k="network" v="PTV - Metropolitan Trams"/>
-    <tag k="network:wikidata" v="Q7257648"/>
-    <tag k="operator" v="Keolis Downer"/>
-    <tag k="operator:wikidata" v="Q6328065"/>
-    <tag k="public_transport" v="platform"/>
-    <tag k="railway" v="tram_stop"/>
-    <tag k="ref" v="58"/>
-    <tag k="ref:ptv" v="19781"/>
-    <tag k="shelter" v="yes"/>
-    <tag k="surface" v="paved"/>
-    <tag k="tram" v="yes"/>
-    <tag k="website" v="https://ptv.vic.gov.au/stop/2409"/>
     <tag k="wheelchair" v="yes"/>
   </way>
 

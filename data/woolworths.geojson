@@ -4152,7 +4152,6 @@
     "operator:wikidata": "Q607272",
     "payment:american_express": "yes",
     "payment:apple_pay": "yes",
-    "payment:card": "yes",
     "payment:cards": "yes",
     "payment:cash": "yes",
     "payment:contactless": "yes",

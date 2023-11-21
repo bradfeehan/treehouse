@@ -624,38 +624,6 @@
 },
 {
   "type": "Feature",
-  "id": "way/1211762810",
-  "properties": {
-    "area": "yes",
-    "bench": "yes",
-    "bin": "yes",
-    "departures_board": "realtime",
-    "name": "Stop 58: Box Hill Central",
-    "network": "PTV - Metropolitan Trams",
-    "network:wikidata": "Q7257648",
-    "operator": "Keolis Downer",
-    "operator:wikidata": "Q6328065",
-    "public_transport": "platform",
-    "railway": "tram_stop",
-    "ref": "58",
-    "ref:ptv": "19781",
-    "shelter": "yes",
-    "surface": "paved",
-    "tram": "yes",
-    "website": "https://ptv.vic.gov.au/stop/2409",
-    "wheelchair": "yes",
-    "id": "way/1211762810"
-  },
-  "geometry": {
-    "type": "Point",
-    "coordinates": [
-      145.1218895,
-      -37.8178448
-    ]
-  }
-},
-{
-  "type": "Feature",
   "id": "node/1214516660",
   "properties": {
     "name": "Stop 34: Inkerman Street",
@@ -2281,8 +2249,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      144.9753982,
-      -37.7948697
+      144.9753721,
+      -37.7948644
     ]
   }
 },
@@ -2302,8 +2270,8 @@
   "geometry": {
     "type": "Point",
     "coordinates": [
-      144.9753903,
-      -37.7951494
+      144.9754072,
+      -37.7951507
     ]
   }
 },
@@ -34529,6 +34497,37 @@
     "coordinates": [
       145.0116705,
       -37.7387308
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11359481039",
+  "properties": {
+    "bench": "yes",
+    "bin": "yes",
+    "departures_board": "realtime",
+    "name": "Stop 58: Box Hill Central",
+    "network": "PTV - Metropolitan Trams",
+    "network:wikidata": "Q7257648",
+    "operator": "Keolis Downer",
+    "operator:wikidata": "Q6328065",
+    "public_transport": "station",
+    "railway": "tram_stop",
+    "ref": "58",
+    "ref:ptv": "19781",
+    "shelter": "yes",
+    "surface": "paved",
+    "tram": "yes",
+    "website": "https://ptv.vic.gov.au/stop/2409",
+    "wheelchair": "yes",
+    "id": "node/11359481039"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1218898,
+      -37.8178449
     ]
   }
 },
