@@ -1,0 +1,2915 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/28867408",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "way/28867408"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2560675,
+      -37.8763361
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/29479565",
+  "properties": {
+    "addr:housenumber": "695-699",
+    "addr:street": "Warrigal Road",
+    "addr:unit": "3",
+    "alt_name": "Chemist Warehouse Chadstone Homemaker Centre",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "building": "retail",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "kids_area": "no",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-18:00",
+    "operator:ref:abn": "59480826285",
+    "phone": "+61 3 6292 5221",
+    "wheelchair": "yes",
+    "id": "way/29479565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0923641,
+      -37.8797862
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/45240600",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "retail",
+    "dispensing": "yes",
+    "full_name": "Chemist Warehouse Westfield Knox",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Sa-Su 08:00-23:00",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "way/45240600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2423572,
+      -37.8705612
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/109347697",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "shop": "chemist",
+    "id": "way/109347697"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0281164,
+      -37.7398579
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/138871458",
+  "properties": {
+    "addr:housenumber": "121",
+    "addr:postcode": "3101",
+    "addr:state": "VIC",
+    "addr:street": "High Street",
+    "addr:suburb": "Kew",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "retail",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:30-18:00; Su 09:30-17:30",
+    "phone": "+61 3 9855 1273",
+    "id": "way/138871458"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0294545,
+      -37.80703
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/226450280",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "retail",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "way/226450280"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.166332,
+      -38.1544758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/230526031",
+  "properties": {
+    "addr:housenumber": "292",
+    "addr:postcode": "3020",
+    "addr:state": "VIC",
+    "addr:street": "Hampshire Road",
+    "addr:suburb": "Sunshine",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "building": "retail",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "source": "Vicmap Address",
+    "id": "way/230526031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8326041,
+      -37.7840928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300240961",
+  "properties": {
+    "addr:housenumber": "332",
+    "addr:street": "Cheltenham Road",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "way/300240961"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1724729,
+      -37.9945126
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/300665571",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:30-19:00; Sa,Su 09:00-18:00",
+    "phone": "+61 3 9370 8440",
+    "id": "way/300665571"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9145562,
+      -37.7798394
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/328748063",
+  "properties": {
+    "addr:housenumber": "131-133",
+    "addr:postcode": "3134",
+    "addr:state": "VIC",
+    "addr:street": "Maroondah Highway",
+    "addr:suburb": "Ringwood",
+    "amenity": "pharmacy",
+    "branch": "Ringwood",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "retail",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Su 06:00-00:00",
+    "phone": "+61 3 9870 5022",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "way/328748063"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2267657,
+      -37.8158096
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/364874053",
+  "properties": {
+    "addr:housenumber": "206-210",
+    "addr:street": "Brunswick Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 9:00-21:00; Sa 9:00-17:00; Su 10:00-17:00",
+    "phone": "+61 3 9417 2917",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/364874053"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9781729,
+      -37.8012423
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/364874284",
+  "properties": {
+    "addr:housenumber": "244",
+    "addr:street": "Smith Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 8:30-21:00; Sa 9:00-18:00; Su 10:00-17:00",
+    "phone": "+61 3 9417 4377",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/364874284"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9839273,
+      -37.8017259
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/368744658",
+  "properties": {
+    "addr:city": "Richmond",
+    "addr:housenumber": "300",
+    "addr:postcode": "3121",
+    "addr:street": "Bridge Road",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "way/368744658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0012379,
+      -37.8190674
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/476087949",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "full_name": "Chemist Warehouse, Doncaster",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/476087949"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1321308,
+      -37.7877084
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/492085532",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:30-21:00, Sa 08:30-18:00, Su 09:00-18:00",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "wheelchair": "yes",
+    "id": "node/492085532"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0038305,
+      -37.7378189
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/493891595",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/493891595"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1721554,
+      -37.7906764
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/530776043",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "24/7",
+    "operator": "Chemist Warehouse",
+    "id": "way/530776043"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3169038,
+      -38.086507
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/542182662",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "way/542182662"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1188282,
+      -37.927926
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/570482524",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/570482524"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0038968,
+      -37.8480122
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/598404517",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "level": "1",
+    "name": "Chemist Warehouse",
+    "id": "node/598404517"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9635587,
+      -37.8144017
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/605177328",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/605177328"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1413294,
+      -38.1847079
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/631587089",
+  "properties": {
+    "addr:city": "Carnegie",
+    "addr:housenumber": "28-30",
+    "addr:postcode": "3163",
+    "addr:street": "Koornang Road",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "way/631587089"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0581865,
+      -37.8848938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/631587136",
+  "properties": {
+    "addr:housenumber": "83",
+    "addr:street": "Koornang Road",
+    "alt_name": "Chemist Warehouse Koornang Road; Chemist Warehouse Koornang Rd; Koornang Road Chemist Warehouse; Koornang Rd Chemist Warehouse; Chemist Warehouse Carnegie; Carnegie Chemist Warehouse",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "operator:ref:abn": "52451064942",
+    "phone": "+61 3 9568 3485",
+    "wheelchair": "yes",
+    "id": "way/631587136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0570985,
+      -37.8873187
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/634766990",
+  "properties": {
+    "addr:city": "Melbourne",
+    "addr:housenumber": "327",
+    "addr:postcode": "3021",
+    "addr:state": "Victoria",
+    "addr:street": "Main Road East",
+    "addr:suburb": "St Albans",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "source": "Vicmap Address",
+    "id": "way/634766990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8008745,
+      -37.7446504
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/640785494",
+  "properties": {
+    "addr:housenumber": "190-194",
+    "addr:street": "Barkly Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "retail",
+    "building:levels": "2",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "height": "6",
+    "name": "Chemist Warehouse",
+    "id": "way/640785494"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8978998,
+      -37.7992343
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/709059265",
+  "properties": {
+    "addr:housenumber": "551-553",
+    "addr:postcode": "3124",
+    "addr:state": "VIC",
+    "addr:street": "Riversdale Road",
+    "addr:suburb": "Camberwell",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "building:levels": "1",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "operator": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "way/709059265"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.058869,
+      -37.8313445
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/823954543",
+  "properties": {
+    "addr:housenumber": "1009",
+    "addr:street": "Burwood Highway",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "full_name": "National Pharmacies Ferntree Gully",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "phone": "+61 3 9758 2943",
+    "website": "https://www.chemistwarehouse.com.au",
+    "id": "node/823954543"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2900203,
+      -37.8881299
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/835998633",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-We 9:00-19:00; Th-Fr 9:00-21:00; Sa 9:00-18:00; Su 10:00-18:00",
+    "phone": "+61 3 9421 0372",
+    "id": "node/835998633"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.995632,
+      -37.80962
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/976238749",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "way/976238749"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.675573,
+      -37.8770966
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/980769148",
+  "properties": {
+    "addr:housenumber": "293",
+    "addr:postcode": "3134",
+    "addr:state": "VIC",
+    "addr:street": "Maroondah Highway",
+    "addr:suburb": "Ringwood",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 08:00-19:00",
+    "id": "way/980769148"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2353039,
+      -37.8119454
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1036694735",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "way/1036694735"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1113747,
+      -37.727889
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1066053297",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "building": "retail",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "way/1066053297"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1848843,
+      -37.8365866
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1068759813",
+  "properties": {
+    "addr:housenumber": "381-385",
+    "addr:street": "High Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "contact:phone": "+61 3 9482 3099",
+    "contact:website": "http://www.chemistwarehouse.com.au/",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited",
+    "id": "node/1068759813"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9988314,
+      -37.7694399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1141353788",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/1141353788"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.965724,
+      -37.813175
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1224826348",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/1224826348"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0923876,
+      -37.7654262
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1240464956",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "wheelchair": "yes",
+    "id": "node/1240464956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.994409,
+      -37.8463192
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1240683010",
+  "properties": {
+    "addr:housenumber": "854-860",
+    "addr:street": "Nepean Highway",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/1240683010"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.034466,
+      -37.9335682
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1240734798",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/1240734798"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0025271,
+      -37.8846535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1247865789",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-21:00; Su 09:00-21:00",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/1247865789"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3061318,
+      -38.0251064
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1428954241",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/1428954241"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0588068,
+      -37.8314659
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1432376911",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "fixme": "check opening hours",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00",
+    "phone": "+61 3 9457 5455",
+    "wheelchair": "yes",
+    "id": "node/1432376911"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0410054,
+      -37.7488684
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1530420310",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/1530420310"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1758374,
+      -37.9678399
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1633478242",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 8:00-20:00; Sa 9:00-17:00; Su 10:00-17:00",
+    "phone": "+61 3 9682 2278",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/1633478242"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9664664,
+      -37.8278887
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1793136311",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/1793136311"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7536003,
+      -37.7586734
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1958574666",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "full_name": "Chemist Warehouse - Keilor East",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-22:00; Sa-Su 09:00-20:00",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/1958574666"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8618701,
+      -37.749104
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2191594612",
+  "properties": {
+    "addr:housenumber": "265",
+    "addr:street": "Lonsdale Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/2191594612"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2137881,
+      -37.9874322
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2285138754",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/2285138754"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7760872,
+      -37.696758
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2332697018",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/2332697018"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1275004,
+      -37.8765556
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2442395263",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/2442395263"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0642025,
+      -38.2379
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2531693168",
+  "properties": {
+    "addr:housenumber": "310-314",
+    "addr:street": "Clarendon Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "phone": "+61 3 9699 2042",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/2531693168"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9607597,
+      -37.8338107
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2535972375",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "source": "survey",
+    "wheelchair": "yes",
+    "id": "node/2535972375"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.974695,
+      -37.8615939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2564320236",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "source": "survey",
+    "id": "node/2564320236"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1655086,
+      -37.8791355
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2632039770",
+  "properties": {
+    "addr:city": "Essendon",
+    "addr:housenumber": "77",
+    "addr:postcode": "3040",
+    "addr:street": "Fletcher Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/2632039770"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9187283,
+      -37.7553276
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2928752108",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au",
+    "id": "node/2928752108"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.091781,
+      -37.8930168
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2982440646",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/2982440646"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8471934,
+      -37.8324739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3027149801",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Su 09:00-21:00",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/3027149801"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9279796,
+      -37.7875095
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3076312675",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/3076312675"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9934288,
+      -38.3111989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3239431948",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Su 07:00-24:00",
+    "wheelchair": "yes",
+    "id": "node/3239431948"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9659911,
+      -37.7437736
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3270433151",
+  "properties": {
+    "addr:city": "Brighton",
+    "addr:housenumber": "363",
+    "addr:postcode": "3186",
+    "addr:street": "Bay Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/3270433151"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0042629,
+      -37.9055828
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3437078565",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/3437078565"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0484434,
+      -37.712364
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3442643885",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/3442643885"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9566249,
+      -37.6868477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3719772126",
+  "properties": {
+    "addr:housenumber": "564",
+    "addr:street": "Mount Alexander Road",
+    "addr:suburb": "Ascot Vale",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "phone": "+61 3 9326 2388",
+    "id": "node/3719772126"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9275793,
+      -37.7732032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3886063386",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/3886063386"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1221281,
+      -37.8183146
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4030606384",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/4030606384"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0903568,
+      -37.5938844
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4041199622",
+  "properties": {
+    "addr:housenumber": "300",
+    "addr:street": "Springvale Road",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "building": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/4041199622"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1518876,
+      -37.953
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4066348895",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/4066348895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0851672,
+      -37.8874484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4077652563",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes",
+    "id": "node/4077652563"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0557239,
+      -37.9660945
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4189379266",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00, Sa 08:00-19:00, Su 09:00-18:00",
+    "wheelchair": "yes",
+    "id": "node/4189379266"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.961906,
+      -37.7672888
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6434817710",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/6434817710"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.05091,
+      -38.2329032
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9795965668",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/9795965668"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0394619,
+      -38.218476
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8646118956",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8646118956"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.679456,
+      -37.8757583
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5009316626",
+  "properties": {
+    "addr:city": "Melbourne",
+    "addr:housenumber": "17 & 18",
+    "addr:postcode": "3029",
+    "addr:street": "Tarniet Road",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 09:00-21:00, Sa 09:00-18:00, Su 10:00-18:00",
+    "phone": "+61 3 8742 1239",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/5009316626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.6747387,
+      -37.8397477
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5388536319",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes",
+    "id": "node/5388536319"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0631546,
+      -37.982515
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10019710488",
+  "properties": {
+    "addr:housename": "Kingston Central Plaza",
+    "addr:housenumber": "288",
+    "addr:street": "Centre Dandenong Road",
+    "addr:unit": "Shop 17",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-19:00",
+    "operator:ref:abn": "61495123621",
+    "phone": "+61 3 8527 1769",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/10019710488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0936995,
+      -37.9706279
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6089182114",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/6089182114"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8512146,
+      -37.7779519
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8551801548",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8551801548"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8879812,
+      -37.7751009
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5269671990",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/5269671990"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9893494,
+      -37.8724785
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10736056330",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/10736056330"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0832769,
+      -37.9219243
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9109422781",
+  "properties": {
+    "addr:housenumber": "740-742",
+    "addr:postcode": "3123",
+    "addr:state": "VIC",
+    "addr:street": "Toorak Road",
+    "addr:suburb": "Hawthorn East",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/9109422781"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0417374,
+      -37.8459633
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11185872530",
+  "properties": {
+    "addr:postcode": "3008",
+    "addr:state": "VIC",
+    "addr:street": "Waterfront Way",
+    "addr:suburb": "Docklands",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Su 09:00-18:00",
+    "id": "node/11185872530"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9389916,
+      -37.8119167
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11031787380",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "layer": "1",
+    "level": "1",
+    "name": "Chemist Warehouse",
+    "id": "node/11031787380"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9515154,
+      -37.8151142
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8105845040",
+  "properties": {
+    "addr:housenumber": "326",
+    "addr:street": "William Street",
+    "alt_name": "Chemist Warehouse William Street; William Street Chemist Warehouse; Chemist Warehouse Melbourne William Street; William Street Melbourne Chemist Warehouse",
+    "amenity": "pharmacy",
+    "branch": "Melbourne William Street",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 07:30-21:00; Sa,Su 09:00-18:00; PH 10:00-15:00",
+    "operator": "Shirley Tsui and Thi Lan Chi Anna Nguyen",
+    "operator:ref:abn": "92865425180",
+    "phone": "+61 3 9113 4446",
+    "wheelchair": "yes",
+    "id": "node/8105845040"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9565407,
+      -37.8115594
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11133502134",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "level": "0",
+    "name": "Chemist Warehouse",
+    "id": "node/11133502134"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9561097,
+      -37.8164823
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4733654589",
+  "properties": {
+    "addr:city": "North Melbourne",
+    "addr:country": "AU",
+    "addr:housenumber": "19",
+    "addr:postcode": "3051",
+    "addr:state": "VIC",
+    "addr:street": "Errol Place",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa-Su 09:00-19:00; PH 10:00-17:00",
+    "payment:american_express": "yes",
+    "payment:coins": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:notes": "yes",
+    "payment:visa": "yes",
+    "payment:visa_debit": "yes",
+    "phone": "+61 3 9329 0849",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "wheelchair": "yes",
+    "id": "node/4733654589"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9491555,
+      -37.8045008
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7387820978",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "operator": "Chemist Warehouse",
+    "id": "node/7387820978"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9590769,
+      -37.8044474
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6265815185",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-19:00",
+    "wheelchair": "no",
+    "id": "node/6265815185"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9698715,
+      -37.81199
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10656549685",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Sa 09:00-18:00; Su off",
+    "id": "node/10656549685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9844874,
+      -37.7966535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7604238769",
+  "properties": {
+    "addr:street": "Puckle Street",
+    "addr:suburb": "Moonee Ponds",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "check_date": "2023-10-12",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "operator": "Chemist Warehouse",
+    "wheelchair": "yes",
+    "id": "node/7604238769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9217414,
+      -37.7666655
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10313858720",
+  "properties": {
+    "addr:housenumber": "120-124",
+    "addr:postcode": "3056",
+    "addr:street": "Sydney Road",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/10313858720"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9609141,
+      -37.7751208
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6351751285",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/6351751285"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0361438,
+      -37.8190908
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6163184685",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/6163184685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1228671,
+      -37.8183469
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6845698621",
+  "properties": {
+    "addr:housenumber": "925",
+    "addr:street": "Whitehorse Road",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 10:00-17:30",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:coins": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+61 3 9899 6087",
+    "wheelchair": "yes",
+    "id": "node/6845698621"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1226527,
+      -37.8176386
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5579882858",
+  "properties": {
+    "addr:city": "Fairfield",
+    "addr:housenumber": "138",
+    "addr:postcode": "3078",
+    "addr:province": "VIC",
+    "addr:street": "Station Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:30-21:00; Sa 08:30-17:00; Su 09:00-17:00; PH 08:30-21:00",
+    "phone": "+61 3 9489 8936",
+    "id": "node/5579882858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0183285,
+      -37.7764114
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9110868604",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00",
+    "id": "node/9110868604"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0419146,
+      -37.7689784
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5905412646",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/5905412646"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.029344,
+      -37.7445036
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9115648971",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/9115648971"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.065982,
+      -37.7560074
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8219338732",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8219338732"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.5711048,
+      -37.7219484
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8232560068",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8232560068"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.6036014,
+      -37.6889668
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8701217703",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8701217703"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.885694,
+      -37.713852
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8950242676",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8950242676"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7134708,
+      -37.577977
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5717999724",
+  "properties": {
+    "addr:housenumber": "79",
+    "addr:street": "Evans Street",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/5717999724"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7289992,
+      -37.5805221
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5927842086",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/5927842086"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0167935,
+      -37.6552189
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9432574666",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/9432574666"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0601219,
+      -37.6944216
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4795036452",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/4795036452"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1041059,
+      -37.7038123
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7687055639",
+  "properties": {
+    "addr:state": "Vic",
+    "addr:suburb": "Epping",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/7687055639"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0228794,
+      -37.6552921
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10164703812",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/10164703812"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0733031,
+      -37.6512366
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8114073231",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8114073231"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0877984,
+      -37.6495499
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11237572658",
+  "properties": {
+    "addr:unit": "T09",
+    "amenity": "pharmacy",
+    "branch": "Craigieburn - Highlands SC",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00",
+    "phone": "+61 3 9113 4424",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/11237572658"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9201768,
+      -37.5749472
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6059973137",
+  "properties": {
+    "addr:housenumber": "32-34",
+    "addr:street": "Wells Street",
+    "alt_name": "Chemist Warehouse Frankston",
+    "amenity": "pharmacy",
+    "branch": "Frankston",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "operator:ref:abn": "44087648913",
+    "phone": "+61 3 9783 9788",
+    "wheelchair": "yes",
+    "id": "node/6059973137"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1241048,
+      -38.1435898
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8516148288",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8516148288"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.123598,
+      -38.1413845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5153140747",
+  "properties": {
+    "addr:city": "Cranbourne",
+    "addr:postcode": "3977",
+    "addr:street": "Springhill Drive",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/5153140747"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2912546,
+      -38.0848119
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6502799626",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/6502799626"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1461887,
+      -37.9921716
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7120519791",
+  "properties": {
+    "addr:housenumber": "28 - 30",
+    "addr:street": "Princes Highway",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/7120519791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2139956,
+      -37.9833207
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5120918825",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-24:00; Sa,Su 08:00-23:00; PH 08:00-22:00",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "wheelchair": "yes",
+    "id": "node/5120918825"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2834686,
+      -38.0337914
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8556754769",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8556754769"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3038007,
+      -38.0179812
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9982849321",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "kids_area": "no",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 09:00-18:00; PH 09:00-19:00",
+    "wheelchair": "yes",
+    "id": "node/9982849321"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.4709057,
+      -38.0852995
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10160675828",
+  "properties": {
+    "addr:housenumber": "152-154",
+    "addr:street": "Main Street",
+    "addr:suburb": "Pakenham",
+    "amenity": "pharmacy",
+    "branch": "Pakenham",
+    "brand": "Chemist Warehouse",
+    "check_date": "2022-11-06",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "internet_access": "no",
+    "kids_area": "no",
+    "name": "Chemist Warehouse",
+    "official_name": "Chemist Warehouse Pakenham Main Street",
+    "opening_hours": "Mo-Fr 08:30-21:00; Sa-Su,PH 09:00-18:00",
+    "operator:ref:abn": "26876716203",
+    "payment:american_express": "yes",
+    "payment:fupay": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+61 3 5941 1888",
+    "website": "https://www.chemistwarehouse.com.au",
+    "wheelchair": "yes",
+    "id": "node/10160675828"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.4831111,
+      -38.0787138
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8968197331",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/8968197331"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1651192,
+      -37.8747384
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6042790000",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/6042790000"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1331671,
+      -37.8381531
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10250310685",
+  "properties": {
+    "addr:housenumber": "415",
+    "addr:postcode": "3131",
+    "addr:state": "VIC",
+    "addr:street": "Springvale Road",
+    "addr:suburb": "Forest Hill",
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/10250310685"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1718389,
+      -37.8416194
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5395680031",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "brand:wikipedia": "en:Chemist Warehouse",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/5395680031"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2352793,
+      -37.919566
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10888687545",
+  "properties": {
+    "addr:housenumber": "5-15",
+    "addr:postcode": "3136",
+    "addr:state": "VIC",
+    "addr:street": "Kent Avenue",
+    "addr:suburb": "Croydon",
+    "addr:unit": "20",
+    "amenity": "pharmacy",
+    "branch": "Croydon Central",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "drive_through": "no",
+    "email": "croydoncentral@chemistwarehouse.com.au",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "opening_hours": "Mo-Fr 08:30-20:00; Sa,Su 09:00-18:00",
+    "phone": "+61 3 9113 4426",
+    "website": "https://www.chemistwarehouse.com.au/",
+    "id": "node/10888687545"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2793335,
+      -37.7938085
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9781091168",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/9781091168"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3138081,
+      -37.7574283
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9776791361",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "dispensing": "yes",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/9776791361"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3484769,
+      -37.7597928
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10815646183",
+  "properties": {
+    "amenity": "pharmacy",
+    "brand": "Chemist Warehouse",
+    "brand:wikidata": "Q48782120",
+    "healthcare": "pharmacy",
+    "name": "Chemist Warehouse",
+    "id": "node/10815646183"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1488468,
+      -37.7146461
+    ]
+  }
+}
+]
+}

@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-11-20T10:20:10Z" areas="2023-11-20T07:35:10Z"/>
+
+  <node id="3076312675" lat="-38.3111989" lon="144.9934288">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="6434817710" lat="-38.2329032" lon="145.0509100">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="2442395263" lat="-38.2379000" lon="145.0642025">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="9795965668" lat="-38.2184760" lon="145.0394619">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="605177328" lat="-38.1847079" lon="145.1413294">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="8646118956" lat="-37.8757583" lon="144.6794560">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="5009316626" lat="-37.8397477" lon="144.6747387">
+    <tag k="addr:city" v="Melbourne"/>
+    <tag k="addr:housenumber" v="17 &amp; 18"/>
+    <tag k="addr:postcode" v="3029"/>
+    <tag k="addr:street" v="Tarniet Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-21:00, Sa 09:00-18:00, Su 10:00-18:00"/>
+    <tag k="phone" v="+61 3 8742 1239"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="5388536319" lat="-37.9825150" lon="145.0631546">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4077652563" lat="-37.9660945" lon="145.0557239">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10019710488" lat="-37.9706279" lon="145.0936995">
+    <tag k="addr:housename" v="Kingston Central Plaza"/>
+    <tag k="addr:housenumber" v="288"/>
+    <tag k="addr:street" v="Centre Dandenong Road"/>
+    <tag k="addr:unit" v="Shop 17"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa,Su 09:00-19:00"/>
+    <tag k="operator:ref:abn" v="61495123621"/>
+    <tag k="phone" v="+61 3 8527 1769"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="1793136311" lat="-37.7586734" lon="144.7536003">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="2982440646" lat="-37.8324739" lon="144.8471934">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="6089182114" lat="-37.7779519" lon="144.8512146">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="8551801548" lat="-37.7751009" lon="144.8879812">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="1958574666" lat="-37.7491040" lon="144.8618701">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="full_name" v="Chemist Warehouse - Keilor East"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-22:00; Sa-Su 09:00-20:00"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="3270433151" lat="-37.9055828" lon="145.0042629">
+    <tag k="addr:city" v="Brighton"/>
+    <tag k="addr:housenumber" v="363"/>
+    <tag k="addr:postcode" v="3186"/>
+    <tag k="addr:street" v="Bay Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="5269671990" lat="-37.8724785" lon="144.9893494">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="1240734798" lat="-37.8846535" lon="145.0025271">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="2535972375" lat="-37.8615939" lon="144.9746950">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1240464956" lat="-37.8463192" lon="144.9944090">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="570482524" lat="-37.8480122" lon="145.0038968">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="1240683010" lat="-37.9335682" lon="145.0344660">
+    <tag k="addr:housenumber" v="854-860"/>
+    <tag k="addr:street" v="Nepean Highway"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="10736056330" lat="-37.9219243" lon="145.0832769">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="2928752108" lat="-37.8930168" lon="145.0917810">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au"/>
+  </node>
+  <node id="9109422781" lat="-37.8459633" lon="145.0417374">
+    <tag k="addr:housenumber" v="740-742"/>
+    <tag k="addr:postcode" v="3123"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Toorak Road"/>
+    <tag k="addr:suburb" v="Hawthorn East"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="4066348895" lat="-37.8874484" lon="145.0851672">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="11185872530" lat="-37.8119167" lon="144.9389916">
+    <tag k="addr:postcode" v="3008"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Waterfront Way"/>
+    <tag k="addr:suburb" v="Docklands"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-18:00"/>
+  </node>
+  <node id="2531693168" lat="-37.8338107" lon="144.9607597">
+    <tag k="addr:housenumber" v="310-314"/>
+    <tag k="addr:street" v="Clarendon Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="phone" v="+61 3 9699 2042"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="11031787380" lat="-37.8151142" lon="144.9515154">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="8105845040" lat="-37.8115594" lon="144.9565407">
+    <tag k="addr:housenumber" v="326"/>
+    <tag k="addr:street" v="William Street"/>
+    <tag k="alt_name" v="Chemist Warehouse William Street; William Street Chemist Warehouse; Chemist Warehouse Melbourne William Street; William Street Melbourne Chemist Warehouse"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="branch" v="Melbourne William Street"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 07:30-21:00; Sa,Su 09:00-18:00; PH 10:00-15:00"/>
+    <tag k="operator" v="Shirley Tsui and Thi Lan Chi Anna Nguyen"/>
+    <tag k="operator:ref:abn" v="92865425180"/>
+    <tag k="phone" v="+61 3 9113 4446"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="11133502134" lat="-37.8164823" lon="144.9561097">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="598404517" lat="-37.8144017" lon="144.9635587">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="level" v="1"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="3027149801" lat="-37.7875095" lon="144.9279796">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Su 09:00-21:00"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="4733654589" lat="-37.8045008" lon="144.9491555">
+    <tag k="addr:city" v="North Melbourne"/>
+    <tag k="addr:country" v="AU"/>
+    <tag k="addr:housenumber" v="19"/>
+    <tag k="addr:postcode" v="3051"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Errol Place"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa-Su 09:00-19:00; PH 10:00-17:00"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:maestro" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:notes" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="payment:visa_debit" v="yes"/>
+    <tag k="phone" v="+61 3 9329 0849"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="7387820978" lat="-37.8044474" lon="144.9590769">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="operator" v="Chemist Warehouse"/>
+  </node>
+  <node id="1633478242" lat="-37.8278887" lon="144.9664664">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 8:00-20:00; Sa 9:00-17:00; Su 10:00-17:00"/>
+    <tag k="phone" v="+61 3 9682 2278"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="1141353788" lat="-37.8131750" lon="144.9657240">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="6265815185" lat="-37.8119900" lon="144.9698715">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa,Su 09:00-19:00"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="364874053" lat="-37.8012423" lon="144.9781729">
+    <tag k="addr:housenumber" v="206-210"/>
+    <tag k="addr:street" v="Brunswick Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 9:00-21:00; Sa 9:00-17:00; Su 10:00-17:00"/>
+    <tag k="phone" v="+61 3 9417 2917"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="364874284" lat="-37.8017259" lon="144.9839273">
+    <tag k="addr:housenumber" v="244"/>
+    <tag k="addr:street" v="Smith Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 8:30-21:00; Sa 9:00-18:00; Su 10:00-17:00"/>
+    <tag k="phone" v="+61 3 9417 4377"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="10656549685" lat="-37.7966535" lon="144.9844874">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-18:00; Su off"/>
+  </node>
+  <node id="835998633" lat="-37.8096200" lon="144.9956320">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-We 9:00-19:00; Th-Fr 9:00-21:00; Sa 9:00-18:00; Su 10:00-18:00"/>
+    <tag k="phone" v="+61 3 9421 0372"/>
+  </node>
+  <node id="3719772126" lat="-37.7732032" lon="144.9275793">
+    <tag k="addr:housenumber" v="564"/>
+    <tag k="addr:street" v="Mount Alexander Road"/>
+    <tag k="addr:suburb" v="Ascot Vale"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="phone" v="+61 3 9326 2388"/>
+  </node>
+  <node id="7604238769" lat="-37.7666655" lon="144.9217414">
+    <tag k="addr:street" v="Puckle Street"/>
+    <tag k="addr:suburb" v="Moonee Ponds"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="check_date" v="2023-10-12"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="operator" v="Chemist Warehouse"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10313858720" lat="-37.7751208" lon="144.9609141">
+    <tag k="addr:housenumber" v="120-124"/>
+    <tag k="addr:postcode" v="3056"/>
+    <tag k="addr:street" v="Sydney Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="4189379266" lat="-37.7672888" lon="144.9619060">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00, Sa 08:00-19:00, Su 09:00-18:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2632039770" lat="-37.7553276" lon="144.9187283">
+    <tag k="addr:city" v="Essendon"/>
+    <tag k="addr:housenumber" v="77"/>
+    <tag k="addr:postcode" v="3040"/>
+    <tag k="addr:street" v="Fletcher Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="1068759813" lat="-37.7694399" lon="144.9988314">
+    <tag k="addr:housenumber" v="381-385"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="contact:phone" v="+61 3 9482 3099"/>
+    <tag k="contact:website" v="http://www.chemistwarehouse.com.au/"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="toilets:wheelchair" v="no"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="3239431948" lat="-37.7437736" lon="144.9659911">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-24:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="492085532" lat="-37.7378189" lon="145.0038305">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-21:00, Sa 08:30-18:00, Su 09:00-18:00"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="6351751285" lat="-37.8190908" lon="145.0361438">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="1428954241" lat="-37.8314659" lon="145.0588068">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="3886063386" lat="-37.8183146" lon="145.1221281">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="6163184685" lat="-37.8183469" lon="145.1228671">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="6845698621" lat="-37.8176386" lon="145.1226527">
+    <tag k="addr:housenumber" v="925"/>
+    <tag k="addr:street" v="Whitehorse Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa 09:00-18:00; Su 10:00-17:30"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:coins" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+61 3 9899 6087"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5579882858" lat="-37.7764114" lon="145.0183285">
+    <tag k="addr:city" v="Fairfield"/>
+    <tag k="addr:housenumber" v="138"/>
+    <tag k="addr:postcode" v="3078"/>
+    <tag k="addr:province" v="VIC"/>
+    <tag k="addr:street" v="Station Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-21:00; Sa 08:30-17:00; Su 09:00-17:00; PH 08:30-21:00"/>
+    <tag k="phone" v="+61 3 9489 8936"/>
+  </node>
+  <node id="9110868604" lat="-37.7689784" lon="145.0419146">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00"/>
+  </node>
+  <node id="1432376911" lat="-37.7488684" lon="145.0410054">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fixme" v="check opening hours"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-21:00; Sa 09:00-18:00; Su 10:00-18:00"/>
+    <tag k="phone" v="+61 3 9457 5455"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="5905412646" lat="-37.7445036" lon="145.0293440">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="9115648971" lat="-37.7560074" lon="145.0659820">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="1224826348" lat="-37.7654262" lon="145.0923876">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="8219338732" lat="-37.7219484" lon="144.5711048">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="8232560068" lat="-37.6889668" lon="144.6036014">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="2285138754" lat="-37.6967580" lon="144.7760872">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="8701217703" lat="-37.7138520" lon="144.8856940">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="8950242676" lat="-37.5779770" lon="144.7134708">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="5717999724" lat="-37.5805221" lon="144.7289992">
+    <tag k="addr:housenumber" v="79"/>
+    <tag k="addr:street" v="Evans Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="3442643885" lat="-37.6868477" lon="144.9566249">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="5927842086" lat="-37.6552189" lon="145.0167935">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="3437078565" lat="-37.7123640" lon="145.0484434">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="9432574666" lat="-37.6944216" lon="145.0601219">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="4795036452" lat="-37.7038123" lon="145.1041059">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="7687055639" lat="-37.6552921" lon="145.0228794">
+    <tag k="addr:state" v="Vic"/>
+    <tag k="addr:suburb" v="Epping"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="10164703812" lat="-37.6512366" lon="145.0733031">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="8114073231" lat="-37.6495499" lon="145.0877984">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="11237572658" lat="-37.5749472" lon="144.9201768">
+    <tag k="addr:unit" v="T09"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="branch" v="Craigieburn - Highlands SC"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa-Su 09:00-17:00"/>
+    <tag k="phone" v="+61 3 9113 4424"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="4030606384" lat="-37.5938844" lon="145.0903568">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="6059973137" lat="-38.1435898" lon="145.1241048">
+    <tag k="addr:housenumber" v="32-34"/>
+    <tag k="addr:street" v="Wells Street"/>
+    <tag k="alt_name" v="Chemist Warehouse Frankston"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="branch" v="Frankston"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="operator:ref:abn" v="44087648913"/>
+    <tag k="phone" v="+61 3 9783 9788"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="8516148288" lat="-38.1413845" lon="145.1235980">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="5153140747" lat="-38.0848119" lon="145.2912546">
+    <tag k="addr:city" v="Cranbourne"/>
+    <tag k="addr:postcode" v="3977"/>
+    <tag k="addr:street" v="Springhill Drive"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="6502799626" lat="-37.9921716" lon="145.1461887">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="4041199622" lat="-37.9530000" lon="145.1518876">
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:street" v="Springvale Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="2191594612" lat="-37.9874322" lon="145.2137881">
+    <tag k="addr:housenumber" v="265"/>
+    <tag k="addr:street" v="Lonsdale Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="7120519791" lat="-37.9833207" lon="145.2139956">
+    <tag k="addr:housenumber" v="28 - 30"/>
+    <tag k="addr:street" v="Princes Highway"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="1530420310" lat="-37.9678399" lon="145.1758374">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="5120918825" lat="-38.0337914" lon="145.2834686">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-24:00; Sa,Su 08:00-23:00; PH 08:00-22:00"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1247865789" lat="-38.0251064" lon="145.3061318">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00; Sa 08:30-21:00; Su 09:00-21:00"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="8556754769" lat="-38.0179812" lon="145.3038007">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="9982849321" lat="-38.0852995" lon="145.4709057">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="kids_area" v="no"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa 09:00-19:00; Su 09:00-18:00; PH 09:00-19:00"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10160675828" lat="-38.0787138" lon="145.4831111">
+    <tag k="addr:housenumber" v="152-154"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="addr:suburb" v="Pakenham"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="branch" v="Pakenham"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="check_date" v="2022-11-06"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="kids_area" v="no"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="official_name" v="Chemist Warehouse Pakenham Main Street"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-21:00; Sa-Su,PH 09:00-18:00"/>
+    <tag k="operator:ref:abn" v="26876716203"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:fupay" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+61 3 5941 1888"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2332697018" lat="-37.8765556" lon="145.1275004">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="2564320236" lat="-37.8791355" lon="145.1655086">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="8968197331" lat="-37.8747384" lon="145.1651192">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="6042790000" lat="-37.8381531" lon="145.1331671">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="10250310685" lat="-37.8416194" lon="145.1718389">
+    <tag k="addr:housenumber" v="415"/>
+    <tag k="addr:postcode" v="3131"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Springvale Road"/>
+    <tag k="addr:suburb" v="Forest Hill"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="5395680031" lat="-37.9195660" lon="145.2352793">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="823954543" lat="-37.8881299" lon="145.2900203">
+    <tag k="addr:housenumber" v="1009"/>
+    <tag k="addr:street" v="Burwood Highway"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="full_name" v="National Pharmacies Ferntree Gully"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
+    <tag k="phone" v="+61 3 9758 2943"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au"/>
+  </node>
+  <node id="476087949" lat="-37.7877084" lon="145.1321308">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="full_name" v="Chemist Warehouse, Doncaster"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="493891595" lat="-37.7906764" lon="145.1721554">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="10888687545" lat="-37.7938085" lon="145.2793335">
+    <tag k="addr:housenumber" v="5-15"/>
+    <tag k="addr:postcode" v="3136"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Kent Avenue"/>
+    <tag k="addr:suburb" v="Croydon"/>
+    <tag k="addr:unit" v="20"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="branch" v="Croydon Central"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="email" v="croydoncentral@chemistwarehouse.com.au"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-20:00; Sa,Su 09:00-18:00"/>
+    <tag k="phone" v="+61 3 9113 4426"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </node>
+  <node id="9781091168" lat="-37.7574283" lon="145.3138081">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="9776791361" lat="-37.7597928" lon="145.3484769">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <node id="10815646183" lat="-37.7146461" lon="145.1488468">
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </node>
+  <way id="226450280">
+    <center lat="-38.1544758" lon="145.1663320"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="retail"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="976238749">
+    <center lat="-37.8770966" lon="144.6755730"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="634766990">
+    <center lat="-37.7446504" lon="144.8008745"/>
+    <tag k="addr:city" v="Melbourne"/>
+    <tag k="addr:housenumber" v="327"/>
+    <tag k="addr:postcode" v="3021"/>
+    <tag k="addr:state" v="Victoria"/>
+    <tag k="addr:street" v="Main Road East"/>
+    <tag k="addr:suburb" v="St Albans"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="source" v="Vicmap Address"/>
+  </way>
+  <way id="640785494">
+    <center lat="-37.7992343" lon="144.8978998"/>
+    <tag k="addr:housenumber" v="190-194"/>
+    <tag k="addr:street" v="Barkly Street"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="retail"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="height" v="6"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="230526031">
+    <center lat="-37.7840928" lon="144.8326041"/>
+    <tag k="addr:housenumber" v="292"/>
+    <tag k="addr:postcode" v="3020"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Hampshire Road"/>
+    <tag k="addr:suburb" v="Sunshine"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="building" v="retail"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="source" v="Vicmap Address"/>
+  </way>
+  <way id="542182662">
+    <center lat="-37.9279260" lon="145.1188282"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </way>
+  <way id="631587136">
+    <center lat="-37.8873187" lon="145.0570985"/>
+    <tag k="addr:housenumber" v="83"/>
+    <tag k="addr:street" v="Koornang Road"/>
+    <tag k="alt_name" v="Chemist Warehouse Koornang Road; Chemist Warehouse Koornang Rd; Koornang Road Chemist Warehouse; Koornang Rd Chemist Warehouse; Chemist Warehouse Carnegie; Carnegie Chemist Warehouse"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="operator:ref:abn" v="52451064942"/>
+    <tag k="phone" v="+61 3 9568 3485"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="631587089">
+    <center lat="-37.8848938" lon="145.0581865"/>
+    <tag k="addr:city" v="Carnegie"/>
+    <tag k="addr:housenumber" v="28-30"/>
+    <tag k="addr:postcode" v="3163"/>
+    <tag k="addr:street" v="Koornang Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="29479565">
+    <center lat="-37.8797862" lon="145.0923641"/>
+    <tag k="addr:housenumber" v="695-699"/>
+    <tag k="addr:street" v="Warrigal Road"/>
+    <tag k="addr:unit" v="3"/>
+    <tag k="alt_name" v="Chemist Warehouse Chadstone Homemaker Centre"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="building" v="retail"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="kids_area" v="no"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 09:00-19:00; Sa-Su 09:00-18:00"/>
+    <tag k="operator:ref:abn" v="59480826285"/>
+    <tag k="phone" v="+61 3 6292 5221"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="368744658">
+    <center lat="-37.8190674" lon="145.0012379"/>
+    <tag k="addr:city" v="Richmond"/>
+    <tag k="addr:housenumber" v="300"/>
+    <tag k="addr:postcode" v="3121"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="300665571">
+    <center lat="-37.7798394" lon="144.9145562"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:30-19:00; Sa,Su 09:00-18:00"/>
+    <tag k="phone" v="+61 3 9370 8440"/>
+  </way>
+  <way id="709059265">
+    <center lat="-37.8313445" lon="145.0588690"/>
+    <tag k="addr:housenumber" v="551-553"/>
+    <tag k="addr:postcode" v="3124"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Riversdale Road"/>
+    <tag k="addr:suburb" v="Camberwell"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="operator" v="Chemist Warehouse"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </way>
+  <way id="138871458">
+    <center lat="-37.8070300" lon="145.0294545"/>
+    <tag k="addr:housenumber" v="121"/>
+    <tag k="addr:postcode" v="3101"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:suburb" v="Kew"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="retail"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa 08:30-18:00; Su 09:30-17:30"/>
+    <tag k="phone" v="+61 3 9855 1273"/>
+  </way>
+  <way id="109347697">
+    <center lat="-37.7398579" lon="145.0281164"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="shop" v="chemist"/>
+  </way>
+  <way id="1036694735">
+    <center lat="-37.7278890" lon="145.1113747"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="530776043">
+    <center lat="-38.0865070" lon="145.3169038"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="operator" v="Chemist Warehouse"/>
+  </way>
+  <way id="300240961">
+    <center lat="-37.9945126" lon="145.1724729"/>
+    <tag k="addr:housenumber" v="332"/>
+    <tag k="addr:street" v="Cheltenham Road"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="building" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="45240600">
+    <center lat="-37.8705612" lon="145.2423572"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="retail"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="full_name" v="Chemist Warehouse Westfield Knox"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Sa-Su 08:00-23:00"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </way>
+  <way id="28867408">
+    <center lat="-37.8763361" lon="145.2560675"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="1066053297">
+    <center lat="-37.8365866" lon="145.1848843"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="building" v="retail"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+  </way>
+  <way id="328748063">
+    <center lat="-37.8158096" lon="145.2267657"/>
+    <tag k="addr:housenumber" v="131-133"/>
+    <tag k="addr:postcode" v="3134"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Maroondah Highway"/>
+    <tag k="addr:suburb" v="Ringwood"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="branch" v="Ringwood"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="retail"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-00:00"/>
+    <tag k="phone" v="+61 3 9870 5022"/>
+    <tag k="website" v="https://www.chemistwarehouse.com.au/"/>
+  </way>
+  <way id="980769148">
+    <center lat="-37.8119454" lon="145.2353039"/>
+    <tag k="addr:housenumber" v="293"/>
+    <tag k="addr:postcode" v="3134"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Maroondah Highway"/>
+    <tag k="addr:suburb" v="Ringwood"/>
+    <tag k="amenity" v="pharmacy"/>
+    <tag k="brand" v="Chemist Warehouse"/>
+    <tag k="brand:wikidata" v="Q48782120"/>
+    <tag k="brand:wikipedia" v="en:Chemist Warehouse"/>
+    <tag k="building" v="yes"/>
+    <tag k="dispensing" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="healthcare" v="pharmacy"/>
+    <tag k="name" v="Chemist Warehouse"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa,Su 08:00-19:00"/>
+  </way>
+
+</osm>
