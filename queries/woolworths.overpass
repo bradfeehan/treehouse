@@ -1,4 +1,4 @@
-area["name"="Melbourne"]["place"="city"] -> .melbourne;
+area["place"="city"]["name"="Melbourne"]["wikidata"="Q3141"] -> .melbourne;
 
 node["shop"="supermarket"]["brand"="Woolworths"](area.melbourne);
 out body qt;
