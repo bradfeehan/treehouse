@@ -1,0 +1,586 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.705643,
+          -37.7334328
+        ]
+      },
+      "properties": {
+        "domain_id": 16763554,
+        "domain_slug": "30-44-charleston-road-deanside-vic-3336-16763554",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16534637_2_1_230717_111219-w4134-h2756",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16568167_3_1_230717_111828-w4134-h2756",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16568167_5_1_230717_111828-w4134-h2756",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16763554_4_1_231124_052933-w4134-h2756",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16763554_5_1_231124_052933-w4134-h2756"
+        ],
+        "price_details": {
+          "price": 500,
+          "priceFrom": 500,
+          "priceTo": 500,
+          "displayPrice": "$500"
+        },
+        "address": {
+          "display": "30-44 Charleston Road, Deanside",
+          "unit": "",
+          "number": "30-44",
+          "street": "Charleston Road",
+          "area": "Melton City - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "DEANSIDE",
+          "postcode": "3336",
+          "formatted": "30-44 Charleston Road, DEANSIDE, 3336"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.903992,
+          -37.59504
+        ]
+      },
+      "properties": {
+        "domain_id": 16762993,
+        "domain_slug": "21-38-mallard-circuit-craigieburn-vic-3064-16762993",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16762993_1_1_231124_042916-w1169-h868"
+        ],
+        "price_details": {
+          "price": 480,
+          "priceFrom": 480,
+          "priceTo": 480,
+          "displayPrice": "$480"
+        },
+        "address": {
+          "display": "21/38 Mallard Circuit, Craigieburn",
+          "unit": "",
+          "number": "21/38",
+          "street": "Mallard Circuit",
+          "area": "Hume City Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "CRAIGIEBURN",
+          "postcode": "3064",
+          "formatted": "21/38 Mallard Circuit, CRAIGIEBURN, 3064"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.192108,
+          -38.15745
+        ]
+      },
+      "properties": {
+        "domain_id": 16758929,
+        "domain_slug": "1-13-athol-court-langwarrin-vic-3910-16758929",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_1_1_231122_040150-w3332-h2221",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_2_1_231122_040150-w3500-h2333",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_3_1_231122_040150-w3500-h2333",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_4_1_231122_040150-w3500-h2333",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_6_1_231122_040150-w3500-h2333"
+        ],
+        "price_details": {
+          "price": 700,
+          "priceFrom": 700,
+          "priceTo": 700,
+          "displayPrice": "$700"
+        },
+        "address": {
+          "display": "1/13 Athol Court, Langwarrin",
+          "unit": "",
+          "number": "1/13",
+          "street": "Athol Court",
+          "area": "Frankston Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "LANGWARRIN",
+          "postcode": "3910",
+          "formatted": "1/13 Athol Court, LANGWARRIN, 3910"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.192108,
+          -38.15745
+        ]
+      },
+      "properties": {
+        "domain_id": 16758917,
+        "domain_slug": "4-13-athol-court-langwarrin-vic-3910-16758917",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_1_1_231122_040150-w3332-h2221",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_2_1_231122_040150-w3500-h2333",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_3_1_231122_040150-w3500-h2333",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_4_1_231122_040150-w3500-h2333",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16758917_5_1_231122_040150-w3500-h2333"
+        ],
+        "price_details": {
+          "price": 700,
+          "priceFrom": 700,
+          "priceTo": 700,
+          "displayPrice": "$700"
+        },
+        "address": {
+          "display": "4/13 Athol Court, Langwarrin",
+          "unit": "",
+          "number": "4/13",
+          "street": "Athol Court",
+          "area": "Frankston Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "LANGWARRIN",
+          "postcode": "3910",
+          "formatted": "4/13 Athol Court, LANGWARRIN, 3910"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.865692,
+          -37.8420677
+        ]
+      },
+      "properties": {
+        "domain_id": 16754348,
+        "domain_slug": "1-28-clyde-street-newport-vic-3015-16754348",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16506455_1_1_230608_021900-w2160-h1440",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16506455_2_1_230608_021900-w2160-h1440",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16506455_3_1_230608_021900-w2156-h1440",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16506455_4_1_230608_021900-w2160-h1440",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16506455_5_1_230608_021900-w2160-h1440"
+        ],
+        "price_details": {
+          "price": 650,
+          "priceFrom": 650,
+          "priceTo": 650,
+          "displayPrice": "$650.00"
+        },
+        "address": {
+          "display": "1/28 Clyde Street, Newport",
+          "unit": "1",
+          "number": "28",
+          "street": "Clyde Street",
+          "area": "Hobsons Bay City Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "NEWPORT",
+          "postcode": "3015",
+          "formatted": "1/28 Clyde Street, NEWPORT, 3015"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.135941,
+          -37.871357
+        ]
+      },
+      "properties": {
+        "domain_id": 16745647,
+        "domain_slug": "3-3-fleet-street-mount-waverley-vic-3149-16745647",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16745647_1_1_231114_102101-w4080-h3072",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16745647_2_1_231114_102101-w4080-h3072",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16745647_3_1_231114_102101-w4080-h3072",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16745647_4_1_231116_024730-w2040-h1536",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16745647_4_1_231114_102101-w4080-h3072"
+        ],
+        "price_details": {
+          "price": 650,
+          "priceFrom": 650,
+          "priceTo": 650,
+          "displayPrice": "$650.00"
+        },
+        "address": {
+          "display": "3/3 Fleet Street, Mount Waverley",
+          "unit": "3",
+          "number": "3",
+          "street": "Fleet Street",
+          "area": "Monash City - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "MOUNT WAVERLEY",
+          "postcode": "3149",
+          "formatted": "3/3 Fleet Street, MOUNT WAVERLEY, 3149"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.065048,
+          -37.95851
+        ]
+      },
+      "properties": {
+        "domain_id": 15303646,
+        "domain_slug": "1-1-fairview-avenue-cheltenham-vic-3192-15303646",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/15303646_1_1_210804_030454-w1920-h1281",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15303646_2_1_210804_030454-w1920-h1281",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15303646_3_1_210804_030454-w1920-h1280",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15303646_4_1_210804_030454-w1920-h1280",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15303646_5_1_210804_030454-w1920-h1281"
+        ],
+        "price_details": {
+          "price": 700,
+          "priceFrom": 700,
+          "priceTo": 700,
+          "displayPrice": "$700"
+        },
+        "address": {
+          "display": "1/1 Fairview Avenue, Cheltenham",
+          "unit": "",
+          "number": "1/1",
+          "street": "Fairview Avenue",
+          "area": "Bayside - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "CHELTENHAM",
+          "postcode": "3192",
+          "formatted": "1/1 Fairview Avenue, CHELTENHAM, 3192"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.740875,
+          -37.85326
+        ]
+      },
+      "properties": {
+        "domain_id": 10955442,
+        "domain_slug": "244b-sayers-road-truganina-vic-3029-10955442",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/w800-h600-10955442_1_pi_161107_113919",
+          "https://bucket-api.domain.com.au/v1/bucket/image/w800-h600-10955442_2_pi_161107_113919",
+          "https://bucket-api.domain.com.au/v1/bucket/image/w800-h600-10955442_3_pi_161107_113919",
+          "https://bucket-api.domain.com.au/v1/bucket/image/w800-h600-10955442_4_pi_161107_113920",
+          "https://bucket-api.domain.com.au/v1/bucket/image/w800-h600-10955442_5_pi_161107_113919"
+        ],
+        "price_details": {
+          "price": 550,
+          "priceFrom": 550,
+          "priceTo": 550,
+          "displayPrice": "$550 per week"
+        },
+        "address": {
+          "display": "244B SAYERS ROAD, Truganina",
+          "unit": "",
+          "number": "244B",
+          "street": "SAYERS ROAD",
+          "area": "Melton City - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "TRUGANINA",
+          "postcode": "3029",
+          "formatted": "244B SAYERS ROAD, TRUGANINA, 3029"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.049789,
+          -37.9001274
+        ]
+      },
+      "properties": {
+        "domain_id": 16765080,
+        "domain_slug": "1-14-melton-avenue-carnegie-vic-3163-16765080",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/13677358_2_1_191111_013124-w640-h480",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16765080_2_1_231127_014236-w640-h480",
+          "https://bucket-api.domain.com.au/v1/bucket/image/13677358_4_1_191111_013038-w640-h480",
+          "https://bucket-api.domain.com.au/v1/bucket/image/13677358_3_1_191111_013124-w640-h480",
+          "https://bucket-api.domain.com.au/v1/bucket/image/13677358_5_1_191111_013038-w640-h480"
+        ],
+        "price_details": {
+          "price": 695,
+          "priceFrom": 695,
+          "priceTo": 695,
+          "displayPrice": "$695"
+        },
+        "address": {
+          "display": "1/14 Melton Avenue, Carnegie",
+          "unit": "1",
+          "number": "14",
+          "street": "Melton Avenue",
+          "area": "Glen Eira Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "CARNEGIE",
+          "postcode": "3163",
+          "formatted": "1/14 Melton Avenue, CARNEGIE, 3163"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.820786,
+          -37.8635635
+        ]
+      },
+      "properties": {
+        "domain_id": 16371051,
+        "domain_slug": "1-212-civic-pde-altona-vic-3018-16371051",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16371051_1_1_230314_123719-w800-h600",
+          "https://bucket-api.domain.com.au/v1/bucket/image/13952558_2_1_200207_110525-w1045-h725",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16371051_3_1_230314_123719-w763-h600",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16371051_4_1_230314_123719-w800-h600",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16371051_5_1_230314_123719-w749-h600"
+        ],
+        "price_details": {
+          "price": 680,
+          "priceFrom": 680,
+          "priceTo": 680,
+          "displayPrice": "$680"
+        },
+        "address": {
+          "display": "1/212 Civic Pde, Altona",
+          "unit": "",
+          "number": "1/212",
+          "street": "Civic Pde",
+          "area": "Hobsons Bay City Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "ALTONA",
+          "postcode": "3018",
+          "formatted": "1/212 Civic Pde, ALTONA, 3018"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.80278,
+          -37.75097
+        ]
+      },
+      "properties": {
+        "domain_id": 16759761,
+        "domain_slug": "7-harris-street-st-albans-vic-3021-16759761",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16759761_1_1_231122_125421-w2000-h1500",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16759761_2_1_231122_125421-w2000-h1500",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16759761_3_1_231122_125421-w2000-h1500",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16759761_4_1_231122_125421-w2000-h1500",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16759761_5_1_231122_125421-w2000-h1500"
+        ],
+        "price_details": {
+          "price": 550,
+          "priceFrom": 550,
+          "priceTo": 550,
+          "displayPrice": "$550"
+        },
+        "address": {
+          "display": "7 Harris Street, St Albans",
+          "unit": "",
+          "number": "7",
+          "street": "Harris Street",
+          "area": "Brimbank City Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "ST ALBANS",
+          "postcode": "3021",
+          "formatted": "7 Harris Street, ST ALBANS, 3021"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.896576,
+          -37.6779823
+        ]
+      },
+      "properties": {
+        "domain_id": 16755581,
+        "domain_slug": "2-10-shadforth-street-westmeadows-vic-3049-16755581",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/15490232_1_1_220318_070824-w1702-h1276",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15490232_2_1_220318_070824-w1702-h1276",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15490232_7_1_211029_043023-w2048-h1536",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15490232_4_1_220318_070824-w1702-h1276",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15490232_6_1_211029_043023-w2048-h1536"
+        ],
+        "price_details": {
+          "price": 580,
+          "priceFrom": 580,
+          "priceTo": 580,
+          "displayPrice": "$580.00"
+        },
+        "address": {
+          "display": "2/10 Shadforth Street, Westmeadows",
+          "unit": "2",
+          "number": "10",
+          "street": "Shadforth Street",
+          "area": "Hume City Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "WESTMEADOWS",
+          "postcode": "3049",
+          "formatted": "2/10 Shadforth Street, WESTMEADOWS, 3049"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.712143,
+          -37.8833961
+        ]
+      },
+      "properties": {
+        "domain_id": 16311882,
+        "domain_slug": "7-reeves-street-point-cook-vic-3030-16311882",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/15664983_1_1_220119_062159-w1920-h1280",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15664983_2_1_220119_062159-w1920-h1280",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15664983_4_1_220119_062159-w1920-h1280",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15664983_3_1_220119_062159-w1920-h1280",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15664983_5_1_220119_062159-w1920-h1280"
+        ],
+        "price_details": {
+          "price": 550,
+          "priceFrom": 550,
+          "priceTo": 550,
+          "displayPrice": "$550"
+        },
+        "address": {
+          "display": "7 REEVES STREET, Point Cook",
+          "unit": "",
+          "number": "7",
+          "street": "REEVES STREET",
+          "area": "Wyndham City Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "POINT COOK",
+          "postcode": "3030",
+          "formatted": "7 REEVES STREET, POINT COOK, 3030"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.931747,
+          -37.6353226
+        ]
+      },
+      "properties": {
+        "domain_id": 16014951,
+        "domain_slug": "roxburgh-park-vic-3064-16014951",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_1_1_231021_113508-w4032-h3024",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_2_1_231021_113508-w4032-h3024",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_3_1_231021_113508-w4032-h3024",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_4_1_231021_113508-w4032-h3024",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_5_1_231021_113508-w4032-h3024"
+        ],
+        "price_details": {
+          "price": 620,
+          "priceFrom": 620,
+          "priceTo": 620,
+          "displayPrice": "$620"
+        },
+        "address": {
+          "display": "Roxburgh Park",
+          "unit": "",
+          "number": "",
+          "street": "",
+          "area": "Hume City Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "ROXBURGH PARK",
+          "postcode": "3064",
+          "formatted": " , ROXBURGH PARK, 3064"
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.931747,
+          -37.6353226
+        ]
+      },
+      "properties": {
+        "domain_id": 15435116,
+        "domain_slug": "roxburgh-park-vic-3064-15435116",
+        "type": "Rent",
+        "imageURLs": [
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_27_1_231021_113608-w4032-h3024",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_28_1_231021_113608-w4032-h3024",
+          "https://bucket-api.domain.com.au/v1/bucket/image/15435116_3_1_231025_114629-w4032-h3024",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_1_1_231021_113508-w4032-h3024",
+          "https://bucket-api.domain.com.au/v1/bucket/image/16014951_2_1_231021_113508-w4032-h3024"
+        ],
+        "price_details": {
+          "price": 620,
+          "priceFrom": 620,
+          "priceTo": 620,
+          "displayPrice": "$620"
+        },
+        "address": {
+          "display": "Roxburgh Park",
+          "unit": "",
+          "number": "",
+          "street": "",
+          "area": "Hume City Council - Greater Area",
+          "region": "Melbourne Region",
+          "suburb": "ROXBURGH PARK",
+          "postcode": "3064",
+          "formatted": " , ROXBURGH PARK, 3064"
+        }
+      }
+    }
+  ]
+}

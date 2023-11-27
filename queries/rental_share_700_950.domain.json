@@ -1,0 +1,17 @@
+{
+    "listingType": "Rent",
+    "propertyEstablishedType": "Any",
+    "minBedrooms": 5,
+    "minBathrooms": 2,
+    "minCarspaces": 1,
+    "minPrice": 700,
+    "maxPrice": 950,
+    "locations": [
+        {
+            "state": "VIC",
+            "region": "Melbourne Region"
+        }
+    ],
+    "excludePriceWithheld": true,
+    "excludeDepositTaken": true
+}

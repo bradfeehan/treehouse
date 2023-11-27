@@ -6,6 +6,7 @@
         "Townhouse"
     ],
     "propertyEstablishedType": "Any",
+    "maxBedrooms": 3,
     "minBedrooms": 3,
     "minBathrooms": 2,
     "minCarspaces": 1,
@@ -18,6 +19,5 @@
         }
     ],
     "excludePriceWithheld": true,
-    "excludeDepositTaken": true,
-    "pageSize": 200
+    "excludeDepositTaken": true
 }
