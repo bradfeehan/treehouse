@@ -1,4 +1,76 @@
 #!/usr/bin/env ruby
+# Enumerations
+#
+# listingType: Sale, Rent, Share, Sold, NewHomes
+# propertyTypes: AcreageSemiRural, ApartmentUnitFlat, Aquaculture, BlockOfUnits, CarSpace, DairyFarming,
+#     DevelopmentSite, Duplex, Farm, FishingForestry, NewHomeDesigns, House, NewHouseLand, IrrigationServices, NewLand,
+#     Livestock, NewApartments, Penthouse, RetirementVillage, Rural, SemiDetached, SpecialistFarm, Studio, Terrace,
+#     Townhouse, VacantLand, Villa, Cropping, Viticulture, MixedFarming, Grazing, Horticulture, Equine, Farmlet,
+#     Orchard, RuralLifestyle
+# propertyFeatures: AirConditioning, BuiltInWardrobes, CableOrSatellite, Ensuite, Floorboards, Gas, InternalLaundry,
+#     PetsAllowed, SecureParking, SwimmingPool, Furnished, GroundFloor, WaterViews, NorthFacing, CityViews, IndoorSpa,
+#     Gym, AlarmSystem, Intercom, BroadbandInternetAccess, Bath, Fireplace, SeparateDiningRoom, Heating, Dishwasher,
+#     Study, TennisCourt, Shed, FullyFenced, BalconyDeck, GardenCourtyard, OutdoorSpa, DoubleGlazedWindows,
+#     EnergyEfficientAppliances, WaterEfficientAppliances, WallCeilingInsulation, RainwaterStorageTank, GreywaterSystem,
+#     WaterEfficientFixtures, SolarHotWater, SolarPanels
+# listingAttributes: HasPhotos, HasPrice, NotUpForAuction, NotUnderContract, MarkedAsNew
+# propertyEstablishedType: Any, New, Established
+#
+# Boolean flags
+#
+# newDevOnly, ruralOnly, excludePriceWithheld, excludeDepositTaken, includeInspectionAggregations
+#
+# Numeric fields
+#
+# minBedrooms, maxBedrooms
+# minBathrooms, maxBathrooms
+# minCarspaces, maxCarspaces,
+# minPrice, maxPrice,
+# minLandArea, maxLandArea
+#
+# Arrays of IDs
+#
+# advertiserIds
+# adIds
+# excludeAdIds
+#
+# Location fields
+#
+# locationTerms: string
+# locations: Array of objects
+#     state: [ACT, NSW, QLD, VIC, SA, WA, NT, TAS],
+#     region: string
+#     area: string
+#     suburb: string
+#     postCode: string
+#     includeSurroundingSuburbs: boolean
+#     surroundingRadiusInMeters: integer
+# schoolCatchments: Array of objects (ignored)
+#
+# Date fields (RFC3339, e.g. "2016-12-19T16:30:00+11:00")
+#
+# updatedSince, listedSince, inspectionFrom, inspectionTo, auctionFrom, auctionTo, dateAvailableFrom, dateAvailableTo
+#
+# Pagination
+#
+# pageSize, pageNumber: number
+# customSort: Object
+#     elements: Array of objects
+#         field: [AdId, PromoLevelScore, FreshnessLevel, ProductBoost, DateUpdated, DateListed, SuburbName,
+#             PriceDisplayOption, SoldDate, Price, EarliestInspectionOpenTime, EarliestAuctionTime, DateAvailable]
+#         direction: [Ascending, Descending]
+#     boostPrimarySuburbs: boolean
+# sort: Object
+#     sortKey: [Default, Suburb, Price, DateUpdated, InspectionTime, AuctionTime, Proximity, SoldDate,
+#         DefaultThenDateUpdated, DateAvailable, DateListed]
+#     direction: [Ascending, Descending]
+#     proximityTo: {lat:, lon:}
+#
+# Others
+#
+# keywords, topspotKeywords:	[string]
+# geoWindow
+#
 require 'net/http'
 require 'json'
 
