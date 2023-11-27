@@ -1,0 +1,4 @@
+area["place"="city"]["name"="Melbourne"]["wikidata"="Q3141"] -> .melbourne;
+
+way[highway=secondary][tunnel!=yes](area.melbourne);
+out geom qt;
