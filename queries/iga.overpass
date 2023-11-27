@@ -1,0 +1,7 @@
+area["place"="city"]["name"="Melbourne"]["wikidata"="Q3141"] -> .melbourne;
+
+node["shop"="supermarket"]["brand"="IGA"](area.melbourne);
+out body qt;
+
+way["shop"="supermarket"]["brand"="IGA"](area.melbourne);
+out center tags qt;

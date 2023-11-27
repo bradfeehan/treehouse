@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-11-27T11:41:13Z" areas="2023-11-27T10:38:30Z"/>
+
+  <node id="1952164954" lat="-38.3366826" lon="145.1770695">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="Bittern IGA"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6001777055" lat="-38.2614936" lon="145.1901118">
+    <tag k="brand" v="IGA"/>
+    <tag k="name" v="Tyabb IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6359672660" lat="-38.1592302" lon="145.1408228">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Th 07:00-20:00; Fr,Sa 07:00-21:00; Su 08:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="9778592827" lat="-37.8947805" lon="144.6224075">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="8948384633" lat="-37.8612753" lon="144.6742753">
+    <tag k="addr:housenumber" v="2-6"/>
+    <tag k="addr:street" v="Deloraine Drive"/>
+    <tag k="addr:unit" v="4"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-23:00"/>
+    <tag k="phone" v="+61 3 9748 3155"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://iga.com.au/"/>
+  </node>
+  <node id="1363204574" lat="-37.9864651" lon="145.0334661">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6199963913" lat="-37.9547495" lon="145.0255753">
+    <tag k="branch" v="X Press"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="3624604541" lat="-37.9531772" lon="145.0633289">
+    <tag k="addr:housenumber" v="39"/>
+    <tag k="addr:street" v="Bernard Street"/>
+    <tag k="addr:unit" v="1"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="check_date" v="2022-10-25"/>
+    <tag k="name" v="IGA Cheltenham"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-21:30; Su 08:30-21:30"/>
+    <tag k="operator" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="708373055" lat="-37.7777999" lon="144.7559358">
+    <tag k="addr:housenumber" v="8"/>
+    <tag k="addr:postcode" v="3023"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Hatchlands Drive"/>
+    <tag k="addr:suburb" v="Deer Park"/>
+    <tag k="addr:unit" v="10"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="fax" v="+61 2 9741 3399"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-20:00"/>
+    <tag k="operator" v="10/8 Hatchlands Dr, Deer Park VIC 3023"/>
+    <tag k="phone" v="+61 3 8390 0811"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://iga.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="10026346574" lat="-37.7985236" lon="144.8177624">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3036975335" lat="-37.8166274" lon="144.8913811">
+    <tag k="addr:city" v="Yarraville"/>
+    <tag k="addr:housenumber" v="12-14"/>
+    <tag k="addr:postcode" v="3013"/>
+    <tag k="addr:province" v="VIC"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Anderson Street"/>
+    <tag k="addr:suburb" v="Yarraville"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2268913096" lat="-37.7911005" lon="144.8899038">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA Friendly Grocer"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1021355276" lat="-37.8765871" lon="144.9965585">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="1249617879" lat="-37.9036986" lon="145.0407706">
+    <tag k="addr:housenumber" v="1"/>
+    <tag k="addr:postcode" v="3204"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Newhome Grove"/>
+    <tag k="addr:suburb" v="Ormond"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.iga.com.au/"/>
+  </node>
+  <node id="2908233600" lat="-37.8532747" lon="145.0414858">
+    <tag k="addr:city" v="Melbourne"/>
+    <tag k="addr:housenumber" v="1368"/>
+    <tag k="addr:street" v="Malvern Road"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
+    <tag k="operator" v="iga"/>
+    <tag k="phone" v="+61 3 9822 1388"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="survey"/>
+    <tag k="website" v="http://stores.iga.com.au/store/malvern-east-x-press-iga.html"/>
+  </node>
+  <node id="2080936992" lat="-37.8630603" lon="145.0777897">
+    <tag k="addr:city" v="Melbourne"/>
+    <tag k="addr:housenumber" v="219,221"/>
+    <tag k="addr:postcode" v="3147"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="addr:suburb" v="Ashburton"/>
+    <tag k="alt_name" v="Ashburton IGA"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="http://goo.gl/CaUPx"/>
+  </node>
+  <node id="2724329173" lat="-37.8505260" lon="145.0950750">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA Burwood"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://burwoodvillage.com.au/directory/burwood-iga/"/>
+  </node>
+  <node id="6970340755" lat="-37.8501260" lon="145.0944920">
+    <tag k="addr:housenumber" v="1401"/>
+    <tag k="addr:street" v="Toorak Road"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="595501090" lat="-37.8258050" lon="144.9570170">
+    <tag k="addr:city" v="Southbank"/>
+    <tag k="addr:housenumber" v="46"/>
+    <tag k="addr:postcode" v="3006"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Whiteman Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="level" v="0"/>
+    <tag k="name" v="IGA X-press + Liquor"/>
+    <tag k="opening_hours" v="Mo-Su 08:00-23:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="designated"/>
+  </node>
+  <node id="11182312635" lat="-37.8176845" lon="144.9583477">
+    <tag k="brand" v="IGA"/>
+    <tag k="name" v="IGA X-press"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4737562021" lat="-37.8224729" lon="144.9650768">
+    <tag k="addr:housenumber" v="89-91"/>
+    <tag k="addr:street" v="City Road"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="name:en" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="634778556" lat="-37.8150986" lon="144.9554185">
+    <tag k="branch" v="X press plus Liquor"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="595503060" lat="-37.8164808" lon="144.9611590">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.iga.com.au/"/>
+  </node>
+  <node id="1778609934" lat="-37.7920177" lon="144.9193602">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="3928348515" lat="-37.7849380" lon="144.9385839">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2599164407" lat="-37.7951171" lon="144.9415256">
+    <tag k="addr:city" v="North Melbourne"/>
+    <tag k="addr:housenumber" v="23"/>
+    <tag k="addr:postcode" v="3051"/>
+    <tag k="addr:street" v="Melrose Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="operator" v="IGA"/>
+    <tag k="phone" v="+61 3 9329 7815"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://iga.com.au/"/>
+  </node>
+  <node id="2341505826" lat="-37.8276939" lon="144.9665201">
+    <tag k="access" v="customers"/>
+    <tag k="addr:housenumber" v="151"/>
+    <tag k="addr:street" v="Sturt Street"/>
+    <tag k="air_conditioning" v="yes"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="parking:fee" v="2 hours free"/>
+    <tag k="payment:american_express" v="yes"/>
+    <tag k="payment:cash" v="yes"/>
+    <tag k="payment:contactless" v="yes"/>
+    <tag k="payment:credit_cards" v="yes"/>
+    <tag k="payment:debit_cards" v="yes"/>
+    <tag k="payment:mastercard" v="yes"/>
+    <tag k="payment:visa" v="yes"/>
+    <tag k="phone" v="+61 3 9682 1355"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://sturtstreetiga.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="802089471" lat="-37.8198464" lon="145.0094070">
+    <tag k="addr:housenumber" v="516"/>
+    <tag k="addr:postcode" v="3121"/>
+    <tag k="addr:street" v="Bridge Road"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://www.iga.net.au/"/>
+  </node>
+  <node id="9139961312" lat="-37.8109903" lon="145.0075120">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="Green Square IGA plus Liquor"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="726966377" lat="-37.8098860" lon="144.9711510">
+    <tag k="atm" v="yes"/>
+    <tag k="branch" v="X press"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2010048473" lat="-37.8044820" lon="144.9661040">
+    <tag k="addr:city" v="Carlton"/>
+    <tag k="addr:country" v="AU"/>
+    <tag k="addr:housenumber" v="109"/>
+    <tag k="addr:postcode" v="3053"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Lygon Street"/>
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA X-press plus Liquor"/>
+    <tag k="note" v="Accessibility: category 0"/>
+    <tag k="opening_hours" v="Fr,Sa 08:00-23:00; Su-Th 08:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1009829808" lat="-37.8097374" lon="144.9856300">
+    <tag k="atm" v="yes"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Su-Th 7:00-22:30; Fr-Sa 7:00-23:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3840226142" lat="-37.7942310" lon="144.9793382">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="Fitzroy IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1379487136" lat="-37.7999747" lon="144.9957652">
+    <tag k="addr:housenumber" v="306-310"/>
+    <tag k="addr:street" v="Johnston Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Fr 7:00-23:00; Sa-Su 8:00-23:00"/>
+    <tag k="phone" v="+61 3 9419 2725"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2097758822" lat="-37.7581540" lon="144.9393573">
+    <tag k="addr:housenumber" v="6"/>
+    <tag k="addr:postcode" v="3055"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Olive York Way"/>
+    <tag k="addr:suburb" v="Brunswick West"/>
+    <tag k="addr:unit" v="2"/>
+    <tag k="branch" v="X press"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-11:00"/>
+    <tag k="operator" v="IGA"/>
+    <tag k="phone" v="+61 3 9386 4204"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://our-stores.iga.com.au/stores/west-brunswick-iga-x-press/"/>
+  </node>
+  <node id="5793452696" lat="-37.7787245" lon="144.9764299">
+    <tag k="branch" v="Xpress"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2365435390" lat="-37.7717526" lon="144.9986811">
+    <tag k="addr:housenumber" v="284-288"/>
+    <tag k="addr:postcode" v="3070"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.iga.com.au/"/>
+  </node>
+  <node id="2651865022" lat="-37.7556161" lon="144.9755292">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="5257546861" lat="-37.7511479" lon="144.9881648">
+    <tag k="addr:housenumber" v="141"/>
+    <tag k="addr:postcode" v="3071"/>
+    <tag k="addr:street" v="Miller Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="Thornbury Cellars IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="8329958958" lat="-37.7363922" lon="144.9691528">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="Richies IGA Fine Food and Wine Merchants"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="6717437396" lat="-37.7985450" lon="145.0520745">
+    <tag k="addr:housenumber" v="655"/>
+    <tag k="addr:street" v="High Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-19:00; Fr 08:00-19:30; Su 09:00-18:00"/>
+    <tag k="phone" v="+61 3 9859 1782"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4226751389" lat="-37.8015537" lon="145.0626975">
+    <tag k="addr:housenumber" v="1050"/>
+    <tag k="addr:street" v="Burke Road"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="contact:website" v="http://our-stores.iga.com.au/stores/1030-1050-burke-road-balwyn-victoria-3103-boccaccio-supa-iga/"/>
+    <tag k="name" v="Boccaccio SUPA IGA"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-19:00"/>
+    <tag k="phone" v="+61 3 9817 2257"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.iga.com.au/"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="4084335133" lat="-37.8249989" lon="145.0816328">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4796189803" lat="-37.8034488" lon="145.0841241">
+    <tag k="addr:city" v="Balwyn North"/>
+    <tag k="addr:housenumber" v="255"/>
+    <tag k="addr:postcode" v="3104"/>
+    <tag k="addr:street" v="Belmore Road"/>
+    <tag k="branch" v="North Balwyn"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="5579882859" lat="-37.7762599" lon="145.0183324">
+    <tag k="addr:city" v="Fairfield"/>
+    <tag k="addr:housenumber" v="140"/>
+    <tag k="addr:postcode" v="3078"/>
+    <tag k="addr:province" v="VIC"/>
+    <tag k="addr:street" v="Station Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-20:00"/>
+    <tag k="operator" v="IGA"/>
+    <tag k="phone" v="+61 3 9489 7666"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="2999686908" lat="-37.7638231" lon="145.0547001">
+    <tag k="addr:city" v="Eaglemont"/>
+    <tag k="addr:postcode" v="3084"/>
+    <tag k="addr:street" v="Silverdale Road"/>
+    <tag k="addr:suburb" v="Eaglemont"/>
+    <tag k="branch" v="X Press"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="10575386313" lat="-37.7125819" lon="144.7260158">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Su 06:00-23:00"/>
+    <tag k="phone" v="+61 433 873 800"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.iga.com.au/"/>
+  </node>
+  <node id="7738959731" lat="-37.7253270" lon="144.8811644">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA Xpress"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="894922271" lat="-37.5821232" lon="144.7288356">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="8558723125" lat="-37.7200923" lon="144.9405948">
+    <tag k="addr:housenumber" v="110-112"/>
+    <tag k="addr:postcode" v="3044"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Kent Road"/>
+    <tag k="addr:suburb" v="Pascoe Vale"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2735692791" lat="-37.7160681" lon="145.0051747">
+    <tag k="branch" v="Reservoir"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-We 08:30-19:30; Th,Fr 08:30-20:00; Sa 08:30-19:00; Su 09:00-17:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2293561834" lat="-37.6505966" lon="144.9224592">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="Supa IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="9642676468" lat="-37.7206367" lon="145.0487718">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="Agora IGA Xpress"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2130274744" lat="-37.7273378" lon="145.0702893">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA Xpress"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3374574714" lat="-37.7090470" lon="145.0825705">
+    <tag k="addr:housenumber" v="97"/>
+    <tag k="addr:street" v="Watsonia Road"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="Andres SUPA IGA"/>
+    <tag k="phone" v="+61 3 9435 3661"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="538205612" lat="-37.7126927" lon="145.0925869">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Fr 08:00-20:00 , Sa-Su 08:00-17:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1260369489" lat="-37.6875728" lon="145.1083326">
+    <tag k="addr:postcode" v="3088"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2378996272" lat="-37.5141529" lon="145.1181855">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="9218313678" lat="-38.1158311" lon="145.2408454">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="10279116488" lat="-38.0516254" lon="145.2873009">
+    <tag k="addr:housenumber" v="245"/>
+    <tag k="addr:postcode" v="3805"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Ormond Road"/>
+    <tag k="addr:suburb" v="Narre Warren South"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-22:00"/>
+    <tag k="operator" v="Ritchies Amberly Park"/>
+    <tag k="phone" v="+61 3 9704 0098"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="788576331" lat="-38.0451707" lon="145.1362888">
+    <tag k="addr:city" v="Chelsea Heights"/>
+    <tag k="addr:housenumber" v="199"/>
+    <tag k="addr:postcode" v="3196"/>
+    <tag k="addr:street" v="Thames Promenade"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="contact:phone" v="+61 3 9772 5098"/>
+    <tag k="name" v="Chelsea Heights IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://stores.iga.com.au/store/chelsea-heights-iga.html"/>
+  </node>
+  <node id="6502799625" lat="-37.9922245" lon="145.1454752">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.michaelsiga.com.au/"/>
+  </node>
+  <node id="4300536906" lat="-37.9720200" lon="145.1497316">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="Springvale South SUPA IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="1570136912" lat="-37.9809432" lon="145.3167652">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="Marco's IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="4456047388" lat="-37.9139878" lon="145.2570252">
+    <tag k="branch" v="Rowville Lakes"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="442872640" lat="-37.8821985" lon="145.2944036">
+    <tag k="addr:housenumber" v="107"/>
+    <tag k="addr:street" v="Station Street"/>
+    <tag k="addr:unit" v="3"/>
+    <tag k="branch" v="Ferntree Gully"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Th 07:30-19:00; Fr 07:30-20:00; Sa, Su 08:00-19:00"/>
+    <tag k="phone" v="+61 3 9752 3999"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.iga.com.au"/>
+  </node>
+  <node id="9359402102" lat="-37.8211081" lon="145.1419147">
+    <tag k="addr:housenumber" v="11"/>
+    <tag k="addr:postcode" v="3130"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Salisbury Avenue"/>
+    <tag k="addr:suburb" v="Blackburn"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="phone" v="+61 3 8839 4112"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://iga.com.au/"/>
+  </node>
+  <node id="10724774963" lat="-37.8278021" lon="145.1943445">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="9339305922" lat="-37.8277943" lon="145.2471799">
+    <tag k="addr:housenumber" v="116-120"/>
+    <tag k="addr:postcode" v="3135"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Canterbury Road"/>
+    <tag k="addr:suburb" v="Heathmont"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="phone" v="+61 3 9729 4859"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://iga.com.au/"/>
+  </node>
+  <node id="10177695238" lat="-37.8120235" lon="145.2516228">
+    <tag k="addr:housenumber" v="82-90"/>
+    <tag k="addr:postcode" v="3135"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Railway Avenue"/>
+    <tag k="addr:suburb" v="Ringwood East"/>
+    <tag k="branch" v="Paul's Supa IGA"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Sa 07:30-20:00; Su 08:00-19:00"/>
+    <tag k="phone" v="+61 3 9870 8893"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://paulssupaonline.com.au/"/>
+  </node>
+  <node id="10202764082" lat="-37.8112725" lon="145.2704883">
+    <tag k="addr:housenumber" v="13"/>
+    <tag k="addr:postcode" v="3136"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="The Mall"/>
+    <tag k="addr:suburb" v="Croydon South"/>
+    <tag k="branch" v="Xpress"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-We 09:00-19:00; Th 09:00-19:30; Fr-Sa 09:00-20:00; Su 10:00-19:00"/>
+    <tag k="phone" v="+61 3 9723 2200"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.iga.com.au/"/>
+  </node>
+  <node id="9093380284" lat="-37.7356853" lon="145.2722906">
+    <tag k="addr:housenumber" v="70"/>
+    <tag k="addr:postcode" v="3115"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Jumping Creek Road"/>
+    <tag k="addr:suburb" v="Wonga Park"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="phone" v="+61 3 9722 1861"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://iga.com.au/"/>
+  </node>
+  <node id="9619273544" lat="-37.7802739" lon="145.4278501">
+    <tag k="addr:housenumber" v="388"/>
+    <tag k="addr:postcode" v="3139"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Warburton Highway"/>
+    <tag k="addr:suburb" v="Wandin North"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:30-19:00; Su 10:00-17:00"/>
+    <tag k="phone" v="+61 3 5964 4354"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="https://www.iga.com.au/"/>
+  </node>
+  <node id="5007271493" lat="-37.7530941" lon="145.6968440">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-21:00; Su 09:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="9107250880" lat="-37.6746392" lon="145.1588555">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="7738540143" lat="-37.6540759" lon="145.5152908">
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="name" v="IGA Xpress"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <way id="33069693">
+    <center lat="-38.3080629" lon="145.1931411"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="building" v="yes"/>
+    <tag k="diet:halal" v="no"/>
+    <tag k="landuse" v="retail"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Sa 08:00-20:00; Su 08:00-19:00"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="1183395263">
+    <center lat="-38.2142268" lon="145.3815762"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="634766895">
+    <center lat="-37.7432017" lon="144.7998057"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="169532839">
+    <center lat="-37.7981418" lon="144.8802129"/>
+    <tag k="addr:city" v="Footscray"/>
+    <tag k="addr:country" v="AU"/>
+    <tag k="addr:housenumber" v="509"/>
+    <tag k="addr:postcode" v="3011"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Barkly Street"/>
+    <tag k="branch" v="Sims Supermarket"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:levels" v="1"/>
+    <tag k="height" v="5"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="23201122">
+    <center lat="-37.7441591" lon="144.9085712"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="yahoo"/>
+  </way>
+  <way id="340065327">
+    <center lat="-37.8506237" lon="144.9645407"/>
+    <tag k="addr:city" v="Middle Park"/>
+    <tag k="addr:housenumber" v="19-21"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Armstrong Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="building" v="commercial"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="1000255922">
+    <center lat="-37.8545367" lon="145.0116740"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="879863586">
+    <center lat="-37.8732679" lon="145.0250024"/>
+    <tag k="addr:housenumber" v="73"/>
+    <tag k="addr:street" v="Hawthorn Road"/>
+    <tag k="branch" v="Caulfield North"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="building" v="yes"/>
+    <tag k="building:use" v="commercial"/>
+    <tag k="check_date" v="2023-08-18"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Sa 07:00-21:00; Su 08:00-21:00"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="survey"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="631295307">
+    <center lat="-37.8788336" lon="145.0680024"/>
+    <tag k="addr:housenumber" v="472-486"/>
+    <tag k="addr:street" v="Waverley Road"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="East Malvern IGA Xpress Plus Liquor"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="52255473">
+    <center lat="-37.6764517" lon="144.8865492"/>
+    <tag k="addr:housenumber" v="15-23"/>
+    <tag k="addr:postcode" v="3049"/>
+    <tag k="addr:street" v="Fawkner Street"/>
+    <tag k="addr:suburb" v="Westmeadows"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q3146662"/>
+    <tag k="brand:wikipedia" v="en:IGA (supermarkets)"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="IGA"/>
+    <tag k="phone" v="+61 3 9335 3111"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="1185225765">
+    <center lat="-37.8942957" lon="145.2497379"/>
+    <tag k="addr:housenumber" v="1579"/>
+    <tag k="addr:postcode" v="3180"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Ferntree Gully Road"/>
+    <tag k="addr:suburb" v="Knoxfield"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="IGA Knoxfield Plus Liquor"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="159810917">
+    <center lat="-37.9041781" lon="145.3311819"/>
+    <tag k="addr:housenumber" v="62-64"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2023-11-10"/>
+    <tag k="name" v="IGA"/>
+    <tag k="opening_hours" v="Mo-Su 07:00-21:00"/>
+    <tag k="phone" v="+61 3 9754 3013"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="source" v="survey;bing"/>
+    <tag k="website" v="https://www.iga.com.au"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="1000265858">
+    <center lat="-37.8444535" lon="145.2993385"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="1054186882">
+    <center lat="-37.7576824" lon="145.1287317"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+  <way id="548102198">
+    <center lat="-37.8106577" lon="145.3431686"/>
+    <tag k="addr:housenumber" v="916"/>
+    <tag k="addr:postcode" v="3765"/>
+    <tag k="addr:state" v="VIC"/>
+    <tag k="addr:street" v="Mount Dandenong Road"/>
+    <tag k="addr:suburb" v="Montrose"/>
+    <tag k="branch" v="Montrose"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="building" v="retail"/>
+    <tag k="name" v="IGA"/>
+    <tag k="phone" v="+61 3 9728 4744"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="website" v="http://iga.com.au/"/>
+  </way>
+  <way id="907638448">
+    <center lat="-37.7869840" lon="145.3788507"/>
+    <tag k="addr:housenumber" v="38-40"/>
+    <tag k="addr:street" v="York Road"/>
+    <tag k="addr:suburb" v="Mount Evelyn"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="building" v="yes"/>
+    <tag k="check_date" v="2022-10-01"/>
+    <tag k="internet_access" v="no"/>
+    <tag k="name" v="IGA"/>
+    <tag k="operator" v="Mount Evelyn Supa IGA"/>
+    <tag k="shop" v="supermarket"/>
+    <tag k="wheelchair" v="yes"/>
+  </way>
+  <way id="106896938">
+    <center lat="-37.9530103" lon="145.5510357"/>
+    <tag k="addr:city" v="Gembrook"/>
+    <tag k="addr:housenumber" v="85"/>
+    <tag k="addr:postcode" v="3783"/>
+    <tag k="addr:street" v="Main Street"/>
+    <tag k="brand" v="IGA"/>
+    <tag k="brand:wikidata" v="Q5970945"/>
+    <tag k="brand:wikipedia" v="en:IGA (Australian supermarket group)"/>
+    <tag k="building" v="yes"/>
+    <tag k="name" v="IGA"/>
+    <tag k="shop" v="supermarket"/>
+  </way>
+
+</osm>

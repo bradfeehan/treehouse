@@ -1,0 +1,2086 @@
+{
+"type": "FeatureCollection",
+"features": [
+{
+  "type": "Feature",
+  "id": "way/23201122",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "building": "yes",
+    "name": "IGA",
+    "shop": "supermarket",
+    "source": "yahoo",
+    "id": "way/23201122"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9085712,
+      -37.7441591
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/33069693",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "building": "yes",
+    "diet:halal": "no",
+    "landuse": "retail",
+    "name": "IGA",
+    "opening_hours": "Mo-Sa 08:00-20:00; Su 08:00-19:00",
+    "shop": "supermarket",
+    "id": "way/33069693"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1931411,
+      -38.3080629
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/52255473",
+  "properties": {
+    "addr:housenumber": "15-23",
+    "addr:postcode": "3049",
+    "addr:street": "Fawkner Street",
+    "addr:suburb": "Westmeadows",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "building": "retail",
+    "name": "IGA",
+    "phone": "+61 3 9335 3111",
+    "shop": "supermarket",
+    "id": "way/52255473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8865492,
+      -37.6764517
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/106896938",
+  "properties": {
+    "addr:city": "Gembrook",
+    "addr:housenumber": "85",
+    "addr:postcode": "3783",
+    "addr:street": "Main Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "building": "yes",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "way/106896938"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.5510357,
+      -37.9530103
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/159810917",
+  "properties": {
+    "addr:housenumber": "62-64",
+    "addr:street": "Main Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "building": "yes",
+    "check_date": "2023-11-10",
+    "name": "IGA",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "phone": "+61 3 9754 3013",
+    "shop": "supermarket",
+    "source": "survey;bing",
+    "website": "https://www.iga.com.au",
+    "wheelchair": "yes",
+    "id": "way/159810917"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3311819,
+      -37.9041781
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/169532839",
+  "properties": {
+    "addr:city": "Footscray",
+    "addr:country": "AU",
+    "addr:housenumber": "509",
+    "addr:postcode": "3011",
+    "addr:state": "VIC",
+    "addr:street": "Barkly Street",
+    "branch": "Sims Supermarket",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "building": "yes",
+    "building:levels": "1",
+    "height": "5",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "way/169532839"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8802129,
+      -37.7981418
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/340065327",
+  "properties": {
+    "addr:city": "Middle Park",
+    "addr:housenumber": "19-21",
+    "addr:state": "VIC",
+    "addr:street": "Armstrong Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "building": "commercial",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "way/340065327"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9645407,
+      -37.8506237
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/442872640",
+  "properties": {
+    "addr:housenumber": "107",
+    "addr:street": "Station Street",
+    "addr:unit": "3",
+    "branch": "Ferntree Gully",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Mo-Th 07:30-19:00; Fr 07:30-20:00; Sa, Su 08:00-19:00",
+    "phone": "+61 3 9752 3999",
+    "shop": "supermarket",
+    "website": "https://www.iga.com.au",
+    "id": "node/442872640"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2944036,
+      -37.8821985
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/538205612",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "opening_hours": "Mo-Fr 08:00-20:00 , Sa-Su 08:00-17:00",
+    "shop": "supermarket",
+    "id": "node/538205612"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0925869,
+      -37.7126927
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/548102198",
+  "properties": {
+    "addr:housenumber": "916",
+    "addr:postcode": "3765",
+    "addr:state": "VIC",
+    "addr:street": "Mount Dandenong Road",
+    "addr:suburb": "Montrose",
+    "branch": "Montrose",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "building": "retail",
+    "name": "IGA",
+    "phone": "+61 3 9728 4744",
+    "shop": "supermarket",
+    "website": "http://iga.com.au/",
+    "id": "way/548102198"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3431686,
+      -37.8106577
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/595501090",
+  "properties": {
+    "addr:city": "Southbank",
+    "addr:housenumber": "46",
+    "addr:postcode": "3006",
+    "addr:state": "VIC",
+    "addr:street": "Whiteman Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "level": "0",
+    "name": "IGA X-press + Liquor",
+    "opening_hours": "Mo-Su 08:00-23:00",
+    "shop": "supermarket",
+    "wheelchair": "designated",
+    "id": "node/595501090"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.957017,
+      -37.825805
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/595503060",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "website": "https://www.iga.com.au/",
+    "id": "node/595503060"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.961159,
+      -37.8164808
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/631295307",
+  "properties": {
+    "addr:housenumber": "472-486",
+    "addr:street": "Waverley Road",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "building": "retail",
+    "name": "East Malvern IGA Xpress Plus Liquor",
+    "shop": "supermarket",
+    "id": "way/631295307"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0680024,
+      -37.8788336
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/634766895",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "building": "retail",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "way/634766895"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7998057,
+      -37.7432017
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/634778556",
+  "properties": {
+    "branch": "X press plus Liquor",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/634778556"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9554185,
+      -37.8150986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/708373055",
+  "properties": {
+    "addr:housenumber": "8",
+    "addr:postcode": "3023",
+    "addr:state": "VIC",
+    "addr:street": "Hatchlands Drive",
+    "addr:suburb": "Deer Park",
+    "addr:unit": "10",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "fax": "+61 2 9741 3399",
+    "name": "IGA",
+    "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 08:00-20:00",
+    "operator": "10/8 Hatchlands Dr, Deer Park VIC 3023",
+    "phone": "+61 3 8390 0811",
+    "shop": "supermarket",
+    "website": "http://iga.com.au/",
+    "wheelchair": "yes",
+    "id": "node/708373055"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7559358,
+      -37.7777999
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/726966377",
+  "properties": {
+    "atm": "yes",
+    "branch": "X press",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/726966377"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.971151,
+      -37.809886
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/788576331",
+  "properties": {
+    "addr:city": "Chelsea Heights",
+    "addr:housenumber": "199",
+    "addr:postcode": "3196",
+    "addr:street": "Thames Promenade",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "contact:phone": "+61 3 9772 5098",
+    "name": "Chelsea Heights IGA",
+    "shop": "supermarket",
+    "website": "http://stores.iga.com.au/store/chelsea-heights-iga.html",
+    "id": "node/788576331"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1362888,
+      -38.0451707
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/802089471",
+  "properties": {
+    "addr:housenumber": "516",
+    "addr:postcode": "3121",
+    "addr:street": "Bridge Road",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "website": "http://www.iga.net.au/",
+    "id": "node/802089471"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.009407,
+      -37.8198464
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/879863586",
+  "properties": {
+    "addr:housenumber": "73",
+    "addr:street": "Hawthorn Road",
+    "branch": "Caulfield North",
+    "brand": "IGA",
+    "building": "yes",
+    "building:use": "commercial",
+    "check_date": "2023-08-18",
+    "name": "IGA",
+    "opening_hours": "Mo-Sa 07:00-21:00; Su 08:00-21:00",
+    "shop": "supermarket",
+    "source": "survey",
+    "wheelchair": "yes",
+    "id": "way/879863586"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0250024,
+      -37.8732679
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/894922271",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/894922271"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7288356,
+      -37.5821232
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/907638448",
+  "properties": {
+    "addr:housenumber": "38-40",
+    "addr:street": "York Road",
+    "addr:suburb": "Mount Evelyn",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "building": "yes",
+    "check_date": "2022-10-01",
+    "internet_access": "no",
+    "name": "IGA",
+    "operator": "Mount Evelyn Supa IGA",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "way/907638448"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3788507,
+      -37.786984
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1000255922",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "building": "yes",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "way/1000255922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.011674,
+      -37.8545367
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1000265858",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "building": "yes",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "way/1000265858"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2993385,
+      -37.8444535
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1009829808",
+  "properties": {
+    "atm": "yes",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Su-Th 7:00-22:30; Fr-Sa 7:00-23:00",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "node/1009829808"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.98563,
+      -37.8097374
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1021355276",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "node/1021355276"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9965585,
+      -37.8765871
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1054186882",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "building": "yes",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "way/1054186882"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1287317,
+      -37.7576824
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1183395263",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "building": "yes",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "way/1183395263"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3815762,
+      -38.2142268
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "way/1185225765",
+  "properties": {
+    "addr:housenumber": "1579",
+    "addr:postcode": "3180",
+    "addr:state": "VIC",
+    "addr:street": "Ferntree Gully Road",
+    "addr:suburb": "Knoxfield",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "building": "yes",
+    "name": "IGA Knoxfield Plus Liquor",
+    "shop": "supermarket",
+    "id": "way/1185225765"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2497379,
+      -37.8942957
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1249617879",
+  "properties": {
+    "addr:housenumber": "1",
+    "addr:postcode": "3204",
+    "addr:state": "VIC",
+    "addr:street": "Newhome Grove",
+    "addr:suburb": "Ormond",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "website": "https://www.iga.com.au/",
+    "id": "node/1249617879"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0407706,
+      -37.9036986
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1260369489",
+  "properties": {
+    "addr:postcode": "3088",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/1260369489"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1083326,
+      -37.6875728
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1363204574",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/1363204574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0334661,
+      -37.9864651
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1379487136",
+  "properties": {
+    "addr:housenumber": "306-310",
+    "addr:street": "Johnston Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Mo-Fr 7:00-23:00; Sa-Su 8:00-23:00",
+    "phone": "+61 3 9419 2725",
+    "shop": "supermarket",
+    "id": "node/1379487136"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9957652,
+      -37.7999747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1570136912",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "Marco's IGA",
+    "shop": "supermarket",
+    "id": "node/1570136912"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.3167652,
+      -37.9809432
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1778609934",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/1778609934"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9193602,
+      -37.7920177
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/1952164954",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "Bittern IGA",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "IGA",
+    "shop": "supermarket",
+    "id": "node/1952164954"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1770695,
+      -38.3366826
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2010048473",
+  "properties": {
+    "addr:city": "Carlton",
+    "addr:country": "AU",
+    "addr:housenumber": "109",
+    "addr:postcode": "3053",
+    "addr:state": "VIC",
+    "addr:street": "Lygon Street",
+    "atm": "yes",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA X-press plus Liquor",
+    "note": "Accessibility: category 0",
+    "opening_hours": "Fr,Sa 08:00-23:00; Su-Th 08:00-22:00",
+    "shop": "supermarket",
+    "id": "node/2010048473"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.966104,
+      -37.804482
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2080936992",
+  "properties": {
+    "addr:city": "Melbourne",
+    "addr:housenumber": "219,221",
+    "addr:postcode": "3147",
+    "addr:street": "High Street",
+    "addr:suburb": "Ashburton",
+    "alt_name": "Ashburton IGA",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "source": "http://goo.gl/CaUPx",
+    "id": "node/2080936992"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0777897,
+      -37.8630603
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2097758822",
+  "properties": {
+    "addr:housenumber": "6",
+    "addr:postcode": "3055",
+    "addr:state": "VIC",
+    "addr:street": "Olive York Way",
+    "addr:suburb": "Brunswick West",
+    "addr:unit": "2",
+    "branch": "X press",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Mo-Su 07:00-11:00",
+    "operator": "IGA",
+    "phone": "+61 3 9386 4204",
+    "shop": "supermarket",
+    "website": "https://our-stores.iga.com.au/stores/west-brunswick-iga-x-press/",
+    "id": "node/2097758822"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9393573,
+      -37.758154
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2130274744",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA Xpress",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "node/2130274744"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0702893,
+      -37.7273378
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2268913096",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA Friendly Grocer",
+    "shop": "supermarket",
+    "id": "node/2268913096"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8899038,
+      -37.7911005
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2293561834",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "Supa IGA",
+    "shop": "supermarket",
+    "id": "node/2293561834"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9224592,
+      -37.6505966
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2341505826",
+  "properties": {
+    "access": "customers",
+    "addr:housenumber": "151",
+    "addr:street": "Sturt Street",
+    "air_conditioning": "yes",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "parking:fee": "2 hours free",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:contactless": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "phone": "+61 3 9682 1355",
+    "shop": "supermarket",
+    "website": "https://sturtstreetiga.com.au/",
+    "wheelchair": "yes",
+    "id": "node/2341505826"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9665201,
+      -37.8276939
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2365435390",
+  "properties": {
+    "addr:housenumber": "284-288",
+    "addr:postcode": "3070",
+    "addr:street": "High Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "website": "https://www.iga.com.au/",
+    "id": "node/2365435390"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9986811,
+      -37.7717526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2378996272",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/2378996272"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1181855,
+      -37.5141529
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2599164407",
+  "properties": {
+    "addr:city": "North Melbourne",
+    "addr:housenumber": "23",
+    "addr:postcode": "3051",
+    "addr:street": "Melrose Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "operator": "IGA",
+    "phone": "+61 3 9329 7815",
+    "shop": "supermarket",
+    "website": "http://iga.com.au/",
+    "id": "node/2599164407"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9415256,
+      -37.7951171
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2651865022",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/2651865022"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9755292,
+      -37.7556161
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2724329173",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA Burwood",
+    "shop": "supermarket",
+    "website": "https://burwoodvillage.com.au/directory/burwood-iga/",
+    "id": "node/2724329173"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.095075,
+      -37.850526
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2735692791",
+  "properties": {
+    "branch": "Reservoir",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Mo-We 08:30-19:30; Th,Fr 08:30-20:00; Sa 08:30-19:00; Su 09:00-17:00",
+    "shop": "supermarket",
+    "id": "node/2735692791"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0051747,
+      -37.7160681
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2908233600",
+  "properties": {
+    "addr:city": "Melbourne",
+    "addr:housenumber": "1368",
+    "addr:street": "Malvern Road",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "opening_hours": "Mo-Su 07:00-21:00",
+    "operator": "iga",
+    "phone": "+61 3 9822 1388",
+    "shop": "supermarket",
+    "source": "survey",
+    "website": "http://stores.iga.com.au/store/malvern-east-x-press-iga.html",
+    "id": "node/2908233600"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0414858,
+      -37.8532747
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/2999686908",
+  "properties": {
+    "addr:city": "Eaglemont",
+    "addr:postcode": "3084",
+    "addr:street": "Silverdale Road",
+    "addr:suburb": "Eaglemont",
+    "branch": "X Press",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/2999686908"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0547001,
+      -37.7638231
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3036975335",
+  "properties": {
+    "addr:city": "Yarraville",
+    "addr:housenumber": "12-14",
+    "addr:postcode": "3013",
+    "addr:province": "VIC",
+    "addr:state": "VIC",
+    "addr:street": "Anderson Street",
+    "addr:suburb": "Yarraville",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Mo-Su 08:00-21:00",
+    "shop": "supermarket",
+    "id": "node/3036975335"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8913811,
+      -37.8166274
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3374574714",
+  "properties": {
+    "addr:housenumber": "97",
+    "addr:street": "Watsonia Road",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "Andres SUPA IGA",
+    "phone": "+61 3 9435 3661",
+    "shop": "supermarket",
+    "id": "node/3374574714"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0825705,
+      -37.709047
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3624604541",
+  "properties": {
+    "addr:housenumber": "39",
+    "addr:street": "Bernard Street",
+    "addr:unit": "1",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "check_date": "2022-10-25",
+    "name": "IGA Cheltenham",
+    "opening_hours": "Mo-Sa 07:30-21:30; Su 08:30-21:30",
+    "operator": "IGA",
+    "shop": "supermarket",
+    "id": "node/3624604541"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0633289,
+      -37.9531772
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3840226142",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "Fitzroy IGA",
+    "shop": "supermarket",
+    "id": "node/3840226142"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9793382,
+      -37.794231
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/3928348515",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/3928348515"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9385839,
+      -37.784938
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4084335133",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/4084335133"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0816328,
+      -37.8249989
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4226751389",
+  "properties": {
+    "addr:housenumber": "1050",
+    "addr:street": "Burke Road",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "contact:website": "http://our-stores.iga.com.au/stores/1030-1050-burke-road-balwyn-victoria-3103-boccaccio-supa-iga/",
+    "name": "Boccaccio SUPA IGA",
+    "opening_hours": "Mo-Su 07:00-19:00",
+    "phone": "+61 3 9817 2257",
+    "shop": "supermarket",
+    "website": "https://www.iga.com.au/",
+    "wheelchair": "yes",
+    "id": "node/4226751389"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0626975,
+      -37.8015537
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6001777055",
+  "properties": {
+    "brand": "IGA",
+    "name": "Tyabb IGA",
+    "shop": "supermarket",
+    "id": "node/6001777055"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1901118,
+      -38.2614936
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6359672660",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "opening_hours": "Mo-Th 07:00-20:00; Fr,Sa 07:00-21:00; Su 08:00-19:00",
+    "shop": "supermarket",
+    "id": "node/6359672660"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1408228,
+      -38.1592302
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9778592827",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/9778592827"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.6224075,
+      -37.8947805
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8948384633",
+  "properties": {
+    "addr:housenumber": "2-6",
+    "addr:street": "Deloraine Drive",
+    "addr:unit": "4",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Mo-Su 07:00-23:00",
+    "phone": "+61 3 9748 3155",
+    "shop": "supermarket",
+    "website": "http://iga.com.au/",
+    "id": "node/8948384633"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.6742753,
+      -37.8612753
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6199963913",
+  "properties": {
+    "branch": "X Press",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "source": "survey",
+    "id": "node/6199963913"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0255753,
+      -37.9547495
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10026346574",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/10026346574"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8177624,
+      -37.7985236
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6970340755",
+  "properties": {
+    "addr:housenumber": "1401",
+    "addr:street": "Toorak Road",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/6970340755"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.094492,
+      -37.850126
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/11182312635",
+  "properties": {
+    "brand": "IGA",
+    "name": "IGA X-press",
+    "shop": "supermarket",
+    "id": "node/11182312635"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9583477,
+      -37.8176845
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4737562021",
+  "properties": {
+    "addr:housenumber": "89-91",
+    "addr:street": "City Road",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "name:en": "IGA",
+    "shop": "supermarket",
+    "id": "node/4737562021"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9650768,
+      -37.8224729
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9139961312",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "Green Square IGA plus Liquor",
+    "shop": "supermarket",
+    "id": "node/9139961312"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.007512,
+      -37.8109903
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5793452696",
+  "properties": {
+    "branch": "Xpress",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/5793452696"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9764299,
+      -37.7787245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5257546861",
+  "properties": {
+    "addr:housenumber": "141",
+    "addr:postcode": "3071",
+    "addr:street": "Miller Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "Thornbury Cellars IGA",
+    "shop": "supermarket",
+    "id": "node/5257546861"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9881648,
+      -37.7511479
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8329958958",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "Richies IGA Fine Food and Wine Merchants",
+    "shop": "supermarket",
+    "id": "node/8329958958"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9691528,
+      -37.7363922
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6717437396",
+  "properties": {
+    "addr:housenumber": "655",
+    "addr:street": "High Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "opening_hours": "Mo-Sa 08:00-19:00; Fr 08:00-19:30; Su 09:00-18:00",
+    "phone": "+61 3 9859 1782",
+    "shop": "supermarket",
+    "id": "node/6717437396"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0520745,
+      -37.798545
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4796189803",
+  "properties": {
+    "addr:city": "Balwyn North",
+    "addr:housenumber": "255",
+    "addr:postcode": "3104",
+    "addr:street": "Belmore Road",
+    "branch": "North Balwyn",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/4796189803"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0841241,
+      -37.8034488
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5579882859",
+  "properties": {
+    "addr:city": "Fairfield",
+    "addr:housenumber": "140",
+    "addr:postcode": "3078",
+    "addr:province": "VIC",
+    "addr:street": "Station Street",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:00-20:00; Su 09:00-20:00",
+    "operator": "IGA",
+    "phone": "+61 3 9489 7666",
+    "shop": "supermarket",
+    "wheelchair": "yes",
+    "id": "node/5579882859"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0183324,
+      -37.7762599
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10575386313",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA",
+    "opening_hours": "Mo-Su 06:00-23:00",
+    "phone": "+61 433 873 800",
+    "shop": "supermarket",
+    "website": "https://www.iga.com.au/",
+    "id": "node/10575386313"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.7260158,
+      -37.7125819
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7738959731",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA Xpress",
+    "shop": "supermarket",
+    "id": "node/7738959731"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.8811644,
+      -37.725327
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/8558723125",
+  "properties": {
+    "addr:housenumber": "110-112",
+    "addr:postcode": "3044",
+    "addr:state": "VIC",
+    "addr:street": "Kent Road",
+    "addr:suburb": "Pascoe Vale",
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/8558723125"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      144.9405948,
+      -37.7200923
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9642676468",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "Agora IGA Xpress",
+    "shop": "supermarket",
+    "id": "node/9642676468"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.0487718,
+      -37.7206367
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9218313678",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/9218313678"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2408454,
+      -38.1158311
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10279116488",
+  "properties": {
+    "addr:housenumber": "245",
+    "addr:postcode": "3805",
+    "addr:state": "VIC",
+    "addr:street": "Ormond Road",
+    "addr:suburb": "Narre Warren South",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA",
+    "opening_hours": "Mo-Su 07:00-22:00",
+    "operator": "Ritchies Amberly Park",
+    "phone": "+61 3 9704 0098",
+    "shop": "supermarket",
+    "id": "node/10279116488"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2873009,
+      -38.0516254
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/6502799625",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "website": "https://www.michaelsiga.com.au/",
+    "id": "node/6502799625"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1454752,
+      -37.9922245
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4300536906",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q3146662",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "Springvale South SUPA IGA",
+    "shop": "supermarket",
+    "id": "node/4300536906"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1497316,
+      -37.97202
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/4456047388",
+  "properties": {
+    "branch": "Rowville Lakes",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/4456047388"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2570252,
+      -37.9139878
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9359402102",
+  "properties": {
+    "addr:housenumber": "11",
+    "addr:postcode": "3130",
+    "addr:state": "VIC",
+    "addr:street": "Salisbury Avenue",
+    "addr:suburb": "Blackburn",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "phone": "+61 3 8839 4112",
+    "shop": "supermarket",
+    "website": "https://iga.com.au/",
+    "id": "node/9359402102"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1419147,
+      -37.8211081
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10724774963",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/10724774963"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1943445,
+      -37.8278021
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9339305922",
+  "properties": {
+    "addr:housenumber": "116-120",
+    "addr:postcode": "3135",
+    "addr:state": "VIC",
+    "addr:street": "Canterbury Road",
+    "addr:suburb": "Heathmont",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "phone": "+61 3 9729 4859",
+    "shop": "supermarket",
+    "website": "http://iga.com.au/",
+    "id": "node/9339305922"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2471799,
+      -37.8277943
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10177695238",
+  "properties": {
+    "addr:housenumber": "82-90",
+    "addr:postcode": "3135",
+    "addr:state": "VIC",
+    "addr:street": "Railway Avenue",
+    "addr:suburb": "Ringwood East",
+    "branch": "Paul's Supa IGA",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA",
+    "opening_hours": "Mo-Sa 07:30-20:00; Su 08:00-19:00",
+    "phone": "+61 3 9870 8893",
+    "shop": "supermarket",
+    "website": "https://paulssupaonline.com.au/",
+    "id": "node/10177695238"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2516228,
+      -37.8120235
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/10202764082",
+  "properties": {
+    "addr:housenumber": "13",
+    "addr:postcode": "3136",
+    "addr:state": "VIC",
+    "addr:street": "The Mall",
+    "addr:suburb": "Croydon South",
+    "branch": "Xpress",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "name": "IGA",
+    "opening_hours": "Mo-We 09:00-19:00; Th 09:00-19:30; Fr-Sa 09:00-20:00; Su 10:00-19:00",
+    "phone": "+61 3 9723 2200",
+    "shop": "supermarket",
+    "website": "https://www.iga.com.au/",
+    "id": "node/10202764082"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2704883,
+      -37.8112725
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9093380284",
+  "properties": {
+    "addr:housenumber": "70",
+    "addr:postcode": "3115",
+    "addr:state": "VIC",
+    "addr:street": "Jumping Creek Road",
+    "addr:suburb": "Wonga Park",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "phone": "+61 3 9722 1861",
+    "shop": "supermarket",
+    "website": "https://iga.com.au/",
+    "id": "node/9093380284"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.2722906,
+      -37.7356853
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9619273544",
+  "properties": {
+    "addr:housenumber": "388",
+    "addr:postcode": "3139",
+    "addr:state": "VIC",
+    "addr:street": "Warburton Highway",
+    "addr:suburb": "Wandin North",
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Mo-Th 08:30-19:00; Fr 08:30-20:00; Sa 08:30-19:00; Su 10:00-17:00",
+    "phone": "+61 3 5964 4354",
+    "shop": "supermarket",
+    "website": "https://www.iga.com.au/",
+    "id": "node/9619273544"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.4278501,
+      -37.7802739
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/5007271493",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-21:00",
+    "shop": "supermarket",
+    "id": "node/5007271493"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.696844,
+      -37.7530941
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/9107250880",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (Australian supermarket group)",
+    "name": "IGA",
+    "shop": "supermarket",
+    "id": "node/9107250880"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.1588555,
+      -37.6746392
+    ]
+  }
+},
+{
+  "type": "Feature",
+  "id": "node/7738540143",
+  "properties": {
+    "brand": "IGA",
+    "brand:wikidata": "Q5970945",
+    "brand:wikipedia": "en:IGA (supermarkets)",
+    "name": "IGA Xpress",
+    "shop": "supermarket",
+    "id": "node/7738540143"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      145.5152908,
+      -37.6540759
+    ]
+  }
+}
+]
+}
