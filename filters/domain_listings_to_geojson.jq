@@ -18,7 +18,7 @@
             domain_id: .id,
             domain_slug: .listingSlug,
             type: .listingType,
-            imageURLs: [.media[] | select(.category == "Image") | .url],
+            imageURLs: (if has("media") then [.media[] | select(.category == "Image") | .url] else [] end),
             price_details: .priceDetails,
             address: {
                 display: .propertyDetails.displayableAddress,
