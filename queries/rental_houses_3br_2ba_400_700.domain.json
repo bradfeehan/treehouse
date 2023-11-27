@@ -1,0 +1,27 @@
+{
+    "listingType": "Rent",
+    "propertyTypes": [
+        "NewHomeDesigns",
+        "House",
+        "NewHouseLand",
+        "SemiDetached",
+        "Studio",
+        "Terrace",
+        "Townhouse",
+        "Villa"
+    ],
+    "propertyEstablishedType": "Any",
+    "maxBedrooms": 3,
+    "minBedrooms": 3,
+    "minBathrooms": 2,
+    "minCarspaces": 1,
+    "minPrice": 400,
+    "maxPrice": 700,
+    "locations": [
+        {
+            "state": "VIC",
+            "region": "Melbourne Region"
+        }
+    ],
+    "excludeDepositTaken": true
+}
