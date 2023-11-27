@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-20T10:20:10Z" areas="2023-11-20T07:35:10Z"/>
+<meta osm_base="2023-11-21T13:40:41Z" areas="2023-11-21T12:05:30Z"/>
 
   <node id="3076312675" lat="-38.3111989" lon="144.9934288">
     <tag k="amenity" v="pharmacy"/>
