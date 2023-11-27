@@ -95,6 +95,7 @@ def post(query, page_number: 1, page_size: 100)
   http = Net::HTTP.new(DOMAIN_API_URL.host, DOMAIN_API_URL.port)
   http.use_ssl = true
   request = Net::HTTP::Post.new(DOMAIN_API_URL.path, DEFAULT_HEADERS)
+  sleep 1
   response = http.request(request, JSON.dump(query))
 end
 
@@ -135,8 +136,6 @@ case response
     $stderr.puts("if count=#{count} > (page_size * page_number)=#{page_size * page_number}")
     if count > (page_size * page_number)
       $stderr.puts('Get next page')
-      # TODO
-      sleep 2
       handle_response(post(query, page_number: page_number + 1), query:, output:)
     else
       $stderr.puts('Done')
@@ -160,8 +159,52 @@ abort "File #{output} is not writable" if File.exist?(output) && !File.writable?
 
 $stderr.puts "Processing #{input} -> #{output}"
 
+areas = [
+  "Banyule Council - Greater Area",
+  "Bayside - Greater Area",
+  "Boorondara City Council - Greater Area",
+  "Brimbank City Council - Greater Area",
+  "Cardinia Shire - Greater Area",
+  "Casey City - Greater Area",
+  "Dandenong - Greater Area",
+  "Darebin City Council - Greater Area",
+  "Frankston Council - Greater Area",
+  "Geelong & District - Greater Area",
+  "Glen Eira Council - Greater Area",
+  "Hobsons Bay City Council - Greater Area",
+  "Hume City Council - Greater Area",
+  "Kingston City Council - Greater Area",
+  "Knox City - Greater Area",
+  "Manningham City - Greater Area",
+  "Maribyrnong City Council - Greater Area",
+  "Maroondah City - Greater Area",
+  "Melbourne City Council - Greater Area",
+  "Melton City - Greater Area",
+  "Monash City - Greater Area",
+  "Monash Valley City Council - Greater Area",
+  "Moreland City Council - Greater Area",
+  "Mornington Peninsula & District - Greater Area",
+  "Nillumbik Shire - Greater Area",
+  "Port Philip City Council - Greater Area",
+  "Stonnington - Greater Area",
+  "Whitehorse City Council - Greater Area",
+  "Whittlesea City Council - Greater Area",
+  "Wyndham City Council - Greater Area",
+  "Yarra City Council - Greater Area",
+  "Yarra Ranges Shire - Greater Area",
+].map do |name|
+  {
+    "state": "VIC",
+    "area": name,
+  }
+end
+
 query = File.open(input) { |file| JSON.load(file) }
-response = post(query)
 File.open(output, 'w') do |file|
-  handle_response(response, query:, output: file)
+  areas.each_slice(2) do |areas|
+    query['locations'] = areas
+
+    response = post(query)
+    handle_response(response, query:, output: file)
+  end
 end
