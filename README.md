@@ -1,6 +1,8 @@
 treehouse
 =========
 
+Demo: https://www.youtube.com/embed/p5P-6QIgP9I
+
 Finding a place to live with QGIS.
 
 The Idea
