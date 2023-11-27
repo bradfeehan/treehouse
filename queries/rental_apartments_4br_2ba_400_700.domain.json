@@ -17,6 +17,5 @@
             "region": "Melbourne Region"
         }
     ],
-    "excludePriceWithheld": true,
     "excludeDepositTaken": true
 }
