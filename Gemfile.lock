@@ -14,9 +14,9 @@ GIT
 GEM
   remote: https://gem.fury.io/sorbet-multiarch/
   specs:
-    sorbet-static (0.5.11218-aarch64-linux)
-    sorbet-static (0.5.11218-universal-darwin)
-    sorbet-static (0.5.11218-x86_64-linux)
+    sorbet-static (0.5.11226-aarch64-linux)
+    sorbet-static (0.5.11226-universal-darwin)
+    sorbet-static (0.5.11226-x86_64-linux)
 
 GEM
   remote: https://rubygems.org/
@@ -301,12 +301,12 @@ GEM
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
     saxerator (0.9.9)
-    sorbet (0.5.11218)
-      sorbet-static (= 0.5.11218)
-    sorbet-runtime (0.5.11218)
-    sorbet-static-and-runtime (0.5.11218)
-      sorbet (= 0.5.11218)
-      sorbet-runtime (= 0.5.11218)
+    sorbet (0.5.11226)
+      sorbet-static (= 0.5.11226)
+    sorbet-runtime (0.5.11226)
+    sorbet-static-and-runtime (0.5.11226)
+      sorbet (= 0.5.11226)
+      sorbet-runtime (= 0.5.11226)
     spoom (1.2.4)
       erubi (>= 1.10.0)
       sorbet-static-and-runtime (>= 0.5.10187)
