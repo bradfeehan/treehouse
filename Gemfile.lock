@@ -323,7 +323,7 @@ GEM
       rubocop-ast (>= 1.31.1, < 2.0)
     rubocop-rake (0.6.0)
       rubocop (~> 1.0)
-    rubocop-sorbet (0.7.8)
+    rubocop-sorbet (0.8.0)
       rubocop (>= 0.90.0)
     ruby-progressbar (1.13.0)
     saxerator (0.9.9)
