@@ -29,6 +29,6 @@ require 'faker'
 FactoryBot.define do
   factory :price do
     value { 420 }
-    type { MonthlyRent }
+    type { WeeklyRent }
   end
 end

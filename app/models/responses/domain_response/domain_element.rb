@@ -96,7 +96,7 @@ module Responses
       sig { returns(Price) }
       def price
         case listing&.fetch('listingType')&.downcase
-        when 'rent' then MonthlyRent.new(price_attributes)
+        when 'rent' then WeeklyRent.new(price_attributes)
         when 'buy' then SalePrice.new(price_attributes)
         else NullPrice.new
         end

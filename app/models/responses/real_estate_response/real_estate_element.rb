@@ -134,8 +134,8 @@ module Responses
 
       sig { returns(Price) }
       def price
-        # TODO: handle when price should not be of type MonthlyRent
-        MonthlyRent.new(display: @node.fetch('price').fetch('display'))
+        # TODO: handle when price should not be of type WeeklyRent
+        WeeklyRent.new(display: @node.fetch('price').fetch('display'))
       end
 
       sig { returns(String) }
