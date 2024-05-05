@@ -7,6 +7,4 @@ class WeeklyRent < Price
 
   sig { override.returns(T::Boolean) }
   def rent? = true
-
-  # "#{number_to_currency weekly_rent, precision: 0}/wk" if weekly_rent?
 end
