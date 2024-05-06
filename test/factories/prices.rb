@@ -28,7 +28,16 @@ require 'faker'
 
 FactoryBot.define do
   factory :price do
-    value { 420 }
-    type { WeeklyRent }
+    trait :weekly_rent do
+      type { WeeklyRent }
+      value { 420 }
+      listing { association(:listing, price: instance) }
+    end
+
+    trait :sale_price do
+      type { SalePrice }
+      value { 420_000 }
+      listing { association(:listing, price: instance) }
+    end
   end
 end

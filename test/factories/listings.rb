@@ -35,7 +35,6 @@ FactoryBot.define do
     bedroom_count { 2 }
     bathroom_count { 1 }
     carpark_count { 1 }
-    price_attributes { attributes_for(:price) }
 
     last_seen_at { Time.current }
 
