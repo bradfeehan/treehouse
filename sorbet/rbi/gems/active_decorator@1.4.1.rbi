@@ -102,3 +102,28 @@ end
 
 # source://active_decorator//lib/active_decorator/version.rb#4
 ActiveDecorator::VERSION = T.let(T.unsafe(nil), String)
+
+# source://active_decorator//lib/active_decorator/view_context.rb#5
+module ActiveDecorator::ViewContext
+  class << self
+    # source://active_decorator//lib/active_decorator/view_context.rb#7
+    def current; end
+
+    # source://active_decorator//lib/active_decorator/view_context.rb#15
+    def pop; end
+
+    # source://active_decorator//lib/active_decorator/view_context.rb#11
+    def push(view_context); end
+
+    # source://active_decorator//lib/active_decorator/view_context.rb#23
+    def run_with(view_context); end
+
+    # source://active_decorator//lib/active_decorator/view_context.rb#19
+    def view_context_stack; end
+  end
+end
+
+# source://active_decorator//lib/active_decorator/view_context.rb#31
+module ActiveDecorator::ViewContext::Filter
+  extend ::ActiveSupport::Concern
+end
