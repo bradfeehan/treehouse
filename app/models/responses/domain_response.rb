@@ -37,7 +37,7 @@ module Responses
         Parse.new(
           parseable: element.to_listing,
           response_page_element: page.elements
-            .create_with(external_id: element.external_id)
+            .create_with(external_id: element.external_id, url: element.url)
             .find_or_initialize_by(index:),
         )
       end

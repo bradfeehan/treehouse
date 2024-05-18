@@ -30,6 +30,8 @@ class Listing < ApplicationRecord
   include Admin::Listing
   include Parseable
 
+  delegate :url, to: 'last_parsed_response_element', allow_nil: true
+
   has_one :address, as: :addressable, dependent: :destroy
   has_many :geocodes, as: :target, dependent: :destroy
   has_many :images, dependent: :destroy, inverse_of: :listing
@@ -51,5 +53,10 @@ class Listing < ApplicationRecord
       existing = geocodes.map(&:coordinates)
       geocodes.build(attributes) unless existing.any?(attributes.values_at(:latitude, :longitude))
     end
+  end
+
+  sig { returns(T.nilable(ResponsePageElement)) }
+  def last_parsed_response_element
+    response_page_elements.order(id: :desc).first
   end
 end

@@ -37,6 +37,9 @@ module Responses
       sig { returns(T.nilable(String)) }
       def external_id = "domain-#{listing&.fetch('id')}"
 
+      sig { returns(T.nilable(String)) }
+      def url = "https://www.domain.com.au/#{slug}"
+
       private
 
       # TODO: add headline

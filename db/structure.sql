@@ -508,7 +508,8 @@ CREATE TABLE public.response_page_elements (
     index integer NOT NULL,
     external_id character varying,
     created_at timestamp(6) without time zone NOT NULL,
-    updated_at timestamp(6) without time zone NOT NULL
+    updated_at timestamp(6) without time zone NOT NULL,
+    url character varying
 );
 
 
@@ -1176,6 +1177,7 @@ ALTER TABLE ONLY public.prices
 SET search_path TO "$user", public;
 
 INSERT INTO "schema_migrations" (version) VALUES
+('20240518085340'),
 ('20240504233523'),
 ('20240504232854'),
 ('20240331131817'),

@@ -37,9 +37,10 @@ module Responses
       end
 
       sig { returns(T.nilable(String)) }
-      def external_id
-        "rea-#{@node.fetch('id')}"
-      end
+      def external_id = "rea-#{@node.fetch('id')}"
+
+      sig { returns(T.nilable(String)) }
+      def url = "https://www.realestate.com.au/#{slug}"
 
       private
 
