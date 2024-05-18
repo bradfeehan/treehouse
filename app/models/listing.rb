@@ -55,6 +55,11 @@ class Listing < ApplicationRecord
     end
   end
 
+  sig { returns(T.nilable(Geocode)) }
+  def last_geocode
+    geocodes.order(id: :desc).first
+  end
+
   sig { returns(T.nilable(ResponsePageElement)) }
   def last_parsed_response_element
     response_page_elements.order(id: :desc).first

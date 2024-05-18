@@ -1,2 +1,35 @@
-<div id="<%= dom_id listing %>">
-</div>
+<article id="<%= dom_id listing %>">
+  <div>
+    <%= image_tag listing.image_url, class: 'aspect-1.5 max-h-120' if listing.image? %>
+  </div>
+
+  <h1><%= link_to render(listing.address || {plain: '[unknown address]'}), listing.url %></h1>
+
+  <div>
+    <span class="items-center">
+      <i class="fas fa-bed"></i><%= listing.bedroom_count %>
+      <i class="fas fa-bath"></i><%= listing.bathroom_count %>
+      <i class="fas fa-car"></i><%= listing.carpark_count %>
+    </span>
+
+    --
+
+    <span><%= render listing.price %></span>
+  </div>
+
+  <p><%= listing.description %></p>
+
+  <% if listing.geocodes.empty? %>
+    <p>[no location]</p>
+  <% else %>
+    <script async src="https://maps.googleapis.com/maps/api/js?key=<%= ENV.fetch('GOOGLE_MAPS_API_KEY') %>&callback=console.debug&libraries=maps,marker&v=beta"></script>
+    <gmp-map center="<%= listing.last_geocode.latitude %>,<%= listing.last_geocode.longitude %>" zoom="15" map-id="listing_map" class="h-64">
+      <gmp-advanced-marker position="<%= listing.last_geocode.latitude %>,<%= listing.last_geocode.longitude %>" title="Location"></gmp-advanced-marker>
+    </gmp-map>
+  <% end %>
+
+  <% listing.images.each do |image| -%>
+    <%- next if image.url == listing.image_url -%>
+    <%- concat image_tag image.url, class: 'aspect-1.5 max-h-64 inline' -%>
+  <%- end %>
+</article>
