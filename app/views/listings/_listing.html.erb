@@ -22,7 +22,7 @@
   <% if listing.geocodes.empty? %>
     <p>[no location]</p>
   <% else %>
-    <script async src="https://maps.googleapis.com/maps/api/js?key=<%= ENV.fetch('GOOGLE_MAPS_API_KEY') %>&callback=console.debug&libraries=maps,marker&v=beta"></script>
+    <script async src="https://maps.googleapis.com/maps/api/js?key=<%= ENV.fetch('GOOGLE_MAPS_API_KEY', 'GOOGLE_MAPS_API_KEY') %>&callback=console.debug&libraries=maps,marker&v=beta"></script>
     <gmp-map center="<%= listing.last_geocode.latitude %>,<%= listing.last_geocode.longitude %>" zoom="15" map-id="listing_map" class="h-64">
       <gmp-advanced-marker position="<%= listing.last_geocode.latitude %>,<%= listing.last_geocode.longitude %>" title="Location"></gmp-advanced-marker>
     </gmp-map>
