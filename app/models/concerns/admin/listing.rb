@@ -18,7 +18,7 @@ module Admin
           response_pages
           response_page_elements
         ].each do |field_name|
-          configure(field_name) { eager_load? true }
+          configure(field_name) { eager_load true }
         end
 
         list do
