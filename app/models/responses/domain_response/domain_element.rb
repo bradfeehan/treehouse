@@ -115,10 +115,10 @@ module Responses
       def slug = listing&.fetch('listingSlug')
 
       sig { returns(T.nilable(DateTime)) }
-      def listed_at = try_date_parse listing&.fetch('dateListed')
+      def listed_at = try_date_parse listing&.fetch('dateListed', nil)
 
       sig { returns(T.nilable(DateTime)) }
-      def available_at = try_date_parse listing&.fetch('dateAvailable')
+      def available_at = try_date_parse listing&.fetch('dateAvailable', nil)
 
       sig { returns(T::Array[T::Hash[Symbol, T.untyped]]) }
       def images_attributes
