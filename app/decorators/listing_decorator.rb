@@ -30,4 +30,23 @@ module ListingDecorator
   def price
     super || NullPrice.new
   end
+
+  sig { returns(String) }
+  def bedroom_count = format_count(super)
+
+  sig { returns(String) }
+  def bathroom_count = format_count(super)
+
+  sig { returns(String) }
+  def carpark_count = format_count(super)
+
+  private
+
+  sig { params(count: Numeric).returns(String) }
+  def format_count(count)
+    return '-' if count.zero?
+    return count.round(0).to_s if count == count.to_i
+
+    count.round(1).to_s
+  end
 end
