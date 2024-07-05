@@ -5,7 +5,7 @@
 
 app = 'treehouse'
 primary_region = 'syd'
-console_command = '/rails/bin/rails console'
+console_command = '/app/bin/rails console'
 
 [env]
   APP_HOST = 'treehouse.fly.dev'
