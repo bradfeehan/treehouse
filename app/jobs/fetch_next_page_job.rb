@@ -5,7 +5,14 @@
 class FetchNextPageJob < ApplicationJob
   extend T::Sig
 
-  queue_as :default
+  queue_as do
+    case Array(arguments).last&.fetch(:page)&.query&.queryable
+    when Queries::DomainQuery then :api_domain
+    when Queries::RealEstateQuery then :api_realestate
+    when Queries::OverpassQuery then :api_overpass
+    else :default
+    end
+  end
 
   sig { params(page: ResponsePage).void }
   def perform(page:)

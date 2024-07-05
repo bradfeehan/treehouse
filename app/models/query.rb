@@ -42,4 +42,9 @@ class Query < ApplicationRecord
   def build_response
     responses.build(type: queryable.response_type) if queryable.present?
   end
+
+  sig { returns(T.nilable(Response[T.untyped, T.untyped])) }
+  def last_response
+    responses.order(id: :desc).first
+  end
 end
