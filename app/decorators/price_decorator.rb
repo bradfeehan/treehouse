@@ -1,7 +1,8 @@
 # typed: strict
 # frozen_string_literal: true
 
-# Presentation logic for Address model
+# Presentation logic for WeeklyRent model
+# TODO: The rent-specific stuff should be extracted, at the moment sale prices aren't implemented
 module PriceDecorator
   extend T::Helpers
   extend T::Sig
