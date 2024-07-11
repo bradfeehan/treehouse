@@ -1,7 +1,7 @@
 <p class="text-emerald-500"><%= notice %></p>
-<h1><%= @heading.presence || 'Listings' %></h1>
+<h1 class="text-4xl font-bold mb-6"><%= @heading.presence || 'Listings' %></h1>
 
-<section id="listings" class="grid md:grid-cols-3 gap-6">
+<section id="listings" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
   <% @listings.each do |listing| %>
     <%= render partial: 'listings/tile', locals: { listing: } %>
   <% end %>
