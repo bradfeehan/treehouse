@@ -51,3 +51,7 @@
 [tools]
 erlang = '28.0.1'
 elixir = "1.18.4-otp-28"
+shellcheck = "latest"
+actionlint = "latest"
+hadolint = "latest"
+yamllint = "latest"

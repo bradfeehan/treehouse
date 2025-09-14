@@ -1,0 +1,10 @@
+---
+extends: default
+ignore: |
+  /pnpm-lock.yaml
+  /node_modules/
+  /vendor/
+rules:
+  line-length:
+    max: 112
+  comments: disable

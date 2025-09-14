@@ -1,0 +1,134 @@
+---
+name: Lint
+"on": push
+
+permissions:
+  contents: read
+
+jobs:
+  mix:
+    name: Mix
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jdx/mise-action@v3.2.0
+      - uses: 'ex-actions/setup-mix@main'
+      - run: mix format --check-formatted
+      - run: mix deps.unlock --check-unused
+      - run: mix credo diff --from-git-merge-base origin/main
+
+      # Cache key based on Erlang/Elixir version and the mix.lock hash
+      - name: Restore PLT cache
+        id: plt_cache
+        uses: actions/cache/restore@v3
+        with:
+          key: |
+            plt-${{ runner.os }}-28.0.1-1.18.4-${{ hashFiles('**/mix.lock') }}
+          restore-keys: |
+            plt-${{ runner.os }}-28.0.1-1.18.4-
+          path: |
+            priv/plts
+
+      # Create PLTs if no cache was found
+      - name: Create PLTs
+        if: steps.plt_cache.outputs.cache-hit != 'true'
+        run: mix dialyzer --plt
+
+      # By default, the GitHub Cache action will only save the cache if all steps in the job succeed,
+      # so we separate the cache restore and save steps in case running dialyzer fails.
+      - name: Save PLT cache
+        id: plt_cache_save
+        uses: actions/cache/save@v3
+        if: steps.plt_cache.outputs.cache-hit != 'true'
+        with:
+          key: |
+            plt-${{ runner.os }}-28.0.1-1.18.4-${{ hashFiles('**/mix.lock') }}
+          path: |
+            priv/plts
+
+      - name: Run dialyzer
+        # Two formats are included for ease of debugging and it is lightly recommended to use both,
+        # see https://github.com/jeremyjh/dialyxir/issues/530 for reasoning
+        # --format github is helpful to print the warnings in a way that GitHub understands
+        # and can place on the /files page of a PR
+        # --format dialyxir allows the raw GitHub actions logs to be useful because the
+        # have the full warning printed
+        run: mix dialyzer --format github --format dialyxir
+
+  actionlint:
+    name: GitHub Actions
+    runs-on: ubuntu-latest
+    env:
+      REPO: https://github.com/rhysd/actionlint
+      VERSION: 1.6.25
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup actionlint
+        # yamllint disable rule:line-length
+        run: |
+          set -euo pipefail && \
+          echo "::add-matcher::.github/matchers/actionlint.json" && \
+          echo "Downloading '${REPO}/releases/download/v${VERSION}/actionlint_${VERSION}_linux_amd64.tar.gz'..."
+          curl -L "${REPO}/releases/download/v${VERSION}/actionlint_${VERSION}_linux_amd64.tar.gz" \
+          | tar xz -C '/usr/local/bin' && \
+          echo "actionlint -version:" &&
+          actionlint -version
+        # yamllint enable rule:line-length
+
+      - run: actionlint -color
+
+  filenames:
+    name: File names
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+    steps:
+      - uses: actions/checkout@v4
+      - run: bin/filename-check
+
+  # hadolint:
+  #   name: Hadolint
+  #   runs-on: ubuntu-latest
+  #   timeout-minutes: 1
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #     - uses: hadolint/hadolint-action@v3.1.0
+
+  json-schema:
+    name: JSON Schema
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+    steps:
+      - uses: actions/checkout@v4
+      - run: npm install -g v8r
+      - run: v8r
+
+  # stylelint:
+  #   name: Stylelint
+  #   runs-on: ubuntu-latest
+  #   timeout-minutes: 1
+  #   steps:
+  #     - uses: actions/checkout@v4
+  #     - uses: ruby/setup-ruby@v1
+  #     - name: Set up scss-lint
+  #       run: |
+  #         npm install --global stylelint stylelint-config-standard-scss
+  #         echo "::add-matcher::.github/matchers/stylelint.json"
+  #     - run: stylelint "**/*.css" "**/*.scss"
+
+  shellcheck:
+    name: ShellCheck
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ludeeus/action-shellcheck@2.0.0
+
+  yamllint:
+    name: YAMLlint
+    runs-on: ubuntu-latest
+    timeout-minutes: 1
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ibiqlik/action-yamllint@v3
