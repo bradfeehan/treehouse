@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "tidewave": {
+            "command": "/Users/bradfeehan/Code/bradfeehan/treehouse.elixir/.cursor/tidewave-mcp-proxy",
+            "args": [
+                "http://localhost:4000/tidewave/mcp"
+            ]
+        }
+    }
+}
