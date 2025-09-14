@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: jdx/mise-action@v3.2.0
       - uses: 'ex-actions/setup-mix@main'
       - run: mix format --check-formatted
@@ -63,7 +63,7 @@ jobs:
       REPO: https://github.com/rhysd/actionlint
       VERSION: 1.6.25
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Setup actionlint
         # yamllint disable rule:line-length
@@ -84,7 +84,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 1
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: bin/filename-check
 
   # hadolint:
@@ -92,7 +92,7 @@ jobs:
   #   runs-on: ubuntu-latest
   #   timeout-minutes: 1
   #   steps:
-  #     - uses: actions/checkout@v4
+  #     - uses: actions/checkout@v5
   #     - uses: hadolint/hadolint-action@v3.1.0
 
   json-schema:
@@ -100,7 +100,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 1
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - run: npm install -g v8r
       - run: v8r
 
@@ -109,7 +109,7 @@ jobs:
   #   runs-on: ubuntu-latest
   #   timeout-minutes: 1
   #   steps:
-  #     - uses: actions/checkout@v4
+  #     - uses: actions/checkout@v5
   #     - uses: ruby/setup-ruby@v1
   #     - name: Set up scss-lint
   #       run: |
@@ -122,7 +122,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 1
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: ludeeus/action-shellcheck@2.0.0
 
   yamllint:
@@ -130,5 +130,5 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 1
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - uses: ibiqlik/action-yamllint@v3
