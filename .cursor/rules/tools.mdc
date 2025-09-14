@@ -1,0 +1,26 @@
+---
+description: Describes available tools (Tidewave)
+globs:
+alwaysApply: true
+---
+
+## Tool Use
+
+There are a few tools available that can be invoked as necessary. Don't be afraid to use them anytime.
+
+### Tidewave
+
+Tidewave lets you interact directly with the running Phoenix app.
+
+- `get_logs` retrieves recent logs from the running server
+- `get_source_location` determines which file a module or function lives in
+- `get_package_location` determines where a dependency package lives on disk
+- `project_eval` allows evaluating Elixir code in the server, including `h` helper
+- `execute_sql_query` allows running arbitrary SQL queries against the database
+- `get_ecto_schemas` reports on the database schema as seen by Ecto in the server
+- `list_liveview_pages` lists all currently connected Phoenix LiveViews
+
+There's also tools to search for documentation:
+
+- `get_docs` shows help text for modules and functions, including for dependencies
+- `search_package_docs` searches Hex documentation for packages in dependencies
