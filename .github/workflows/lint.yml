@@ -21,7 +21,7 @@ jobs:
       # Cache key based on Erlang/Elixir version and the mix.lock hash
       - name: Restore PLT cache
         id: plt_cache
-        uses: actions/cache/restore@v3
+        uses: actions/cache/restore@v4
         with:
           key: |
             plt-${{ runner.os }}-28.0.1-1.18.4-${{ hashFiles('**/mix.lock') }}
@@ -39,7 +39,7 @@ jobs:
       # so we separate the cache restore and save steps in case running dialyzer fails.
       - name: Save PLT cache
         id: plt_cache_save
-        uses: actions/cache/save@v3
+        uses: actions/cache/save@v4
         if: steps.plt_cache.outputs.cache-hit != 'true'
         with:
           key: |
