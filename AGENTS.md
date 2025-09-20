@@ -256,6 +256,13 @@ end
 - `mix phx.server` - Start development server (note: always check if it's already running, by accessing localhost:4000 either by curl or browser)
 - `mix test` - Run tests
 - `mix quality` - Run formatter, Credo, and Dialyzer
+- `mix precommit` - Compile with warnings as errors, format, Credo, Dialyzer, and test with warnings as errors.
+
+Troubleshooting:
+
+- `curl http://localhost:4000/` to check if the server is responding
+- `lsof -i :4000` to determine if there is a process listening on port 4000
+- `lsof -t -i :4000 | xargs -n1 kill` to send it SIGTERM and shut it down
 
 ### Database
 - `mix ecto.create` - Create database
