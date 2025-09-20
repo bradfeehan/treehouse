@@ -6,7 +6,12 @@ alwaysApply: true
 
 ## Tool Use
 
-There are a few tools available that can be invoked as necessary. Don't be afraid to use them anytime.
+There are a few tools available that can be invoked as necessary. Our work may involve significant numbers of repetitive and similar tool calls, or it could involve a wide variety of different tool calls, depending on the job we are tasked with.
+Don't be afraid to use them anytime: there's no additional costs or risks involved, and this is how we get work done.
+By using these tools, you can act autonomously to gather information before making decisions, to inform the choice.
+If you get too many errors or failures with tool calls, and have tried a few workarounds, stop and ask the user.
+Even if in agent mode and trying to get a job done autonomously -- if the tools are failing, we should get advice.
+The following is just what is provided by this codebase in particular. Other tools may be provided by the particular users' environment.
 
 ### Tidewave
 
