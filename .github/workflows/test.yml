@@ -30,7 +30,7 @@ jobs:
           --health-retries 5
     steps:
       - uses: actions/checkout@v4
-      - uses: jdx/mise-action@v3.2.0
+      - uses: jdx/mise-action@v3.5.1
       - uses: 'ex-actions/setup-mix@main'
       - run: mix ecto.create
       - run: mix ecto.migrate
